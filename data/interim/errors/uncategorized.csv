@@ -1,0 +1,7 @@
+,id,week,offense,offense_conference,defense,defense_conference,offense_score,defense_score,drive_id,period,clock.minutes,clock.seconds,yard_line,down,distance,yards_gained,play_type,play_text,home_team,away_team,neutral_site,conference_game,home_score,away_score
+54756,401012752,5,UCLA,Pac-12,Colorado,Pac-12,13,14,40101275212,3,12,37,20,1,10,-3,Uncategorized,"Boss Tagaloa fumbled,  Joshua Kelley run for a loss of 3 yards to the Colo 23",Colorado,UCLA,False,True,14,13
+62954,401021668,5,Louisiana Monroe,Sun Belt,Georgia State,Sun Belt,0,7,4010216682,1,11,55,38,2,3,10,Uncategorized,Victor Heyward return for 10 yds to the GeoSt 40,Georgia State,Louisiana Monroe,False,True,7,0
+85110,401012770,8,USC,Pac-12,Utah,Pac-12,14,34,40101277022,3,3,0,69,2,10,5,Uncategorized,"JT Daniels fumbled,  Vavae Malepeai run for 5 yds to the USC 36",Utah,USC,False,True,34,14
+127565,401012792,12,Utah,Pac-12,Colorado,Pac-12,27,7,40101279224,4,9,0,35,1,10,0,Uncategorized,"Jason Shelley fumbled,  Devin Brumfield run for no gain to the Colo 35",Colorado,Utah,False,True,7,27
+136941,401022564,12,Hawai'i,Mountain West,UNLV,Mountain West,0,0,4010225641,1,15,0,68,1,10,2,Uncategorized,"Dayton Furuta fumbled,  Cole McDonald run for 2 yds to the UNLV 30",Hawai'i,UNLV,False,True,0,0
+138817,401012797,13,Oregon State,Pac-12,Oregon,Pac-12,0,21,4010127979,2,11,6,97,2,3,10,Uncategorized,"Nick Pickett return for no gain OREGON Penalty, unsportsmanlike conduct (Nick Pickett)",Oregon State,Oregon,False,True,0,21

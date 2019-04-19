@@ -1,0 +1,149 @@
+id,offense,offense_conference,defense,defense_conference,offense_score,defense_score,drive_id,period,clock.minutes,clock.seconds,yard_line,down,distance,yards_gained,play_type,play_text
+401013376101876501,Army,FBS Independents,Navy,American Athletic,7,0,4010133761,1,12,34,90,1,10,10,Rushing Touchdown,Kelvin Hopkins Jr. run for 10 yds for a TD (John Abercrombie KICK)
+401013376101868601,Army,FBS Independents,Navy,American Athletic,0,0,4010133761,1,13,13,39,1,10,51,Rush,Kell Walker run for 51 yds to the Navy 10 for a 1ST down
+401013376101865401,Army,FBS Independents,Navy,American Athletic,0,0,4010133761,1,13,45,22,3,6,17,Pass Reception,Kelvin Hopkins Jr. pass complete to Glen Coates for 17 yds to the Army 39 for a 1ST down
+401013376101858901,Army,FBS Independents,Navy,American Athletic,0,0,4010133761,1,14,10,20,2,8,2,Rush,Darnell Woolfolk run for 2 yds to the Army 22
+401013376101857401,Army,FBS Independents,Navy,American Athletic,0,0,4010133761,1,14,25,18,1,10,2,Rush,Darnell Woolfolk run for 2 yds to the Army 20
+401013376101849902,Navy,American Athletic,Army,FBS Independents,0,0,4010133761,1,15,,65,1,10,15,Kickoff,"Bennett Moehring kickoff for 62 yds , Sandon McCoy return for 15 yds to the Army 18"
+401013376101887901,Navy,American Athletic,Army,FBS Independents,0,7,4010133762,1,11,20,65,3,5,15,Penalty,"ARMY Penalty, Defensive Pass Interference (Kenneth Brinson) to the 50 yard line for a 1ST down"
+401013376101877901,Navy,American Athletic,Army,FBS Independents,0,7,4010133762,1,12,20,70,1,10,1,Rush,Nelson Smith run for 1 yd to the Navy 31
+401013376101885401,Navy,American Athletic,Army,FBS Independents,0,7,4010133762,1,11,45,69,2,9,4,Rush,Nelson Smith run for 4 yds to the Navy 35
+401013376101907501,Navy,American Athletic,Army,FBS Independents,0,7,4010133762,1,9,24,55,4,15,0,Punt,"Owen White punt for 32 yds, downed at the Army 23"
+401013376101906602,Navy,American Athletic,Army,FBS Independents,0,7,4010133762,1,9,33,50,4,10,-5,Penalty,"NAVY Penalty, False Start (Travis Brannan) to the Navy 45"
+401013376101906601,Navy,American Athletic,Army,FBS Independents,0,7,4010133762,1,9,33,50,3,10,0,Pass Incompletion,Zach Abey pass incomplete to Taylor Jackson
+401013376101898901,Navy,American Athletic,Army,FBS Independents,0,7,4010133762,1,10,10,49,2,9,-1,Rush,Tre Walker run for a loss of 1 yard to the 50 yard line
+401013376101894901,Navy,American Athletic,Army,FBS Independents,0,7,4010133762,1,10,50,50,1,10,1,Rush,Zach Abey run for 1 yd to the Army 49
+401013376101876503,Army,FBS Independents,Navy,American Athletic,7,0,4010133762,1,12,34,35,1,10,16,Kickoff,"Landon Salyers kickoff for 51 yds , Malcolm Perry return for 16 yds to the Navy 30"
+401013376101919901,Army,FBS Independents,Navy,American Athletic,7,0,4010133763,1,8,,27,3,6,2,Rush,Jordan Asberry run for 2 yds to the Army 29
+401013376101916401,Army,FBS Independents,Navy,American Athletic,7,0,4010133763,1,8,35,25,2,8,2,Rush,Kell Walker run for 2 yds to the Army 27
+401013376101908401,Army,FBS Independents,Navy,American Athletic,7,0,4010133763,1,9,15,23,1,10,2,Rush,Andy Davidson run for 2 yds to the Army 25
+401013376101927801,Army,FBS Independents,Navy,American Athletic,7,0,4010133763,1,7,21,29,4,4,0,Punt,"Nick Schrage punt for 36 yds, fair catch by Jacob Springer at the Navy 35"
+401013376101954402,Navy,American Athletic,Army,FBS Independents,0,7,4010133764,1,4,55,51,2,8,0,Rush,Malcolm Perry run for no gain to the Navy 49
+401013376101946902,Navy,American Athletic,Army,FBS Independents,0,7,4010133764,1,5,30,53,1,10,2,Rush,Nelson Smith run for 2 yds to the Navy 49
+401013376101958101,Navy,American Athletic,Army,FBS Independents,0,7,4010133764,1,4,18,51,3,8,11,Pass Interception Return,Zach Abey pass intercepted Jaylon McClinton return for 11 yds to the Army 33
+401013376101936701,Navy,American Athletic,Army,FBS Independents,0,7,4010133764,1,6,32,64,2,9,0,Pass Incompletion,Zach Abey pass incomplete to Malcolm Perry
+401013376101945202,Navy,American Athletic,Army,FBS Independents,0,7,4010133764,1,5,47,58,4,3,5,Penalty,"ARMY Penalty, Running Into Kicker (Christian Anderson) to the Navy 47 for a 1ST down"
+401013376101929101,Navy,American Athletic,Army,FBS Independents,0,7,4010133764,1,7,8,65,1,10,1,Rush,Malcolm Perry run for 1 yd to the Navy 36
+401013376101938401,Navy,American Athletic,Army,FBS Independents,0,7,4010133764,1,6,15,64,3,9,6,Rush,Anthony Gargiulo run for 6 yds to the Navy 42
+401013376101956902,Navy,American Athletic,Army,FBS Independents,0,7,4010133764,1,4,30,51,3,8,0,Timeout,"Timeout NAVY, clock 04:30"
+401013376102884101,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,2,11,58,84,3,9,0,Pass Incompletion,Kelvin Hopkins Jr. pass incomplete to Jordan Asberry
+401013376101958901,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,1,4,10,33,1,10,-2,Rush,Kelvin Hopkins Jr. run for a loss of 2 yards to the Army 31
+401013376101966601,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,1,3,33,31,2,12,0,Pass Incompletion,Kelvin Hopkins Jr. pass incomplete to Kell Walker
+401013376101968401,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,1,3,15,31,3,12,25,Pass Reception,Kelvin Hopkins Jr. pass complete to Kell Walker for 25 yds to the Navy 44 for a 1ST down
+401013376101975801,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,1,2,41,56,1,10,0,Rush,Kelvin Hopkins Jr. run for no gain to the Navy 44
+401013376101979901,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,1,2,,56,2,10,3,Rush,Kelvin Hopkins Jr. run for 3 yds to the Navy 41
+401013376101988901,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,1,1,10,59,3,7,6,Rush,Kelvin Hopkins Jr. run for 6 yds to the Navy 35
+401013376101996401,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,1,,35,65,4,1,3,Rush,Darnell Woolfolk run for 3 yds to the Navy 32 for a 1ST down
+401013376101996402,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,1,,,0,0,1,0,End Period,End of 1st Quarter
+401013376102854401,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,2,14,55,68,1,10,2,Rush,Darnell Woolfolk run for 2 yds to the Navy 30
+401013376102858301,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,2,14,16,70,2,8,0,Pass Incompletion,Kelvin Hopkins Jr. pass incomplete to Christian Hayes
+401013376102859901,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,2,14,,70,3,8,13,Rush,Kelvin Hopkins Jr. run for 13 yds to the Navy 17 for a 1ST down
+401013376102867401,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,2,13,25,83,1,10,1,Rush,Kelvin Hopkins Jr. run for 1 yd to the Navy 16
+401013376102875901,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,2,12,40,84,2,9,0,Rush,Kell Walker run for no gain to the Navy 16
+401013376102884601,Army,FBS Independents,Navy,American Athletic,7,0,4010133765,2,11,53,84,4,9,33,Field Goal Missed,John Abercrombie 33 yd FG MISSED
+401013376102898401,Navy,American Athletic,Army,FBS Independents,0,7,4010133766,2,10,15,77,3,7,4,Rush,Zach Abey run for 4 yds to the Navy 27
+401013376102896901,Navy,American Athletic,Army,FBS Independents,0,7,4010133766,2,10,30,77,3,7,0,Timeout,"Timeout NAVY, clock 10:30"
+401013376102905701,Navy,American Athletic,Army,FBS Independents,0,7,4010133766,2,9,42,73,4,3,1,Punt,"Owen White punt for 43 yds , Mike Reynolds returns for 1 yd to the Army 31"
+401013376102889401,Navy,American Athletic,Army,FBS Independents,0,7,4010133766,2,11,5,78,2,8,1,Rush,Anthony Gargiulo run for 1 yd to the Navy 23
+401013376102885901,Navy,American Athletic,Army,FBS Independents,0,7,4010133766,2,11,40,80,1,10,2,Rush,Nelson Smith run for 2 yds to the Navy 22
+401013376102924401,Army,FBS Independents,Navy,American Athletic,7,0,4010133767,2,7,55,38,4,3,0,Punt,"Nick Schrage punt for 47 yds, fair catch by Jacob Springer at the Navy 15"
+401013376102906901,Army,FBS Independents,Navy,American Athletic,7,0,4010133767,2,9,30,31,1,10,1,Rush,Darnell Woolfolk run for 1 yd to the Army 32
+401013376102914501,Army,FBS Independents,Navy,American Athletic,7,0,4010133767,2,8,54,32,2,9,0,Timeout,"Timeout ARMY, clock 08:54"
+401013376102915101,Army,FBS Independents,Navy,American Athletic,7,0,4010133767,2,8,48,32,2,9,0,Pass Incompletion,Kelvin Hopkins Jr. pass incomplete to Akyah Miranda
+401013376102916901,Army,FBS Independents,Navy,American Athletic,7,0,4010133767,2,8,30,32,3,9,6,Rush,Kelvin Hopkins Jr. run for 6 yds to the Army 38
+401013376102944901,Navy,American Athletic,Army,FBS Independents,0,7,4010133768,2,5,50,67,2,6,-5,Rush,Mychal Cooper run for a loss of 5 yards to the Navy 28
+401013376102949601,Navy,American Athletic,Army,FBS Independents,0,7,4010133768,2,5,3,72,3,11,0,Pass Incompletion,Zach Abey pass incomplete to Taylor Jackson
+401013376102954701,Navy,American Athletic,Army,FBS Independents,0,7,4010133768,2,4,52,72,4,11,3,Punt,"Owen White punt for 40 yds , Mike Reynolds returns for 3 yds to the Army 35"
+401013376102936901,Navy,American Athletic,Army,FBS Independents,0,7,4010133768,2,6,30,71,1,10,4,Rush,Anthony Gargiulo run for 4 yds to the Navy 33
+401013376102928501,Navy,American Athletic,Army,FBS Independents,0,7,4010133768,2,7,14,81,2,6,5,Penalty,"ARMY Penalty, Defensive Offside (Cole Christiansen) to the Navy 24"
+401013376102925401,Navy,American Athletic,Army,FBS Independents,0,7,4010133768,2,7,45,85,1,10,4,Rush,Zach Abey run for 4 yds to the Navy 19
+401013376102929401,Navy,American Athletic,Army,FBS Independents,0,7,4010133768,2,7,5,76,2,1,5,Rush,Tre Walker run for 5 yds to the Navy 29 for a 1ST down
+401013376102974901,Army,FBS Independents,Navy,American Athletic,7,0,4010133769,2,2,50,68,1,10,1,Rush,Kelvin Hopkins Jr. run for 1 yd to the Navy 31
+401013376102995401,Army,FBS Independents,Navy,American Athletic,7,0,4010133769,2,,45,69,4,9,0,Pass Incompletion,Kelvin Hopkins Jr. pass incomplete to Kell Walker
+401013376102994701,Army,FBS Independents,Navy,American Athletic,7,0,4010133769,2,,52,69,4,9,0,Timeout,"Timeout NAVY, clock 00:52"
+401013376102987401,Army,FBS Independents,Navy,American Athletic,7,0,4010133769,2,1,25,61,3,17,8,Rush,Malik Hancock run for 8 yds to the Navy 31
+401013376102984101,Army,FBS Independents,Navy,American Athletic,7,0,4010133769,2,1,58,69,2,9,-8,Sack,Kelvin Hopkins Jr. sacked by Hudson Sullivan and Nizaire Cromartie for a loss of 8 yards to the Navy 39
+401013376102965901,Army,FBS Independents,Navy,American Athletic,7,0,4010133769,2,3,40,46,1,10,22,Rush,Andy Davidson run for 22 yds to the Navy 32 for a 1ST down
+401013376102958901,Army,FBS Independents,Navy,American Athletic,7,0,4010133769,2,4,10,43,2,2,3,Rush,Darnell Woolfolk run for 3 yds to the Army 46 for a 1ST down
+401013376102956101,Army,FBS Independents,Navy,American Athletic,7,0,4010133769,2,4,38,35,1,10,8,Rush,Darnell Woolfolk run for 8 yds to the Army 43
+401013376102996401,Navy,American Athletic,Army,FBS Independents,0,7,40101337610,2,,35,69,1,10,5,Rush,Anthony Gargiulo run for 5 yds to the Navy 36
+401013376102999402,Navy,American Athletic,Army,FBS Independents,0,7,40101337610,2,,,0,0,5,0,End of Half,End of 2nd Quarter
+401013376102999401,Navy,American Athletic,Army,FBS Independents,0,7,40101337610,2,,5,64,2,5,5,Rush,Anthony Gargiulo run for 5 yds to the Navy 41 for a 1ST down
+401013376103859901,Navy,American Athletic,Army,FBS Independents,0,7,40101337611,3,14,,56,2,8,7,Rush,Anthony Gargiulo run for 7 yds to the Army 49
+401013376103849901,Army,FBS Independents,Navy,American Athletic,7,0,40101337611,3,15,,35,1,10,33,Kickoff,"Landon Salyers kickoff for 56 yds , Malcolm Perry return for 33 yds to the Navy 42"
+401013376103855401,Navy,American Athletic,Army,FBS Independents,0,7,40101337611,3,14,45,58,1,10,2,Rush,Zach Abey run for 2 yds to the Navy 44
+401013376103874701,Navy,American Athletic,Army,FBS Independents,0,7,40101337611,3,12,52,50,4,2,0,Punt,"Owen White punt for 30 yds, punt out-of-bounds at the Army 20"
+401013376103866901,Navy,American Athletic,Army,FBS Independents,0,7,40101337611,3,13,30,49,3,1,-1,Rush,Zach Abey run for a loss of 1 yard to the 50 yard line
+401013376103935901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,6,40,86,1,10,2,Rush,Andy Davidson run for 2 yds to the Navy 12
+401013376103925401,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,7,45,72,1,10,2,Rush,Darnell Woolfolk run for 2 yds to the Navy 26
+401013376103917901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,8,20,61,3,6,11,Rush,Kelvin Hopkins Jr. run for 11 yds to the Navy 28 for a 1ST down
+401013376103875901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,12,40,20,1,10,-1,Rush,Jordan Asberry run for a loss of 1 yard to the Army 19
+401013376103879901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,12,,19,2,11,14,Pass Reception,Kelvin Hopkins Jr. pass complete to Zack Boobas for 14 yds to the Army 33 for a 1ST down
+401013376103886901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,11,30,33,1,10,5,Rush,Darnell Woolfolk run for 5 yds to the Army 38
+401013376103889901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,11,,38,2,5,1,Rush,Kelvin Hopkins Jr. run for 1 yd to the Army 39
+401013376103898401,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,10,15,39,3,4,18,Rush,Darnell Woolfolk run for 18 yds to the Navy 43 for a 1ST down
+401013376103905901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,9,40,57,1,10,2,Rush,Andy Davidson run for 2 yds to the Navy 41
+401013376103914901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,8,50,59,2,8,2,Rush,Andy Davidson run for 2 yds to the Navy 39
+401013376103956601,Army,FBS Independents,Navy,American Athletic,10,0,40101337612,3,4,33,84,4,12,33,Field Goal Good,John Abercrombie 33 yd FG GOOD
+401013376103949901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,5,,84,3,12,0,Rush,Kell Walker run for no gain to the Navy 16
+401013376103945401,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,5,45,88,2,8,-4,Rush,Kelvin Hopkins Jr. run for a loss of 4 yards to the Navy 16
+401013376103929901,Army,FBS Independents,Navy,American Athletic,7,0,40101337612,3,7,,74,2,8,12,Rush,Kelvin Hopkins Jr. run for 12 yds to the Navy 14 for a 1ST down
+401013376103979701,Navy,American Athletic,Army,FBS Independents,0,10,40101337613,3,2,2,64,2,8,-5,Penalty,"NAVY Penalty, False Start (Tazh Maloy) to the Navy 31"
+401013376103969901,Navy,American Athletic,Army,FBS Independents,0,10,40101337613,3,3,,72,3,1,6,Rush,Tre Walker run for 6 yds to the Navy 34 for a 1ST down
+401013376103965901,Navy,American Athletic,Army,FBS Independents,0,10,40101337613,3,3,40,78,2,7,6,Rush,Anthony Gargiulo run for 6 yds to the Navy 28
+401013376103958401,Navy,American Athletic,Army,FBS Independents,0,10,40101337613,3,4,15,81,1,10,3,Rush,Malcolm Perry run for 3 yds to the Navy 22
+401013376103956602,Army,FBS Independents,Navy,American Athletic,10,0,40101337613,3,4,33,35,4,12,15,Kickoff,"Landon Salyers kickoff for 61 yds , Tazh Maloy return for 15 yds to the Navy 19"
+401013376103986201,Navy,American Athletic,Army,FBS Independents,0,10,40101337613,3,1,37,69,2,13,0,Pass Interception Return,Zach Abey pass intercepted Mike Reynolds return for no gain to the Army 49
+401013376103976901,Navy,American Athletic,Army,FBS Independents,0,10,40101337613,3,2,30,66,1,10,2,Rush,Tazh Maloy run for 2 yds to the Navy 36
+401013376103986901,Army,FBS Independents,Navy,American Athletic,10,0,40101337614,3,1,30,49,1,10,3,Rush,Kell Walker run for 3 yds to the Navy 48
+401013376103998101,Army,FBS Independents,Navy,American Athletic,10,0,40101337614,3,,18,56,3,3,1,Rush,Connor Slomka run for 1 yd to the Navy 43
+401013376103989901,Army,FBS Independents,Navy,American Athletic,10,0,40101337614,3,1,,52,2,7,4,Rush,Darnell Woolfolk run for 4 yds to the Navy 44
+401013376104854401,Army,FBS Independents,Navy,American Athletic,10,0,40101337614,4,14,55,57,4,2,1,Rush,Kelvin Hopkins Jr. run for 1 yd to the Navy 42
+401013376103998102,Army,FBS Independents,Navy,American Athletic,10,0,40101337614,3,,,0,0,3,0,End Period,End of 3rd Quarter
+401013376104866901,Navy,American Athletic,Army,FBS Independents,0,10,40101337615,4,13,30,26,1,10,2,Rush,Mike Martin run for 2 yds to the Army 24
+401013376104858704,Navy,American Athletic,Army,FBS Independents,0,10,40101337615,4,14,12,60,2,11,0,Pass Incompletion,Garret Lewis pass incomplete to Taylor Jackson
+401013376104856902,Navy,American Athletic,Army,FBS Independents,0,10,40101337615,4,14,30,59,1,10,-1,Rush,Malcolm Perry run for a loss of 1 yard to the Navy 40
+401013376104889201,Navy,American Athletic,Army,FBS Independents,0,10,40101337615,4,11,7,16,1,10,13,Fumble Recovery (Opponent),"Garret Lewis run for 13 yds to the Army 3 Garret Lewis fumbled, forced by Jaylon McClinton, recovered by Army James Gibson"
+401013376104888501,Navy,American Athletic,Army,FBS Independents,0,10,40101337615,4,11,14,16,1,10,0,Timeout,"Timeout NAVY, clock 11:14"
+401013376104887901,Navy,American Athletic,Army,FBS Independents,0,10,40101337615,4,11,20,17,4,1,1,Rush,Garret Lewis run for 1 yd to the Army 16 for a 1ST down
+401013376104885701,Navy,American Athletic,Army,FBS Independents,0,10,40101337615,4,11,42,23,3,7,6,Rush,Malcolm Perry run for 6 yds to the Army 17
+401013376104874901,Navy,American Athletic,Army,FBS Independents,0,10,40101337615,4,12,50,24,2,8,1,Rush,Garret Lewis run for 1 yd to the Army 23
+401013376104859901,Navy,American Athletic,Army,FBS Independents,0,10,40101337615,4,14,,60,3,11,34,Pass Reception,Garret Lewis pass complete to Keoni-Kordell Makekau for 34 yds to the Army 26 for a 1ST down
+401013376104898901,Army,FBS Independents,Navy,American Athletic,10,0,40101337616,4,10,10,4,2,9,3,Rush,Darnell Woolfolk run for 3 yds to the Army 7
+401013376104894401,Army,FBS Independents,Navy,American Athletic,10,0,40101337616,4,10,55,3,1,10,1,Rush,Andy Davidson run for 1 yd to the Army 4
+401013376104909701,Army,FBS Independents,Navy,American Athletic,10,0,40101337616,4,9,2,12,4,1,4,Punt,"Nick Schrage punt for 40 yds , Jacob Springer returns for 4 yds to the Army 48"
+401013376104906501,Army,FBS Independents,Navy,American Athletic,10,0,40101337616,4,9,34,7,3,6,5,Pass Reception,Kelvin Hopkins Jr. pass complete to Kell Walker for 5 yds to the Army 12
+401013376104914901,Navy,American Athletic,Army,FBS Independents,0,10,40101337617,4,8,50,48,1,10,43,Rush,Malcolm Perry run for 43 yds to the Army 5 for a 1ST down
+401013376104928901,Navy,American Athletic,Army,FBS Independents,7,10,40101337617,4,7,10,1,3,1,1,Rushing Touchdown,Garret Lewis run for 1 yd for a TD (Bennett Moehring KICK)
+401013376104926401,Navy,American Athletic,Army,FBS Independents,0,10,40101337617,4,7,35,1,2,1,0,Rush,Garret Lewis run for no gain to the Army 1
+401013376104918901,Navy,American Athletic,Army,FBS Independents,0,10,40101337617,4,8,10,5,1,5,4,Rush,Anthony Gargiulo run for 4 yds to the Army 1
+401013376104938401,Army,FBS Independents,Navy,American Athletic,10,7,40101337618,4,6,15,39,2,8,3,Rush,Darnell Woolfolk run for 3 yds to the Army 42
+401013376104934401,Army,FBS Independents,Navy,American Athletic,10,7,40101337618,4,6,55,37,1,10,2,Rush,Darnell Woolfolk run for 2 yds to the Army 39
+401013376104928903,Navy,American Athletic,Army,FBS Independents,7,10,40101337618,4,7,10,65,3,6,23,Kickoff,"Bennett Moehring kickoff for 51 yds , Kell Walker return for 23 yds to the Army 37"
+401013376104955301,Army,FBS Independents,Navy,American Athletic,10,7,40101337618,4,4,46,37,4,10,4,Punt,"Nick Schrage punt for 33 yds , Jacob Springer returns for 4 yds to the Navy 34"
+401013376104946901,Army,FBS Independents,Navy,American Athletic,10,7,40101337618,4,5,30,42,3,5,-5,Rush,Kelvin Hopkins Jr. run for a loss of 5 yards to the Army 37
+401013376104969701,Navy,American Athletic,Army,FBS Independents,7,10,40101337619,4,3,2,68,4,12,-10,Sack,"Zach Abey sacked by Kenneth Brinson for a loss of 10 yards to the Navy 22 Zach Abey fumbled, recovered by Army Kenneth Brinson , return for 0 yards"
+401013376104959901,Navy,American Athletic,Army,FBS Independents,7,10,40101337619,4,4,,68,2,12,5,Pass Reception,Garret Lewis pass complete to Malcolm Perry for 5 yds to the Navy 37
+401013376104967201,Navy,American Athletic,Army,FBS Independents,7,10,40101337619,4,3,27,63,3,7,-5,Penalty,"NAVY Penalty, False Start (Peter Nestrowitz) to the Navy 32"
+401013376104956401,Navy,American Athletic,Army,FBS Independents,7,10,40101337619,4,4,35,66,1,10,-2,Rush,Garret Lewis run for a loss of 2 yards to the Navy 32
+401013376104969001,Navy,American Athletic,Army,FBS Independents,7,10,40101337619,4,3,9,68,3,12,0,Pass Incompletion,OJ Davis pass incomplete to Garret Lewis
+401013376104986101,Army,FBS Independents,Navy,American Athletic,10,7,40101337620,4,1,38,98,1,2,1,Rush,Darnell Woolfolk run for 1 yd to the Navy 1
+401013376104986102,Army,FBS Independents,Navy,American Athletic,10,7,40101337620,4,1,38,99,2,0,0,Timeout,"Timeout NAVY, clock 01:38"
+401013376104978401,Army,FBS Independents,Navy,American Athletic,10,7,40101337620,4,2,15,81,2,7,17,Rush,Kelvin Hopkins Jr. run for 17 yds to the Navy 2 for a 1ST down
+401013376104975401,Army,FBS Independents,Navy,American Athletic,10,7,40101337620,4,2,45,78,1,10,3,Rush,Darnell Woolfolk run for 3 yds to the Navy 19
+401013376104987101,Army,FBS Independents,Navy,American Athletic,17,7,40101337620,4,1,28,99,2,1,1,Rushing Touchdown,Kelvin Hopkins Jr. run for 1 yd for a TD (John Abercrombie KICK)
+401013376104986301,Army,FBS Independents,Navy,American Athletic,10,7,40101337620,4,1,36,99,2,1,0,Penalty,"NAVY Penalty, Defensive Offside (Josh Webb) to the Navy 1"
+401013376104997001,Navy,American Athletic,Army,FBS Independents,10,17,40101337621,4,,29,28,4,5,46,Field Goal Good,Bennett Moehring 46 yd FG GOOD
+401013376104996501,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,,34,33,3,10,5,Rush,Myles Fells run for 5 yds to the Army 28
+401013376104987104,Army,FBS Independents,Navy,American Athletic,17,7,40101337621,4,1,28,50,2,-6,0,Kickoff,Landon Salyers kickoff for 50 yds for a touchback
+401013376104995501,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,,44,33,2,10,0,Pass Incompletion,Garret Lewis pass incomplete to Ryan Mitchell
+401013376104995101,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,,48,33,1,10,0,Pass Incompletion,Garret Lewis pass incomplete
+401013376104994801,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,,51,46,4,10,13,Pass Reception,Garret Lewis pass complete to Malcolm Perry for 13 yds to the Army 33 for a 1ST down
+401013376104994201,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,,57,46,3,10,0,Pass Incompletion,Garret Lewis pass incomplete to Mychal Cooper
+401013376104989301,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,1,6,46,2,10,0,Pass Incompletion,Garret Lewis pass incomplete to CJ Williams
+401013376104988802,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,1,11,46,1,10,0,Pass Incompletion,Garret Lewis pass incomplete
+401013376104988801,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,1,11,64,1,10,18,Pass Reception,Garret Lewis pass complete to Keoni-Kordell Makekau for 18 yds to the Army 46 for a 1ST down
+401013376104987801,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,1,21,75,1,10,11,Pass Reception,Garret Lewis pass complete to Taylor Jackson for 11 yds to the Navy 36 for a 1ST down
+401013376104996502,Navy,American Athletic,Army,FBS Independents,7,17,40101337621,4,,34,28,4,5,0,Timeout,"Timeout NAVY, clock 00:34"
+401013376104997201,Army,FBS Independents,Navy,American Athletic,17,10,40101337622,4,,27,57,1,10,-1,Rush,TEAM run for a loss of 1 yard to the Navy 44
+401013376104997002,Navy,American Athletic,Army,FBS Independents,10,17,40101337622,4,,29,65,4,5,0,Kickoff,Bennett Moehring on-side kick recovered by ARMY at the Navy 43

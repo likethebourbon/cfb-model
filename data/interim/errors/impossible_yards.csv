@@ -1,0 +1,4 @@
+,id,week,offense,offense_conference,defense,defense_conference,offense_score,defense_score,drive_id,period,clock.minutes,clock.seconds,yard_line,down,distance,yards_gained,play_type,play_text,home_team,away_team,neutral_site,conference_game,home_score,away_score
+72727,401021669,6,Troy,Sun Belt,Georgia State,Sun Belt,37,12,40102166925,4,4,0,35,3,13,110,Kickoff,"Bratcher Underwood kickoff for 65 yds for a touchback GEORGIA ST Penalty, Offensive Offside (45 Yards)",Troy,Georgia State,False,True,37,12
+76642,401013032,7,Texas,Big 12,Baylor,Big 12,20,10,40101303212,2,1,12,35,2,8,127,Kickoff,"Cameron Dicker kickoff for 65 yds for a touchback for a 1ST down BAYLOR Penalty, Unnecessary Roughness (62 Yards) for a 1ST down",Texas,Baylor,False,True,20,10
+94799,401012776,9,USC,Pac-12,Arizona State,Pac-12,7,17,4010127767,2,12,0,58,3,4,-5018,Penalty,"ARIZONA ST Penalty, Defensive Holding (-5018 Yards) to the USC -4944",USC,Arizona State,False,True,7,17

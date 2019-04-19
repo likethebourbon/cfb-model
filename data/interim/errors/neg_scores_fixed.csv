@@ -1,0 +1,4 @@
+,id,week,offense,offense_conference,defense,defense_conference,offense_score,defense_score,drive_id,period,clock.minutes,clock.seconds,yard_line,down,distance,yards_gained,play_type,play_text,home_team,away_team,neutral_site,conference_game,home_score,away_score
+49037,401014998,4,Southern Mississippi,Conference USA,Rice,Conference USA,3,0,4010149983,1,9,32,91,4,9,28,Field Goal Good,Parker Shaunfield 28 yd FG GOOD,Southern Mississippi,Rice,FALSE,TRUE,3,0
+109130,401013365,10,Liberty,,UMass,FBS Independents,24,21,40101336511,2,4,30,50,1,10,21,Fumble Return Touchdown (Offense),"Stephen Calvert pass intercepted for a TD Lee Moses return for 15 yds for a TD Lee Moses fumbled, recovered by Liber Khaleb Coleman  , return for 21 yds (Alex Probert KICK)",UMass,Liberty,FALSE,FALSE,21,24
+138807,401012797,13,Oregon,Pac-12,Oregon State,Pac-12,21,0,4010127978,2,11,16,1,2,0,1,Rushing Touchdown,CJ Verdell run for 1 yd for a TD,Oregon State,Oregon,FALSE,TRUE,0,21

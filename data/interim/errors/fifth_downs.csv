@@ -1,0 +1,4 @@
+,id,week,offense,offense_conference,defense,defense_conference,offense_score,defense_score,drive_id,period,clock.minutes,clock.seconds,yard_line,down,distance,yards_gained,play_type,play_text,home_team,away_team,neutral_site,conference_game,home_score,away_score
+27805,401019477,2,TCU,Big 12,SMU,American Athletic,0,9,4010194775,1,5,0,80,5,10,25,Kickoff,"Cole Bunce kickoff for 65 yds , CJ Sanders return for 25 yds to the SMU 40",SMU,TCU,False,False,9,0
+67026,401013042,6,Oklahoma State,Big 12,Iowa State,Big 12,7,2,4010130425,1,6,0,20,5,27,0,Kickoff,Jake McClure kickoff for 80 yds for a touchback,Oklahoma State,Iowa State,False,True,7,2
+117231,401012886,11,Michigan State,Big Ten,Ohio State,Big Ten,6,9,40101288623,3,0,42,20,5,11,0,Kickoff,Cole Hahn kickoff for 60 yds,Michigan State,Ohio State,False,True,6,9

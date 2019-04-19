@@ -1,0 +1,23 @@
+offense,offense_conference,defense,defense_conference,game_id,id,scoring,start_period,start_yardline,start_time.minutes,end_period,end_yardline,end_time.minutes,end_time.seconds,elapsed.minutes,elapsed.seconds,plays,yards,drive_result
+Army,FBS Independents,Navy,American Athletic,401013376,4010133761,true,1,18,15,1,100,12,34,2,26,5,82,TD
+Navy,American Athletic,Army,FBS Independents,401013376,4010133762,false,1,70,12,1,55,9,24,3,10,5,15,PUNT
+Army,FBS Independents,Navy,American Athletic,401013376,4010133763,false,1,23,9,1,29,7,21,2,3,3,6,PUNT
+Navy,American Athletic,Army,FBS Independents,401013376,4010133764,false,1,65,7,1,51,4,18,3,3,6,14,INT
+Army,FBS Independents,Navy,American Athletic,401013376,4010133765,false,1,33,4,2,84,11,53,7,25,14,51,MISSED FG
+Navy,American Athletic,Army,FBS Independents,401013376,4010133766,false,2,80,11,2,73,9,42,2,11,3,7,PUNT
+Army,FBS Independents,Navy,American Athletic,401013376,4010133767,false,2,31,9,2,38,7,55,1,47,3,7,PUNT
+Navy,American Athletic,Army,FBS Independents,401013376,4010133768,false,2,85,7,2,72,4,52,3,3,5,13,PUNT
+Army,FBS Independents,Navy,American Athletic,401013376,4010133769,false,2,35,4,2,69,,45,4,7,7,34,DOWNS
+Navy,American Athletic,Army,FBS Independents,401013376,40101337610,false,2,69,,2,59,,,,45,2,10,END OF HALF
+Navy,American Athletic,Army,FBS Independents,401013376,40101337611,false,3,58,15,3,50,12,52,2,8,3,8,PUNT
+Army,FBS Independents,Navy,American Athletic,401013376,40101337612,true,3,20,12,3,84,4,33,8,19,14,64,FG
+Navy,American Athletic,Army,FBS Independents,401013376,40101337613,false,3,81,4,3,69,1,37,2,56,5,12,INT
+Army,FBS Independents,Navy,American Athletic,401013376,40101337614,false,3,49,1,4,57,14,55,1,42,4,9,DOWNS
+Navy,American Athletic,Army,FBS Independents,401013376,40101337615,false,4,59,14,4,16,11,7,3,48,8,43,FUMBLE
+Army,FBS Independents,Navy,American Athletic,401013376,40101337616,false,4,3,11,4,12,9,2,2,5,3,9,PUNT
+Navy,American Athletic,Army,FBS Independents,401013376,40101337617,true,4,48,9,4,0,7,10,1,52,4,48,TD
+Army,FBS Independents,Navy,American Athletic,401013376,40101337618,false,4,37,7,4,37,4,46,2,24,3,0,PUNT
+Navy,American Athletic,Army,FBS Independents,401013376,40101337619,false,4,66,4,4,68,3,2,1,44,4,-12,FUMBLE
+Army,FBS Independents,Navy,American Athletic,401013376,40101337620,true,4,78,3,4,100,1,28,1,34,4,22,TD
+Navy,American Athletic,Army,FBS Independents,401013376,40101337621,true,4,75,1,4,28,,29,,59,10,47,FG
+Army,FBS Independents,Navy,American Athletic,401013376,40101337622,false,4,57,,4,56,,,,29,1,-1,Uncategorized

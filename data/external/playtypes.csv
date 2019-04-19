@@ -1,0 +1,46 @@
+id,text,abbreviation
+2,End Period,EP
+3,Pass Incompletion,
+4,Pass Completion,PASS
+5,Rush,RUSH
+6,Pass Interception,INT
+7,Sack,
+8,Penalty,PEN
+9,Fumble Recovery (Own),
+12,Kickoff Return (Offense),
+13,Kickoff Return (Defense),
+14,Punt Return,
+15,Two Point Pass,
+16,Two Point Rush,
+17,Blocked Punt,BP
+18,Blocked Field Goal,BFG
+20,Safety,SF
+21,Timeout,TO
+24,Pass Reception,REC
+26,Pass Interception Return,INTR
+29,Fumble Recovery (Opponent),
+32,Kickoff Return Touchdown,TD
+34,Punt Return Touchdown,TD
+36,Interception Return Touchdown,TD
+37,Blocked Punt Touchdown,
+38,Blocked Field Goal Touchdown,
+39,Fumble Return Touchdown,TD
+40,Missed Field Goal Return,AFG
+41,Missed Field Goal Return Touchdown,
+43,Blocked PAT,
+51,Pass,PASS
+52,Punt,PUNT
+53,Kickoff,K
+56,2pt Conversion,2P
+57,Defensive 2pt Conversion,D2P
+59,Field Goal Good,FG
+60,Field Goal Missed,FGM
+61,Extra Point Good,XP
+62,Extra Point Missed,EPM
+63,Interception,INT
+65,End of Half,EH
+66,End of Game,EG
+67,Passing Touchdown,TD
+68,Rushing Touchdown,TD
+999,Uncategorized,
+78,Offensive 1pt Safety,SF

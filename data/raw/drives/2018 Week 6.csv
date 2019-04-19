@@ -1,0 +1,1454 @@
+offense,offense_conference,defense,defense_conference,game_id,id,scoring,start_period,start_yardline,start_time.minutes,end_period,end_yardline,end_time.minutes,end_time.seconds,elapsed.seconds,plays,yards,drive_result
+Alabama,SEC,Arkansas,SEC,401012300,4010123001,true,1,76,15,1,0,14,39,21,1,76,TD
+Arkansas,SEC,Alabama,SEC,401012300,4010123002,false,1,25,14,1,59,10,51,48,9,30,FUMBLE
+Alabama,SEC,Arkansas,SEC,401012300,4010123003,true,1,55,10,1,0,10,1,50,2,55,TD
+Arkansas,SEC,Alabama,SEC,401012300,4010123004,false,1,25,10,1,29,8,29,32,3,4,PUNT
+Alabama,SEC,Arkansas,SEC,401012300,4010123005,true,1,76,8,1,0,5,38,51,8,76,TD
+Arkansas,SEC,Alabama,SEC,401012300,4010123006,true,1,25,5,1,100,,24,14,11,75,TD
+Alabama,SEC,Arkansas,SEC,401012300,4010123007,false,1,66,,2,57,13,34,50,4,9,DOWNS
+Arkansas,SEC,Alabama,SEC,401012300,4010123008,false,2,57,13,2,95,12,7,27,3,38,FUMBLE
+Alabama,SEC,Arkansas,SEC,401012300,4010123009,true,2,99,12,2,0,10,12,55,5,99,TD
+LSU,SEC,Florida,SEC,401012301,4010123011,true,1,75,15,1,0,11,43,17,10,75,TD
+Florida,SEC,LSU,SEC,401012301,4010123012,false,1,25,11,1,40,10,,43,5,15,PUNT
+LSU,SEC,Florida,SEC,401012301,4010123013,false,1,76,10,1,28,7,44,16,5,43,FUMBLE
+Florida,SEC,LSU,SEC,401012301,4010123014,false,1,33,7,1,37,5,46,58,3,4,PUNT
+LSU,SEC,Florida,SEC,401012301,4010123015,false,1,87,5,1,84,4,13,33,3,3,PUNT
+Florida,SEC,LSU,SEC,401012301,4010123016,false,1,45,4,1,48,3,15,58,3,3,PUNT
+LSU,SEC,Florida,SEC,401012301,4010123017,false,1,95,3,1,97,1,11,4,3,-2,PUNT
+Florida,SEC,LSU,SEC,401012301,4010123018,true,1,57,1,2,100,12,30,41,9,43,TD
+LSU,SEC,Florida,SEC,401012301,4010123019,false,2,75,12,2,47,9,4,26,6,28,PUNT
+Vanderbilt,SEC,Georgia,SEC,401012302,4010123021,false,1,75,15,1,68,13,59,1,3,7,PUNT
+Georgia,SEC,Vanderbilt,SEC,401012302,4010123022,false,1,20,13,1,26,13,11,48,3,6,PUNT
+Vanderbilt,SEC,Georgia,SEC,401012302,4010123023,true,1,57,13,1,7,10,30,41,5,50,FG
+Georgia,SEC,Vanderbilt,SEC,401012302,4010123024,true,1,25,10,1,100,10,15,15,1,75,TD
+Vanderbilt,SEC,Georgia,SEC,401012302,4010123025,false,1,75,10,1,40,8,25,50,5,35,PUNT
+Georgia,SEC,Vanderbilt,SEC,401012302,4010123026,false,1,20,8,1,52,3,11,14,8,32,PUNT
+Vanderbilt,SEC,Georgia,SEC,401012302,4010123027,false,1,95,3,2,14,10,35,36,12,81,DOWNS
+Georgia,SEC,Vanderbilt,SEC,401012302,4010123028,true,2,14,10,2,100,7,49,46,8,86,TD
+Vanderbilt,SEC,Georgia,SEC,401012302,4010123029,true,2,75,7,2,24,2,18,31,11,51,FG
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,4010123031,false,1,75,15,1,22,12,33,27,6,53,DOWNS
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,4010123032,true,1,22,12,1,100,10,58,35,6,78,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,4010123033,false,1,75,10,1,71,10,2,56,3,4,PUNT
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,4010123034,true,1,39,10,1,100,7,43,19,6,61,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,4010123035,false,1,82,7,1,3,4,27,16,10,79,FUMBLE
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,4010123036,true,1,3,4,1,100,1,13,14,10,97,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,4010123037,false,1,67,1,1,77,,,13,3,-10,PUNT
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,4010123038,true,2,34,14,2,100,12,13,,5,66,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,4010123039,true,2,75,12,2,0,9,35,38,7,75,TD
+Auburn,SEC,Mississippi State,SEC,401012304,4010123041,false,1,75,15,1,69,13,53,7,3,6,PUNT
+Mississippi State,SEC,Auburn,SEC,401012304,4010123042,false,1,21,13,1,25,12,25,28,3,4,FUMBLE
+Auburn,SEC,Mississippi State,SEC,401012304,4010123043,false,1,68,12,1,71,11,28,57,3,-3,PUNT
+Mississippi State,SEC,Auburn,SEC,401012304,4010123044,false,1,27,11,1,45,8,43,45,6,18,INT
+Auburn,SEC,Mississippi State,SEC,401012304,4010123045,true,1,39,8,1,30,7,30,13,4,9,FG
+Mississippi State,SEC,Auburn,SEC,401012304,4010123046,true,1,25,7,1,92,2,37,53,9,67,FG
+Auburn,SEC,Mississippi State,SEC,401012304,4010123047,false,1,74,2,2,32,12,44,53,11,42,MISSED FG
+Mississippi State,SEC,Auburn,SEC,401012304,4010123048,true,2,32,12,2,71,10,13,31,7,39,FG
+Auburn,SEC,Mississippi State,SEC,401012304,4010123049,false,2,75,10,2,55,8,37,36,4,20,FUMBLE
+South Carolina,SEC,Missouri,SEC,401012305,4010123051,false,1,25,15,1,26,13,14,46,3,1,PUNT
+Missouri,SEC,South Carolina,SEC,401012305,4010123052,true,1,62,13,1,0,11,58,16,5,62,TD
+South Carolina,SEC,Missouri,SEC,401012305,4010123053,true,1,63,11,1,100,11,2,56,3,37,TD
+Missouri,SEC,South Carolina,SEC,401012305,4010123054,false,1,75,11,1,66,8,40,22,4,9,PUNT
+South Carolina,SEC,Missouri,SEC,401012305,4010123055,false,1,10,8,1,27,6,40,,5,17,PUNT
+Missouri,SEC,South Carolina,SEC,401012305,4010123056,true,1,61,6,1,0,4,25,15,6,61,TD
+South Carolina,SEC,Missouri,SEC,401012305,4010123057,false,1,20,4,1,20,2,53,32,3,0,PUNT
+Missouri,SEC,South Carolina,SEC,401012305,4010123058,true,1,68,2,2,4,14,53,,9,64,FG
+South Carolina,SEC,Missouri,SEC,401012305,4010123059,true,2,32,14,2,100,12,57,56,5,68,TD
+Kentucky,SEC,Texas A&M,SEC,401012306,4010123061,false,1,75,15,1,56,10,18,42,8,19,PUNT
+Texas A&M,SEC,Kentucky,SEC,401012306,4010123062,false,1,13,10,1,29,7,12,6,6,16,PUNT
+Kentucky,SEC,Texas A&M,SEC,401012306,4010123063,false,1,97,7,1,77,5,6,6,5,20,PUNT
+Texas A&M,SEC,Kentucky,SEC,401012306,4010123064,false,1,14,5,1,23,3,32,34,3,9,PUNT
+Kentucky,SEC,Texas A&M,SEC,401012306,4010123065,true,1,68,3,1,0,1,10,22,5,68,TD
+Texas A&M,SEC,Kentucky,SEC,401012306,4010123066,false,1,25,1,2,73,10,50,20,10,48,DOWNS
+Kentucky,SEC,Texas A&M,SEC,401012306,4010123067,false,2,73,10,2,66,8,41,9,3,7,PUNT
+Texas A&M,SEC,Kentucky,SEC,401012306,4010123068,false,2,15,8,2,18,7,33,8,3,3,PUNT
+Kentucky,SEC,Texas A&M,SEC,401012306,4010123069,false,2,80,7,2,78,5,57,36,3,2,PUNT
+Arizona,Pac-12,California,Pac-12,401012759,4010127591,true,1,25,15,1,100,9,42,18,11,75,TD
+California,Pac-12,Arizona,Pac-12,401012759,4010127592,false,1,75,9,1,36,5,8,34,10,39,DOWNS
+Arizona,Pac-12,California,Pac-12,401012759,4010127593,true,1,36,5,1,72,1,49,19,9,36,FG
+California,Pac-12,Arizona,Pac-12,401012759,4010127594,true,1,75,1,2,0,14,2,47,7,75,TD
+Arizona,Pac-12,California,Pac-12,401012759,4010127595,false,2,25,14,2,26,12,17,45,3,1,PUNT
+California,Pac-12,Arizona,Pac-12,401012759,4010127596,false,2,84,12,2,43,8,10,7,7,41,PUNT
+Arizona,Pac-12,California,Pac-12,401012759,4010127597,false,2,6,8,2,15,6,11,59,3,9,PUNT
+California,Pac-12,Arizona,Pac-12,401012759,4010127598,false,2,75,6,2,68,4,15,56,3,7,PUNT
+Arizona,Pac-12,California,Pac-12,401012759,4010127599,false,2,27,4,2,39,,,15,4,12,PUNT
+Washington,Pac-12,UCLA,Pac-12,401012760,4010127601,false,1,87,15,1,47,10,28,32,8,40,PUNT
+UCLA,Pac-12,Washington,Pac-12,401012760,4010127602,false,1,10,10,1,34,8,24,4,4,24,PUNT
+Washington,Pac-12,UCLA,Pac-12,401012760,4010127603,false,1,73,8,1,32,4,25,59,9,41,INT
+UCLA,Pac-12,Washington,Pac-12,401012760,4010127604,false,1,25,4,1,42,3,57,28,2,17,INT
+Washington,Pac-12,UCLA,Pac-12,401012760,4010127605,true,1,62,3,1,0,1,37,20,5,62,TD
+UCLA,Pac-12,Washington,Pac-12,401012760,4010127606,false,1,25,1,2,70,14,47,50,6,45,MISSED FG
+Washington,Pac-12,UCLA,Pac-12,401012760,4010127607,true,2,70,14,2,9,11,45,2,7,61,FG
+UCLA,Pac-12,Washington,Pac-12,401012760,4010127608,true,2,25,11,2,100,9,47,58,6,75,TD
+Washington,Pac-12,UCLA,Pac-12,401012760,4010127609,true,2,74,9,2,0,4,42,5,11,74,TD
+Colorado,Pac-12,Arizona State,Pac-12,401012761,4010127611,false,1,25,15,1,60,12,20,40,8,35,PUNT
+Arizona State,Pac-12,Colorado,Pac-12,401012761,4010127612,true,1,86,12,1,0,5,47,33,13,86,TD
+Colorado,Pac-12,Arizona State,Pac-12,401012761,4010127613,true,1,25,5,1,100,2,47,,8,75,TD
+Arizona State,Pac-12,Colorado,Pac-12,401012761,4010127614,false,1,84,2,2,35,13,25,22,9,49,MISSED FG
+Colorado,Pac-12,Arizona State,Pac-12,401012761,4010127615,false,2,36,13,2,79,10,48,37,8,43,MISSED FG
+Arizona State,Pac-12,Colorado,Pac-12,401012761,4010127616,true,2,79,10,2,0,5,39,9,13,79,TD
+Colorado,Pac-12,Arizona State,Pac-12,401012761,4010127617,true,2,16,5,2,100,,24,15,13,84,TD
+Arizona State,Pac-12,Colorado,Pac-12,401012761,4010127618,false,2,75,,2,76,,,24,1,-1,END OF HALF
+Arizona State,Pac-12,Colorado,Pac-12,401012761,4010127619,true,3,75,15,3,0,13,35,25,4,75,TD
+Washington State,Pac-12,Oregon State,Pac-12,401012762,4010127621,true,1,75,15,1,0,13,40,20,3,75,TD
+Oregon State,Pac-12,Washington State,Pac-12,401012762,4010127622,true,1,16,13,1,19,12,32,8,3,3,PUNT TD
+Oregon State,Pac-12,Washington State,Pac-12,401012762,4010127624,true,1,25,12,1,100,6,16,11,14,75,TD
+Washington State,Pac-12,Oregon State,Pac-12,401012762,4010127625,false,1,45,6,1,45,5,19,57,3,0,PUNT
+Oregon State,Pac-12,Washington State,Pac-12,401012762,4010127626,false,1,12,5,1,53,1,27,52,8,41,PUNT
+Oregon State,Pac-12,Washington State,Pac-12,401012762,4010127628,true,1,93,1,1,100,1,15,12,1,7,TD
+Washington State,Pac-12,Oregon State,Pac-12,401012762,4010127629,true,1,80,1,2,0,13,42,33,7,80,TD
+Stanford,Pac-12,Utah,Pac-12,401012763,4010127631,false,1,25,15,1,44,12,49,11,4,19,PUNT
+Utah,Pac-12,Stanford,Pac-12,401012763,4010127632,false,1,80,12,1,60,10,25,24,6,20,PUNT
+Stanford,Pac-12,Utah,Pac-12,401012763,4010127633,false,1,30,10,1,48,7,15,10,5,18,PUNT
+Utah,Pac-12,Stanford,Pac-12,401012763,4010127634,true,1,80,7,1,0,,47,28,13,80,TD
+Stanford,Pac-12,Utah,Pac-12,401012763,4010127635,true,1,25,,2,91,10,50,57,11,66,INT TD
+Stanford,Pac-12,Utah,Pac-12,401012763,4010127636,false,2,32,10,2,87,8,15,35,6,55,INT
+Utah,Pac-12,Stanford,Pac-12,401012763,4010127637,true,2,72,8,2,0,2,56,19,9,72,TD
+Stanford,Pac-12,Utah,Pac-12,401012763,4010127638,true,2,23,2,2,100,,24,32,11,77,TD
+Utah,Pac-12,Stanford,Pac-12,401012763,4010127639,true,2,75,,2,65,,,24,4,45,END OF HALF
+Illinois,Big Ten,Rutgers,Big Ten,401012808,4010128081,false,1,85,15,1,68,13,33,27,6,17,PUNT
+Rutgers,Big Ten,Illinois,Big Ten,401012808,4010128082,false,1,11,13,1,11,13,25,8,1,0,INT
+Illinois,Big Ten,Rutgers,Big Ten,401012808,4010128083,true,1,26,13,1,21,11,33,52,4,5,FG
+Rutgers,Big Ten,Illinois,Big Ten,401012808,4010128084,true,1,25,11,1,100,5,12,21,12,75,TD
+Illinois,Big Ten,Rutgers,Big Ten,401012808,4010128085,true,1,75,5,1,0,1,40,32,8,75,TD
+Rutgers,Big Ten,Illinois,Big Ten,401012808,4010128086,false,1,30,1,1,24,,22,18,3,-6,PUNT
+Illinois,Big Ten,Rutgers,Big Ten,401012808,4010128087,false,1,72,,2,30,11,44,38,9,42,MISSED FG
+Rutgers,Big Ten,Illinois,Big Ten,401012808,4010128088,false,2,30,11,2,29,10,30,14,3,-1,INT
+Illinois,Big Ten,Rutgers,Big Ten,401012808,4010128089,true,2,47,10,2,0,9,36,54,3,47,TD
+Indiana,Big Ten,Ohio State,Big Ten,401012855,4010128551,true,1,75,15,1,19,11,47,13,7,56,FG
+Ohio State,Big Ten,Indiana,Big Ten,401012855,4010128552,false,1,21,11,1,61,8,56,51,10,41,FUMBLE
+Indiana,Big Ten,Ohio State,Big Ten,401012855,4010128553,false,1,62,8,1,29,6,4,52,8,33,DOWNS
+Ohio State,Big Ten,Indiana,Big Ten,401012855,4010128554,true,1,29,6,1,100,2,58,6,9,71,TD
+Indiana,Big Ten,Ohio State,Big Ten,401012855,4010128555,false,1,75,2,1,60,,49,9,6,15,PUNT
+Ohio State,Big Ten,Indiana,Big Ten,401012855,4010128556,true,1,22,,2,100,12,21,28,9,78,TD
+Indiana,Big Ten,Ohio State,Big Ten,401012855,4010128557,true,2,75,12,2,0,10,59,22,5,75,TD
+Ohio State,Big Ten,Indiana,Big Ten,401012855,4010128558,false,2,25,10,2,60,8,37,22,6,35,INT
+Indiana,Big Ten,Ohio State,Big Ten,401012855,4010128559,true,2,70,8,2,0,7,4,33,6,70,TD
+Minnesota,Big Ten,Iowa,Big Ten,401012866,4010128661,false,1,25,15,1,19,13,29,31,3,-6,PUNT
+Iowa,Big Ten,Minnesota,Big Ten,401012866,4010128662,true,1,53,13,1,0,8,49,40,10,53,TD
+Minnesota,Big Ten,Iowa,Big Ten,401012866,4010128663,false,1,25,8,1,21,7,12,37,3,-4,PUNT
+Iowa,Big Ten,Minnesota,Big Ten,401012866,4010128664,true,1,62,7,1,0,5,48,24,3,62,TD
+Minnesota,Big Ten,Iowa,Big Ten,401012866,4010128665,true,1,25,5,1,100,,58,50,10,75,TD
+Iowa,Big Ten,Minnesota,Big Ten,401012866,4010128666,false,1,64,,1,62,,,58,3,2,PUNT
+Minnesota,Big Ten,Iowa,Big Ten,401012866,4010128667,false,2,17,14,2,30,12,3,41,5,13,PUNT
+Iowa,Big Ten,Minnesota,Big Ten,401012866,4010128668,true,2,74,12,2,0,5,57,6,14,74,TD
+Minnesota,Big Ten,Iowa,Big Ten,401012866,4010128669,true,2,25,5,2,68,4,,57,6,43,FG
+Michigan,Big Ten,Maryland,Big Ten,401012876,4010128761,false,1,15,15,1,55,11,52,8,5,40,PUNT
+Maryland,Big Ten,Michigan,Big Ten,401012876,4010128762,false,1,75,11,1,45,8,54,58,6,30,PUNT
+Michigan,Big Ten,Maryland,Big Ten,401012876,4010128763,false,1,20,8,1,76,4,47,7,10,56,DOWNS
+Maryland,Big Ten,Michigan,Big Ten,401012876,4010128764,false,1,76,4,1,74,3,9,38,3,2,PUNT
+Michigan,Big Ten,Maryland,Big Ten,401012876,4010128765,true,1,45,3,1,84,1,21,48,5,39,FG
+Maryland,Big Ten,Michigan,Big Ten,401012876,4010128766,true,1,0,1,1,0,1,10,11,0,0,TD
+Michigan,Big Ten,Maryland,Big Ten,401012876,4010128767,false,1,27,1,1,29,,13,57,2,2,INT
+Maryland,Big Ten,Michigan,Big Ten,401012876,4010128768,false,1,50,,2,44,14,27,46,3,6,PUNT
+Michigan,Big Ten,Maryland,Big Ten,401012876,4010128769,true,2,5,14,2,100,8,21,6,11,95,TD
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,4010128821,false,1,75,15,1,76,14,8,52,3,-1,PUNT
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,4010128822,false,1,27,14,1,51,12,40,28,4,24,PUNT
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,4010128823,false,1,84,12,1,49,9,9,31,8,35,PUNT
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,4010128824,false,1,17,9,1,26,7,34,35,3,9,PUNT
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,4010128825,false,1,89,7,1,55,5,31,3,5,34,INT
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,4010128826,true,1,61,5,1,91,,59,32,9,30,FG
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,4010128827,true,1,75,,1,0,,13,46,2,75,TD
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,4010128828,false,1,15,,2,17,14,37,36,3,2,PUNT
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,4010128829,true,2,51,14,2,0,13,58,39,2,51,TD
+Baylor,Big 12,Kansas State,Big 12,401013031,4010130311,true,1,25,15,1,83,11,17,43,11,58,FG
+Kansas State,Big 12,Baylor,Big 12,401013031,4010130312,true,1,75,11,1,0,8,59,18,6,75,TD
+Baylor,Big 12,Kansas State,Big 12,401013031,4010130313,false,1,28,8,1,68,5,26,33,8,40,MISSED FG
+Kansas State,Big 12,Baylor,Big 12,401013031,4010130314,false,1,68,5,1,38,2,2,24,7,30,DOWNS
+Baylor,Big 12,Kansas State,Big 12,401013031,4010130315,true,1,38,2,2,89,14,40,22,9,51,FG
+Kansas State,Big 12,Baylor,Big 12,401013031,4010130316,false,2,75,14,2,76,13,19,21,3,-1,INT
+Baylor,Big 12,Kansas State,Big 12,401013031,4010130317,true,2,57,13,2,100,9,47,32,10,43,TD
+Kansas State,Big 12,Baylor,Big 12,401013031,4010130318,false,2,75,9,2,65,7,6,41,5,10,PUNT
+Baylor,Big 12,Kansas State,Big 12,401013031,4010130319,false,2,26,7,2,29,,,6,3,3,INT
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,4010130421,false,1,75,15,1,78,13,27,33,3,-3,PUNT
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,4010130422,true,1,30,13,1,100,11,3,24,5,70,TD
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,4010130423,false,1,75,11,1,66,9,2,1,3,9,PUNT
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,4010130424,true,1,17,9,1,7,6,56,6,4,-17,SF
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,4010130425,true,1,75,6,1,0,4,4,52,7,75,TD
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,4010130426,false,1,38,4,1,29,1,30,34,3,-9,PUNT
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,4010130427,true,1,62,1,2,0,12,37,53,8,62,TD
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,4010130428,true,2,32,12,2,100,9,6,31,9,68,TD
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,4010130429,false,2,65,9,2,65,7,44,22,3,0,PUNT
+West Virginia,Big 12,Kansas,Big 12,401013051,4010130511,false,1,25,15,1,23,13,2,58,3,-2,PUNT
+Kansas,Big 12,West Virginia,Big 12,401013051,4010130512,false,1,64,13,1,55,11,31,31,4,-1,FUMBLE
+West Virginia,Big 12,Kansas,Big 12,401013051,4010130513,true,1,65,11,1,100,9,28,3,4,35,TD
+Kansas,Big 12,West Virginia,Big 12,401013051,4010130514,false,1,58,9,1,56,7,33,55,3,2,PUNT
+West Virginia,Big 12,Kansas,Big 12,401013051,4010130515,true,1,20,7,1,100,5,21,12,7,80,TD
+Kansas,Big 12,West Virginia,Big 12,401013051,4010130516,false,1,75,5,1,74,4,35,46,2,1,INT
+West Virginia,Big 12,Kansas,Big 12,401013051,4010130517,false,1,72,4,1,87,2,23,12,5,15,INT
+Kansas,Big 12,West Virginia,Big 12,401013051,4010130518,true,1,72,2,1,0,,12,11,6,72,TD
+West Virginia,Big 12,Kansas,Big 12,401013051,4010130519,true,1,32,,2,100,11,52,20,7,75,TD
+Oklahoma,Big 12,Texas,Big 12,401013067,4010130671,true,1,35,15,1,100,12,20,40,6,65,TD
+Texas,Big 12,Oklahoma,Big 12,401013067,4010130672,true,1,75,12,1,0,10,14,6,5,75,TD
+Oklahoma,Big 12,Texas,Big 12,401013067,4010130673,false,1,25,10,1,41,7,57,17,4,16,INT
+Texas,Big 12,Oklahoma,Big 12,401013067,4010130674,true,1,29,7,1,27,5,58,59,4,2,FG
+Oklahoma,Big 12,Texas,Big 12,401013067,4010130675,true,1,25,5,2,85,14,56,2,11,60,FG
+Texas,Big 12,Oklahoma,Big 12,401013067,4010130676,true,2,75,14,2,0,10,18,38,10,75,TD
+Oklahoma,Big 12,Texas,Big 12,401013067,4010130677,false,2,25,10,2,21,8,14,4,3,-4,PUNT
+Texas,Big 12,Oklahoma,Big 12,401013067,4010130678,true,2,75,8,2,0,5,12,2,8,75,TD
+Oklahoma,Big 12,Texas,Big 12,401013067,4010130679,true,2,18,5,2,100,,28,44,11,82,TD
+Louisville,ACC,Georgia Tech,ACC,401013138,4010131381,false,1,19,15,1,50,12,16,44,5,31,DOWNS
+Georgia Tech,ACC,Louisville,ACC,401013138,4010131382,true,1,50,12,1,0,10,8,8,5,50,TD
+Louisville,ACC,Georgia Tech,ACC,401013138,4010131383,false,1,35,10,1,30,9,39,29,2,1,FUMBLE
+Georgia Tech,ACC,Louisville,ACC,401013138,4010131384,true,1,36,9,1,0,7,15,24,5,36,TD
+Louisville,ACC,Georgia Tech,ACC,401013138,4010131385,false,1,25,7,1,34,5,9,6,3,9,PUNT
+Georgia Tech,ACC,Louisville,ACC,401013138,4010131386,true,1,76,5,1,0,,3,6,9,76,TD
+Louisville,ACC,Georgia Tech,ACC,401013138,4010131387,true,1,29,,2,100,11,22,41,8,71,TD
+Georgia Tech,ACC,Louisville,ACC,401013138,4010131388,true,2,75,11,2,23,6,46,36,8,52,FG
+Louisville,ACC,Georgia Tech,ACC,401013138,4010131389,true,2,25,6,2,100,2,49,57,12,75,TD
+Boston College,ACC,NC State,ACC,401013139,4010131391,false,1,74,15,1,30,12,39,21,7,44,DOWNS
+NC State,ACC,Boston College,ACC,401013139,4010131392,true,1,30,12,1,100,7,47,52,10,70,TD
+Boston College,ACC,NC State,ACC,401013139,4010131393,false,1,78,7,1,65,,,47,5,13,PUNT
+Boston College,ACC,NC State,ACC,401013139,4010131395,true,1,20,6,1,16,4,53,7,4,4,FG
+NC State,ACC,Boston College,ACC,401013139,4010131396,false,1,25,4,1,96,,,53,13,71,INT
+Boston College,ACC,NC State,ACC,401013139,4010131397,false,2,93,12,2,90,11,22,22,3,3,PUNT
+NC State,ACC,Boston College,ACC,401013139,4010131398,false,2,55,11,2,72,9,21,1,4,17,INT
+Boston College,ACC,NC State,ACC,401013139,4010131399,false,2,73,9,2,66,,,21,3,7,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,4010131401,false,1,75,15,1,70,13,49,11,3,5,PUNT
+Wake Forest,ACC,Clemson,ACC,401013140,4010131402,false,1,29,13,1,24,11,23,26,6,-5,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,4010131403,false,1,58,11,1,51,10,19,4,3,-1,FUMBLE
+Wake Forest,ACC,Clemson,ACC,401013140,4010131404,false,1,59,10,1,40,8,55,24,3,-19,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,4010131405,false,1,82,8,1,68,7,21,34,4,14,PUNT
+Wake Forest,ACC,Clemson,ACC,401013140,4010131406,false,1,30,7,1,28,6,34,47,3,-2,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,4010131407,true,1,59,6,1,0,6,25,9,1,59,TD
+Wake Forest,ACC,Clemson,ACC,401013140,4010131408,false,1,25,6,1,28,5,30,55,3,3,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,4010131409,false,1,69,5,1,60,3,49,41,3,9,PUNT
+Miami,ACC,Florida State,ACC,401013141,4010131411,false,1,22,15,1,29,13,19,41,3,7,PUNT
+Florida State,ACC,Miami,ACC,401013141,4010131412,true,1,58,13,1,0,9,41,38,8,58,TD
+Miami,ACC,Florida State,ACC,401013141,4010131413,false,1,25,9,1,51,6,42,59,7,26,PUNT
+Florida State,ACC,Miami,ACC,401013141,4010131414,false,1,75,6,1,63,4,15,27,6,12,PUNT
+Miami,ACC,Florida State,ACC,401013141,4010131415,true,1,17,4,2,100,11,26,49,14,83,TD
+Florida State,ACC,Miami,ACC,401013141,4010131416,false,2,71,11,2,62,9,43,43,3,9,PUNT
+Miami,ACC,Florida State,ACC,401013141,4010131417,false,2,21,9,2,22,8,13,30,3,1,PUNT
+Florida State,ACC,Miami,ACC,401013141,4010131418,false,2,85,8,2,79,7,19,54,3,6,PUNT
+Miami,ACC,Florida State,ACC,401013141,4010131419,false,2,20,7,2,47,6,29,50,3,23,FUMBLE
+Syracuse,ACC,Pittsburgh,ACC,401013142,4010131421,true,1,75,15,1,0,10,54,6,11,75,TD
+Pittsburgh,ACC,Syracuse,ACC,401013142,4010131422,false,1,25,10,1,42,8,1,53,5,17,FUMBLE
+Syracuse,ACC,Pittsburgh,ACC,401013142,4010131423,true,1,42,8,1,0,6,32,29,5,42,TD
+Pittsburgh,ACC,Syracuse,ACC,401013142,4010131424,true,1,25,6,1,100,5,47,45,2,75,TD
+Syracuse,ACC,Pittsburgh,ACC,401013142,4010131425,true,1,75,5,1,65,4,21,26,5,10,FUMBLE TD
+Syracuse,ACC,Pittsburgh,ACC,401013142,4010131427,false,1,75,4,1,66,3,1,20,3,9,PUNT
+Pittsburgh,ACC,Syracuse,ACC,401013142,4010131428,false,1,28,3,1,48,,4,57,5,20,PUNT
+Syracuse,ACC,Pittsburgh,ACC,401013142,4010131429,false,1,91,,2,99,14,33,31,3,-8,PUNT
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,4010131431,true,1,75,15,1,0,9,24,36,12,78,TD
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,4010131432,false,1,22,9,1,28,8,7,17,3,6,PUNT
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,4010131433,true,1,73,8,1,14,6,58,9,5,59,FG
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,4010131434,true,1,25,6,1,78,,53,5,13,53,FG
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,4010131435,false,1,75,,2,41,13,15,38,8,18,DOWNS
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,4010131436,true,2,57,13,2,74,10,6,9,7,17,FG
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,4010131437,false,2,75,10,2,53,7,11,55,7,22,FUMBLE
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,4010131438,false,2,8,7,2,21,5,58,13,5,13,PUNT
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,4010131439,false,2,63,5,2,63,5,52,6,1,0,INT
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,4010133391,true,1,25,15,1,88,7,8,52,15,63,FG
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,4010133392,false,1,75,7,1,66,5,43,25,4,9,PUNT
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,4010133393,false,1,45,5,1,65,3,26,17,6,20,PUNT
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,4010133394,false,1,80,3,1,73,2,10,16,3,7,PUNT
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,4010133395,true,1,50,2,2,91,12,58,12,9,41,FG
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,4010133396,true,2,75,12,2,14,9,46,12,10,61,FG
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,4010133397,true,2,36,9,2,100,6,51,55,6,64,TD
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,4010133398,false,2,75,6,2,37,2,13,38,10,38,DOWNS
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,4010133399,true,2,37,2,2,100,,42,31,6,63,TD
+South Florida,American Athletic,UMass,FBS Independents,401013362,4010133621,true,1,65,15,1,0,14,20,40,2,65,TD
+UMass,FBS Independents,South Florida,American Athletic,401013362,4010133622,true,1,23,14,1,100,12,15,5,6,77,TD
+South Florida,American Athletic,UMass,FBS Independents,401013362,4010133623,false,1,36,12,1,30,11,56,19,1,6,FUMBLE
+UMass,FBS Independents,South Florida,American Athletic,401013362,4010133624,false,1,30,11,1,25,10,20,36,3,-5,PUNT
+South Florida,American Athletic,UMass,FBS Independents,401013362,4010133625,true,1,53,10,1,12,7,10,10,7,41,FG
+UMass,FBS Independents,South Florida,American Athletic,401013362,4010133626,false,1,40,7,1,47,5,37,33,3,7,PUNT
+South Florida,American Athletic,UMass,FBS Independents,401013362,4010133627,false,1,87,5,1,84,3,58,39,3,3,PUNT
+UMass,FBS Independents,South Florida,American Athletic,401013362,4010133628,false,1,28,3,1,41,,53,5,5,13,PUNT
+South Florida,American Athletic,UMass,FBS Independents,401013362,4010133629,false,1,70,,2,44,13,44,9,7,26,INT
+Liberty,,New Mexico State,,401013441,4010134411,true,1,75,15,1,0,12,43,17,7,75,TD
+New Mexico State,,Liberty,,401013441,4010134412,false,1,25,12,1,55,8,56,47,8,30,PUNT
+Liberty,,New Mexico State,,401013441,4010134413,false,1,87,8,1,76,8,2,54,3,11,FUMBLE
+New Mexico State,,Liberty,,401013441,4010134414,true,1,77,8,1,100,6,51,11,5,24,TD
+Liberty,,New Mexico State,,401013441,4010134415,false,1,75,6,1,69,5,24,27,3,6,PUNT
+New Mexico State,,Liberty,,401013441,4010134416,false,1,14,5,1,28,3,53,31,6,14,PUNT
+Liberty,,New Mexico State,,401013441,4010134417,false,1,67,3,1,39,,9,44,7,28,PUNT
+New Mexico State,,Liberty,,401013441,4010134418,false,1,14,,2,47,12,52,17,9,33,PUNT
+Liberty,,New Mexico State,,401013441,4010134419,false,2,70,12,2,53,11,14,38,4,17,PUNT
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,4010150081,true,1,25,15,1,100,13,20,40,6,75,TD
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,4010150082,false,1,77,13,1,13,6,41,39,13,64,DOWNS
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,4010150083,false,1,13,6,1,42,5,7,34,5,29,PUNT
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,4010150084,false,1,95,5,1,86,3,4,3,3,9,PUNT
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,4010150085,false,1,48,3,1,54,2,1,3,4,6,DOWNS
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,4010150086,false,1,54,2,2,57,14,9,52,6,-3,PUNT
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,4010150087,true,2,16,14,2,100,11,30,39,10,84,TD
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,4010150088,false,2,75,11,2,56,8,11,19,6,19,PUNT
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,4010150089,false,2,22,8,2,44,5,58,13,7,22,DOWNS
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,4010150091,false,1,74,15,1,75,14,8,52,3,-1,INT
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,4010150092,true,1,68,14,1,100,13,24,44,3,32,TD
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,4010150093,false,1,72,13,1,67,12,19,5,3,5,PUNT
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,4010150094,false,1,24,12,1,42,9,51,28,5,18,PUNT
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,4010150095,false,1,78,9,1,65,8,21,30,4,13,PUNT
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,4010150096,false,1,29,8,1,19,6,50,31,3,-10,PUNT
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,4010150097,false,1,50,6,1,49,5,45,5,3,1,PUNT
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,4010150098,false,1,14,5,1,39,,50,55,8,25,PUNT
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,4010150099,false,1,0,,2,56,14,47,3,3,6,PUNT
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,4010150101,true,1,75,15,1,16,9,42,18,15,59,FG
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,4010150102,false,1,43,9,1,40,8,27,15,3,-3,PUNT
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,4010150103,false,1,80,8,1,42,6,28,59,6,38,FUMBLE
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,4010150104,true,1,42,6,1,84,2,14,14,10,42,FG
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,4010150105,false,1,75,2,1,72,1,7,7,3,3,PUNT
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,4010150106,true,1,13,1,2,100,13,25,42,10,87,TD
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,4010150107,false,2,75,13,2,78,11,58,27,3,-3,PUNT
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,4010150108,false,2,36,11,2,64,8,58,,7,28,INT
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,4010150109,false,2,70,8,2,57,,,58,6,13,PUNT
+UTEP,Conference USA,North Texas,Conference USA,401015011,4010150111,true,1,25,15,1,80,10,43,17,9,55,FG
+North Texas,Conference USA,UTEP,Conference USA,401015011,4010150112,false,1,75,10,1,44,8,58,45,7,31,PUNT
+UTEP,Conference USA,North Texas,Conference USA,401015011,4010150113,false,1,18,8,1,62,6,57,1,5,44,INT
+North Texas,Conference USA,UTEP,Conference USA,401015011,4010150114,false,1,72,6,1,72,6,33,24,3,0,PUNT
+UTEP,Conference USA,North Texas,Conference USA,401015011,4010150115,false,1,31,6,1,30,5,9,24,3,-1,PUNT
+North Texas,Conference USA,UTEP,Conference USA,401015011,4010150116,true,1,69,5,1,0,1,36,33,7,69,TD
+UTEP,Conference USA,North Texas,Conference USA,401015011,4010150117,true,1,18,1,2,100,12,54,42,8,82,TD
+North Texas,Conference USA,UTEP,Conference USA,401015011,4010150118,false,2,75,12,2,60,10,20,34,5,15,PUNT
+UTEP,Conference USA,North Texas,Conference USA,401015011,4010150119,false,2,28,10,2,28,9,26,54,3,0,PUNT
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,4010150121,false,1,75,15,1,67,11,37,23,6,8,PUNT
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,4010150122,false,1,28,11,1,27,10,4,33,3,-1,PUNT
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,4010150123,false,1,64,10,1,67,9,6,58,3,-3,PUNT
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,4010150124,false,1,39,9,1,56,6,31,35,5,17,PUNT
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,4010150125,true,1,99,6,1,27,,44,47,14,72,FG
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,4010150126,false,1,25,,1,56,,,44,8,31,PUNT
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,4010150127,false,2,94,13,2,87,11,40,34,3,7,PUNT
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,4010150128,false,2,37,11,2,64,9,15,25,6,27,DOWNS
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,4010150129,false,2,64,9,2,59,,,15,3,5,PUNT
+BYU,FBS Independents,Utah State,Mountain West,401016407,4010164071,false,1,25,15,1,41,12,6,54,5,16,PUNT
+Utah State,Mountain West,BYU,FBS Independents,401016407,4010164072,false,1,92,12,1,87,10,8,58,3,5,PUNT
+BYU,FBS Independents,Utah State,Mountain West,401016407,4010164073,true,1,52,10,1,61,7,35,33,4,9,INT TD
+BYU,FBS Independents,Utah State,Mountain West,401016407,4010164074,false,1,25,7,1,30,5,33,2,3,5,PUNT
+Utah State,Mountain West,BYU,FBS Independents,401016407,4010164075,true,1,71,5,1,0,1,50,43,11,71,TD
+BYU,FBS Independents,Utah State,Mountain West,401016407,4010164076,false,1,25,1,1,38,,,50,4,13,DOWNS
+Utah State,Mountain West,BYU,FBS Independents,401016407,4010164077,true,2,35,14,2,0,12,23,32,6,35,TD
+BYU,FBS Independents,Utah State,Mountain West,401016407,4010164078,false,2,21,12,2,25,11,13,10,3,4,PUNT
+Utah State,Mountain West,BYU,FBS Independents,401016407,4010164079,false,2,59,11,2,55,9,14,59,3,4,PUNT
+Houston,American Athletic,Tulsa,American Athletic,401019499,4010194991,false,1,25,15,1,38,13,50,10,5,13,PUNT
+Tulsa,American Athletic,Houston,American Athletic,401019499,4010194992,true,1,82,13,1,0,11,45,5,9,82,TD
+Houston,American Athletic,Tulsa,American Athletic,401019499,4010194993,false,1,25,11,1,32,11,15,30,3,7,FUMBLE
+Tulsa,American Athletic,Houston,American Athletic,401019499,4010194994,true,1,13,11,1,11,10,1,14,4,2,FG
+Houston,American Athletic,Tulsa,American Athletic,401019499,4010194995,true,1,25,10,1,100,7,38,23,7,75,TD
+Tulsa,American Athletic,Houston,American Athletic,401019499,4010194996,false,1,86,7,1,84,6,42,56,3,2,PUNT
+Houston,American Athletic,Tulsa,American Athletic,401019499,4010194997,false,1,38,6,1,68,5,10,32,6,30,DOWNS
+Tulsa,American Athletic,Houston,American Athletic,401019499,4010194998,true,1,68,5,1,15,,22,48,10,53,FG
+Houston,American Athletic,Tulsa,American Athletic,401019499,4010194999,false,1,35,,2,48,14,37,45,4,17,FUMBLE
+SMU,American Athletic,UCF,American Athletic,401019500,4010195001,true,1,75,15,1,13,10,30,30,12,62,FG
+UCF,American Athletic,SMU,American Athletic,401019500,4010195002,true,1,35,10,1,100,7,32,58,9,65,TD
+SMU,American Athletic,UCF,American Athletic,401019500,4010195003,false,1,79,7,1,82,7,32,,0,-3,FUMBLE
+UCF,American Athletic,SMU,American Athletic,401019500,4010195004,true,1,82,7,1,100,6,47,45,3,18,TD
+SMU,American Athletic,UCF,American Athletic,401019500,4010195005,false,1,75,6,1,72,4,53,54,3,3,PUNT
+UCF,American Athletic,SMU,American Athletic,401019500,4010195006,true,1,30,4,1,100,2,55,58,7,70,TD
+SMU,American Athletic,UCF,American Athletic,401019500,4010195007,false,1,70,2,1,76,1,28,27,3,-6,PUNT
+UCF,American Athletic,SMU,American Athletic,401019500,4010195008,false,1,16,1,1,18,,10,18,3,2,PUNT
+SMU,American Athletic,UCF,American Athletic,401019500,4010195009,false,1,67,,1,55,,,10,5,12,PUNT
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,4010195011,false,1,75,15,1,58,12,58,2,4,17,PUNT
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,4010195012,false,1,17,12,1,19,11,20,38,3,2,PUNT
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,4010195013,false,1,59,11,1,51,9,11,9,5,8,PUNT
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,4010195014,true,1,24,9,1,89,5,55,16,10,65,FG
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,4010195015,true,1,75,5,1,0,1,54,1,7,75,TD
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,4010195016,false,1,14,1,1,12,,58,56,3,-2,PUNT
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,4010195017,false,1,75,,1,73,,,58,3,2,PUNT
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,4010195018,true,2,9,14,2,100,13,32,43,2,91,TD
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,4010195019,false,2,70,13,2,41,,,32,6,29,DOWNS
+Memphis,American Athletic,Connecticut,American Athletic,401019502,4010195021,true,1,25,15,1,100,13,12,48,6,75,TD
+Connecticut,American Athletic,Memphis,American Athletic,401019502,4010195022,true,1,75,13,1,0,5,31,41,17,75,TD
+Memphis,American Athletic,Connecticut,American Athletic,401019502,4010195023,true,1,32,5,1,100,,55,36,11,68,TD
+Connecticut,American Athletic,Memphis,American Athletic,401019502,4010195024,false,1,75,,1,53,,,55,8,22,PUNT
+Memphis,American Athletic,Connecticut,American Athletic,401019502,4010195025,true,2,39,11,2,100,11,23,13,1,61,TD
+Connecticut,American Athletic,Memphis,American Athletic,401019502,4010195026,false,2,75,11,2,73,9,48,35,3,2,PUNT
+Memphis,American Athletic,Connecticut,American Athletic,401019502,4010195027,true,2,23,9,2,100,8,15,33,4,77,TD
+Connecticut,American Athletic,Memphis,American Athletic,401019502,4010195028,false,2,75,8,2,71,7,19,56,3,4,INT
+Memphis,American Athletic,Connecticut,American Athletic,401019502,4010195029,true,2,54,7,2,100,5,56,23,4,46,TD
+Temple,American Athletic,East Carolina,American Athletic,401019503,4010195031,false,1,29,15,1,51,13,6,54,5,22,INT
+East Carolina,American Athletic,Temple,American Athletic,401019503,4010195032,false,1,63,13,1,38,10,35,31,7,25,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,4010195033,true,1,20,10,1,100,7,50,45,7,80,TD
+East Carolina,American Athletic,Temple,American Athletic,401019503,4010195034,false,1,80,7,1,57,4,57,53,7,23,DOWNS
+Temple,American Athletic,East Carolina,American Athletic,401019503,4010195035,true,1,58,4,1,100,1,19,38,8,42,TD
+East Carolina,American Athletic,Temple,American Athletic,401019503,4010195036,false,1,80,1,1,76,,21,58,3,4,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,4010195037,true,1,56,,2,100,14,2,19,5,44,TD
+East Carolina,American Athletic,Temple,American Athletic,401019503,4010195038,true,2,75,14,2,81,12,24,38,3,-6,PUNT RETURN TD
+Navy,American Athletic,Air Force,Mountain West,401019504,4010195041,false,1,75,15,1,75,12,58,2,3,0,PUNT
+Air Force,Mountain West,Navy,American Athletic,401019504,4010195042,false,1,43,12,1,52,11,20,38,4,9,DOWNS
+Navy,American Athletic,Air Force,Mountain West,401019504,4010195043,false,1,52,11,1,47,9,15,5,3,5,PUNT
+Air Force,Mountain West,Navy,American Athletic,401019504,4010195044,false,1,2,9,1,9,7,26,49,3,7,PUNT
+Navy,American Athletic,Air Force,Mountain West,401019504,4010195045,false,1,46,7,1,44,5,19,7,3,2,PUNT
+Air Force,Mountain West,Navy,American Athletic,401019504,4010195046,false,1,2,5,1,8,3,19,,3,6,PUNT
+Navy,American Athletic,Air Force,Mountain West,401019504,4010195047,true,1,34,3,2,0,12,38,41,9,34,TD
+Air Force,Mountain West,Navy,American Athletic,401019504,4010195048,false,2,25,12,2,63,10,13,25,6,38,PUNT
+Navy,American Athletic,Air Force,Mountain West,401019504,4010195049,false,2,89,10,2,80,,,13,3,9,PUNT
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,4010207511,true,1,25,15,1,78,11,58,2,9,53,FG
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,4010207512,false,1,75,11,1,68,10,37,21,3,7,PUNT
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,4010207513,true,1,78,10,1,100,8,24,13,4,22,TD
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,4010207514,false,1,85,8,1,65,8,15,9,1,20,FUMBLE
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,4010207515,true,1,66,8,1,100,6,51,24,4,34,TD
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,4010207516,true,1,86,6,1,0,2,45,6,10,86,TD
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,4010207517,false,1,11,2,1,36,,38,7,5,25,PUNT
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,4010207518,true,1,73,,2,0,14,41,51,4,73,TD
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,4010207519,true,2,33,14,2,100,9,35,6,12,67,TD
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,4010207521,true,1,25,15,1,78,10,36,24,9,53,FG
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,4010207522,true,1,57,10,1,0,7,37,59,7,57,TD
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,4010207523,false,1,25,7,1,58,4,34,3,7,33,INT
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,4010207524,false,1,87,4,1,85,2,45,49,3,2,PUNT
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,4010207525,false,1,34,2,1,55,1,9,36,4,21,PUNT
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,4010207526,false,1,99,1,2,96,14,45,24,3,3,PUNT
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,4010207527,false,2,53,14,2,75,11,54,51,8,22,MISSED FG
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,4010207528,true,2,74,11,2,0,7,31,23,8,74,TD
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,4010207529,false,2,25,7,2,25,6,37,54,3,0,PUNT
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,4010207531,false,1,75,15,1,39,12,25,35,6,36,DOWNS
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,4010207532,true,1,39,12,1,100,9,43,42,7,61,TD
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,4010207533,false,1,75,9,1,52,5,21,22,7,23,PUNT
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,4010207534,false,1,7,5,1,22,3,20,1,5,15,INT
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,4010207535,false,1,37,3,1,40,1,45,35,3,-3,PUNT
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,4010207536,false,1,7,1,1,18,,,45,4,11,PUNT
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,4010207537,true,2,58,14,2,0,12,14,38,7,58,TD
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,4010207538,false,2,25,12,2,32,12,7,7,1,7,FUMBLE
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,4010207539,false,2,32,12,2,23,,,7,4,9,DOWNS
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,4010207541,false,1,25,15,1,50,10,40,20,9,25,PUNT
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,4010207542,false,1,91,10,1,62,8,29,11,6,29,PUNT
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,4010207543,false,1,35,8,1,50,7,5,24,5,15,PUNT
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,4010207544,true,1,80,7,1,0,5,42,23,4,80,TD
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,4010207545,false,1,34,5,1,65,4,6,36,6,31,FUMBLE
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,4010207546,false,1,65,4,1,60,1,47,19,6,5,PUNT
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,4010207547,false,1,25,1,1,30,,6,41,5,5,PUNT
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,4010207548,true,1,71,,2,0,11,11,50,10,71,TD
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,4010207549,true,2,29,11,2,91,6,32,39,15,62,FG
+Kent State,Mid-American,Ohio,Mid-American,401020755,4010207551,true,1,25,15,1,100,14,44,16,1,75,TD
+Ohio,Mid-American,Kent State,Mid-American,401020755,4010207552,false,1,80,14,1,59,12,16,28,4,21,PUNT
+Kent State,Mid-American,Ohio,Mid-American,401020755,4010207553,true,1,20,12,1,100,8,28,48,10,80,TD
+Ohio,Mid-American,Kent State,Mid-American,401020755,4010207554,true,1,66,8,1,0,2,40,48,10,66,TD
+Kent State,Mid-American,Ohio,Mid-American,401020755,4010207555,false,1,26,2,1,59,,58,42,5,33,INT
+Kent State,Mid-American,Ohio,Mid-American,401020755,4010207557,false,1,0,,2,51,14,4,54,3,9,PUNT
+Ohio,Mid-American,Kent State,Mid-American,401020755,4010207558,false,2,91,14,2,71,11,20,44,4,20,PUNT
+Kent State,Mid-American,Ohio,Mid-American,401020755,4010207559,false,2,29,11,2,52,9,40,40,5,23,FUMBLE
+Akron,Mid-American,Miami (OH),Mid-American,401020812,4010208121,false,1,35,15,1,49,13,18,42,4,14,FUMBLE
+Miami (OH),Mid-American,Akron,Mid-American,401020812,4010208122,false,1,49,13,1,45,11,27,51,3,4,PUNT
+Akron,Mid-American,Miami (OH),Mid-American,401020812,4010208123,false,1,20,11,1,39,9,39,48,5,19,PUNT
+Miami (OH),Mid-American,Akron,Mid-American,401020812,4010208124,false,1,79,9,1,74,8,23,16,3,5,PUNT
+Akron,Mid-American,Miami (OH),Mid-American,401020812,4010208125,false,1,14,8,1,43,2,2,21,10,29,PUNT
+Miami (OH),Mid-American,Akron,Mid-American,401020812,4010208126,true,1,71,2,2,0,10,,2,17,71,TD
+Akron,Mid-American,Miami (OH),Mid-American,401020812,4010208127,false,2,25,10,2,35,8,29,31,4,10,PUNT
+Miami (OH),Mid-American,Akron,Mid-American,401020812,4010208128,true,2,78,8,2,0,4,57,32,9,78,TD
+Akron,Mid-American,Miami (OH),Mid-American,401020812,4010208129,true,2,25,4,2,100,1,44,13,8,75,TD
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,4010216691,true,1,21,15,1,100,13,33,27,4,79,TD
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,4010216692,false,1,70,13,1,32,10,7,26,8,65,FUMBLE
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,4010216693,true,1,10,10,1,100,7,5,2,7,90,TD
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,4010216694,false,1,70,7,1,65,3,31,34,6,10,PUNT
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,4010216695,true,1,16,3,2,100,12,58,33,12,84,TD
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,4010216696,false,2,75,12,2,73,11,53,5,3,2,PUNT
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,4010216697,false,2,32,11,2,99,9,18,35,5,67,DOWNS
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,4010216698,true,2,99,9,2,99,9,14,4,1,-1,SF
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,4010216699,false,2,44,9,2,46,7,30,44,3,2,PUNT
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,4010216711,false,1,75,15,1,48,12,8,52,6,27,PUNT
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,4010216712,false,1,10,12,1,16,10,31,37,3,6,PUNT
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,4010216713,false,1,62,10,1,17,9,24,7,3,45,INT
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,4010216714,false,1,3,9,1,6,8,17,7,3,3,PUNT
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,4010216715,true,1,60,8,1,0,4,54,23,8,60,TD
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,4010216716,false,1,25,4,1,39,1,41,13,6,14,PUNT
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,4010216717,true,1,76,1,2,0,14,55,46,5,76,TD
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,4010216718,false,2,25,14,2,27,13,52,3,3,2,PUNT
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,4010216719,true,2,61,13,2,0,7,57,55,11,61,TD
+San Diego State,Mountain West,Boise State,Mountain West,401022528,4010225281,false,1,75,15,1,73,13,35,25,3,2,PUNT
+Boise State,Mountain West,San Diego State,Mountain West,401022528,4010225282,false,1,25,13,1,29,12,48,47,3,4,PUNT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,4010225283,false,1,71,12,1,54,10,48,,4,17,PUNT
+Boise State,Mountain West,San Diego State,Mountain West,401022528,4010225284,false,1,27,10,1,27,10,43,5,1,0,INT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,4010225285,true,1,24,10,1,19,9,14,29,4,5,FG
+Boise State,Mountain West,San Diego State,Mountain West,401022528,4010225286,false,1,25,9,1,27,,,14,3,2,PUNT
+Boise State,Mountain West,San Diego State,Mountain West,401022528,4010225288,true,1,96,7,1,100,6,48,6,3,4,TD
+San Diego State,Mountain West,Boise State,Mountain West,401022528,4010225289,false,1,75,6,1,54,,,48,4,21,PUNT
+San José State,Mountain West,Colorado State,Mountain West,401022529,4010225291,false,1,20,15,1,39,13,48,12,4,19,PUNT
+Colorado State,Mountain West,San José State,Mountain West,401022529,4010225292,true,1,77,13,1,0,10,52,56,6,77,TD
+San José State,Mountain West,Colorado State,Mountain West,401022529,4010225293,false,1,23,10,1,49,9,41,11,5,26,PUNT
+Colorado State,Mountain West,San José State,Mountain West,401022529,4010225294,false,1,81,9,1,69,6,46,55,6,12,PUNT
+San José State,Mountain West,Colorado State,Mountain West,401022529,4010225295,false,1,24,6,1,23,5,45,1,3,-1,PUNT
+Colorado State,Mountain West,San José State,Mountain West,401022529,4010225296,true,1,55,5,1,0,3,4,41,5,55,TD
+San José State,Mountain West,Colorado State,Mountain West,401022529,4010225297,false,1,25,3,2,65,13,28,36,11,40,PUNT
+Colorado State,Mountain West,San José State,Mountain West,401022529,4010225298,false,2,80,13,2,77,11,45,43,3,3,PUNT
+San José State,Mountain West,Colorado State,Mountain West,401022529,4010225299,false,2,41,11,2,53,11,2,43,4,12,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,4010225301,false,1,75,15,1,63,12,57,3,5,12,PUNT
+UNLV,Mountain West,New Mexico,Mountain West,401022530,4010225302,false,1,37,12,1,34,12,5,52,3,-3,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,4010225303,false,1,80,12,1,54,8,44,21,8,26,PUNT
+UNLV,Mountain West,New Mexico,Mountain West,401022530,4010225304,false,1,12,8,1,20,6,54,50,3,8,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,4010225305,false,1,84,6,1,54,2,57,57,8,30,PUNT
+UNLV,Mountain West,New Mexico,Mountain West,401022530,4010225306,false,1,40,2,1,42,2,13,44,2,2,INT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,4010225307,true,1,14,2,2,0,14,57,16,5,14,TD
+UNLV,Mountain West,New Mexico,Mountain West,401022530,4010225308,false,2,25,14,2,25,13,18,39,3,0,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,4010225309,true,2,56,13,2,0,9,34,44,8,56,TD
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,4010225311,false,1,18,15,1,34,12,4,56,5,16,PUNT
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,4010225312,true,1,66,12,1,23,8,,4,8,43,FG
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,4010225313,false,1,22,8,1,96,,12,48,14,74,DOWNS
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,4010225314,false,1,96,,1,87,,,12,3,9,PUNT
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,4010225315,false,2,47,13,2,75,12,40,46,2,28,FUMBLE
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,4010225316,false,2,75,12,2,67,10,22,18,4,8,PUNT
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,4010225317,true,2,65,10,2,79,8,18,4,8,14,FG
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,4010225318,false,2,75,8,2,91,5,24,54,3,-16,PUNT
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,4010225319,false,2,51,5,2,62,,,24,5,11,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,4010225321,false,1,25,15,1,65,11,25,35,8,40,DOWNS
+Fresno State,Mountain West,Nevada,Mountain West,401022532,4010225322,false,1,65,11,1,45,8,23,2,7,20,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,4010225323,false,1,12,8,1,32,5,47,36,6,20,PUNT
+Fresno State,Mountain West,Nevada,Mountain West,401022532,4010225324,false,1,70,5,1,61,3,55,52,3,9,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,4010225325,false,1,20,3,1,18,2,20,35,3,-2,PUNT
+Fresno State,Mountain West,Nevada,Mountain West,401022532,4010225326,true,1,69,2,2,0,13,11,9,9,69,TD
+Nevada,Mountain West,Fresno State,Mountain West,401022532,4010225327,true,2,25,13,2,76,7,53,18,11,51,FG
+Fresno State,Mountain West,Nevada,Mountain West,401022532,4010225328,false,2,63,7,2,64,6,56,57,3,-1,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,4010225329,false,2,19,6,2,24,5,20,36,3,5,PUNT
+Arkansas,SEC,Alabama,SEC,401012300,40101230010,true,2,25,10,2,100,6,9,3,7,75,TD
+Alabama,SEC,Arkansas,SEC,401012300,40101230011,true,2,74,6,2,0,2,49,20,8,74,TD
+Arkansas,SEC,Alabama,SEC,401012300,40101230012,false,2,25,2,2,29,1,50,59,3,4,PUNT
+Alabama,SEC,Arkansas,SEC,401012300,40101230013,true,2,60,1,2,0,1,38,12,1,60,TD
+Arkansas,SEC,Alabama,SEC,401012300,40101230014,false,2,25,1,2,32,,30,8,3,7,PUNT
+Alabama,SEC,Arkansas,SEC,401012300,40101230015,false,2,67,,2,58,,,30,2,9,END OF HALF
+Arkansas,SEC,Alabama,SEC,401012300,40101230016,false,3,25,15,3,45,12,1,59,6,20,DOWNS
+Alabama,SEC,Arkansas,SEC,401012300,40101230017,true,3,44,12,3,0,8,47,14,7,44,TD
+Arkansas,SEC,Alabama,SEC,401012300,40101230018,true,3,25,8,3,77,3,26,21,11,52,FG
+Alabama,SEC,Arkansas,SEC,401012300,40101230019,true,3,67,3,4,9,13,37,49,10,58,FG
+Arkansas,SEC,Alabama,SEC,401012300,40101230020,true,4,25,13,4,40,12,15,22,4,15,INT TD
+Arkansas,SEC,Alabama,SEC,401012300,40101230021,true,4,25,12,4,100,8,58,17,7,75,TD
+Alabama,SEC,Arkansas,SEC,401012300,40101230022,true,4,72,8,4,0,1,59,59,11,72,TD
+Arkansas,SEC,Alabama,SEC,401012300,40101230023,true,4,78,1,4,100,,13,46,5,22,TD
+Alabama,SEC,Arkansas,SEC,401012300,40101230024,false,4,73,,4,70,,,13,1,-3,Uncategorized
+Florida,SEC,LSU,SEC,401012301,40101230110,false,2,10,9,2,30,6,33,31,4,20,PUNT
+LSU,SEC,Florida,SEC,401012301,40101230111,true,2,78,6,2,15,3,10,23,10,63,FG
+Florida,SEC,LSU,SEC,401012301,40101230112,true,2,25,3,2,100,1,9,1,7,75,TD
+LSU,SEC,Florida,SEC,401012301,40101230113,false,2,75,1,2,72,,21,48,3,3,PUNT
+Florida,SEC,LSU,SEC,401012301,40101230114,false,2,30,,2,35,,,21,2,5,END OF HALF
+Florida,SEC,LSU,SEC,401012301,40101230115,false,3,74,15,3,87,14,35,25,2,62,INT
+LSU,SEC,Florida,SEC,401012301,40101230116,false,3,80,14,3,45,12,4,31,5,35,PUNT
+Florida,SEC,LSU,SEC,401012301,40101230117,false,3,23,12,3,15,10,22,42,3,-8,PUNT
+LSU,SEC,Florida,SEC,401012301,40101230118,false,3,58,10,3,57,8,35,47,3,1,PUNT
+Florida,SEC,LSU,SEC,401012301,40101230119,false,3,8,8,3,17,6,12,23,3,9,PUNT
+LSU,SEC,Florida,SEC,401012301,40101230120,true,3,42,6,3,24,4,16,56,5,18,FG
+Florida,SEC,LSU,SEC,401012301,40101230121,false,3,20,4,3,20,3,13,3,3,0,PUNT
+LSU,SEC,Florida,SEC,401012301,40101230122,false,3,78,3,3,77,1,43,30,3,1,PUNT
+Florida,SEC,LSU,SEC,401012301,40101230123,false,3,16,1,4,61,12,48,55,8,45,PUNT
+LSU,SEC,Florida,SEC,401012301,40101230124,true,4,80,12,4,0,11,14,34,4,80,TD
+Florida,SEC,LSU,SEC,401012301,40101230125,true,4,25,11,4,100,8,48,26,9,75,TD
+LSU,SEC,Florida,SEC,401012301,40101230126,false,4,75,8,4,45,6,24,24,6,30,PUNT
+Florida,SEC,LSU,SEC,401012301,40101230127,false,4,4,6,4,34,2,21,3,9,30,PUNT
+LSU,SEC,Florida,SEC,401012301,40101230128,true,4,88,2,4,82,1,45,36,3,6,INT TD
+LSU,SEC,Florida,SEC,401012301,40101230129,false,4,73,1,4,59,,21,24,8,14,INT
+Florida,SEC,LSU,SEC,401012301,40101230130,false,4,34,,4,38,,,21,1,4,END OF GAME
+Georgia,SEC,Vanderbilt,SEC,401012302,40101230210,true,2,25,2,2,100,1,14,4,6,75,TD
+Vanderbilt,SEC,Georgia,SEC,401012302,40101230211,false,2,90,1,2,84,,,14,2,6,END OF HALF
+Georgia,SEC,Vanderbilt,SEC,401012302,40101230212,true,3,25,15,3,100,11,45,15,8,75,TD
+Vanderbilt,SEC,Georgia,SEC,401012302,40101230213,false,3,75,11,3,65,8,57,48,4,10,PUNT
+Georgia,SEC,Vanderbilt,SEC,401012302,40101230214,true,3,6,8,3,64,3,41,16,14,58,FG
+Vanderbilt,SEC,Georgia,SEC,401012302,40101230215,false,3,75,3,3,72,2,34,7,3,3,PUNT
+Georgia,SEC,Vanderbilt,SEC,401012302,40101230216,true,3,44,2,3,100,1,4,30,3,56,TD
+Vanderbilt,SEC,Georgia,SEC,401012302,40101230217,false,3,75,1,3,67,,,4,3,8,PUNT
+Georgia,SEC,Vanderbilt,SEC,401012302,40101230218,true,3,22,,4,89,9,22,38,11,67,FG
+Vanderbilt,SEC,Georgia,SEC,401012302,40101230219,false,4,75,9,4,52,6,37,45,6,23,PUNT
+Georgia,SEC,Vanderbilt,SEC,401012302,40101230220,false,4,10,6,4,22,3,28,9,4,12,PUNT
+Vanderbilt,SEC,Georgia,SEC,401012302,40101230221,true,4,53,3,4,0,,2,26,7,53,TD
+Georgia,SEC,Vanderbilt,SEC,401012302,40101230222,false,4,25,,4,24,,,2,1,-1,END OF GAME
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,40101230310,true,2,28,9,2,100,7,7,21,8,72,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,40101230311,false,2,75,7,2,26,2,13,54,12,49,DOWNS
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,40101230312,true,2,26,2,2,100,1,43,30,2,74,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,40101230313,false,2,75,1,2,50,1,7,36,5,25,PUNT
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,40101230314,true,2,2,1,2,100,,4,3,6,98,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,40101230315,false,2,71,,2,71,,,4,0,0,Uncategorized
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,40101230316,true,3,25,15,3,100,13,44,16,4,75,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,40101230317,false,3,77,13,3,66,10,33,11,6,11,PUNT
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,40101230318,true,3,8,10,3,100,9,54,39,2,92,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,40101230319,false,3,61,9,3,22,6,58,56,6,39,DOWNS
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,40101230320,true,3,22,6,3,27,4,59,59,3,5,PUNT RETURN TD
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,40101230322,true,3,25,4,4,100,12,32,21,11,75,TD
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,40101230323,false,4,72,12,4,35,10,29,3,6,37,FUMBLE
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,40101230324,false,4,45,10,4,57,5,32,57,7,12,PUNT
+Louisiana Monroe,Sun Belt,Ole Miss,SEC,401012303,40101230325,true,4,86,5,4,0,1,25,7,12,86,TD
+Ole Miss,SEC,Louisiana Monroe,Sun Belt,401012303,40101230326,false,4,25,1,4,46,,,25,2,21,END OF GAME
+Mississippi State,SEC,Auburn,SEC,401012304,40101230410,false,2,6,8,2,34,4,23,14,7,28,FUMBLE
+Mississippi State,SEC,Auburn,SEC,401012304,40101230411,true,2,64,4,2,35,,,23,8,36,END OF HALF
+Mississippi State,SEC,Auburn,SEC,401012304,40101230412,true,3,25,15,3,85,6,55,5,13,60,FG
+Auburn,SEC,Mississippi State,SEC,401012304,40101230413,true,3,75,6,3,20,5,45,10,6,55,FG
+Mississippi State,SEC,Auburn,SEC,401012304,40101230414,false,3,25,5,3,31,4,17,28,3,6,PUNT
+Auburn,SEC,Mississippi State,SEC,401012304,40101230415,false,3,70,4,3,42,1,58,19,6,70,FUMBLE
+Mississippi State,SEC,Auburn,SEC,401012304,40101230416,false,3,20,1,4,59,13,46,12,6,38,DOWNS
+Auburn,SEC,Mississippi State,SEC,401012304,40101230417,true,4,58,13,4,6,11,24,22,10,52,FG
+Mississippi State,SEC,Auburn,SEC,401012304,40101230418,false,4,25,11,4,86,7,38,46,7,61,MISSED FG
+Auburn,SEC,Mississippi State,SEC,401012304,40101230419,false,4,43,7,4,30,6,33,5,6,13,DOWNS
+Mississippi State,SEC,Auburn,SEC,401012304,40101230420,true,4,30,6,4,100,2,2,31,8,70,TD
+Auburn,SEC,Mississippi State,SEC,401012304,40101230421,false,4,65,2,4,30,,37,25,10,35,DOWNS
+Mississippi State,SEC,Auburn,SEC,401012304,40101230422,false,4,30,,4,26,,,37,1,-4,Uncategorized
+Missouri,SEC,South Carolina,SEC,401012305,40101230510,false,2,75,12,2,61,10,50,7,5,14,PUNT
+South Carolina,SEC,Missouri,SEC,401012305,40101230511,false,2,22,10,2,64,8,54,56,6,42,DOWNS
+Missouri,SEC,South Carolina,SEC,401012305,40101230512,true,2,64,8,2,14,6,16,38,7,50,FG
+South Carolina,SEC,Missouri,SEC,401012305,40101230513,false,2,40,6,2,46,4,53,23,3,6,PUNT
+Missouri,SEC,South Carolina,SEC,401012305,40101230514,true,2,85,4,2,3,,23,30,15,82,FG
+South Carolina,SEC,Missouri,SEC,401012305,40101230515,false,2,33,,2,31,,,23,1,-2,END OF HALF
+Missouri,SEC,South Carolina,SEC,401012305,40101230516,false,3,75,15,3,71,14,19,41,3,4,PUNT
+South Carolina,SEC,Missouri,SEC,401012305,40101230517,true,3,34,14,3,100,9,34,45,12,66,TD
+Missouri,SEC,South Carolina,SEC,401012305,40101230518,false,3,75,9,3,46,7,15,19,6,29,DOWNS
+South Carolina,SEC,Missouri,SEC,401012305,40101230519,true,3,46,7,3,75,5,15,,9,29,FG
+Missouri,SEC,South Carolina,SEC,401012305,40101230520,true,3,81,5,3,83,5,,15,3,-2,INT TD
+Missouri,SEC,South Carolina,SEC,401012305,40101230522,false,3,58,5,3,7,2,14,46,7,51,MISSED FG
+South Carolina,SEC,Missouri,SEC,401012305,40101230523,false,3,20,2,3,33,,,14,6,13,PUNT
+Missouri,SEC,South Carolina,SEC,401012305,40101230524,true,4,21,14,4,0,13,54,46,3,21,TD
+South Carolina,SEC,Missouri,SEC,401012305,40101230525,false,4,29,13,4,32,12,56,58,4,3,FUMBLE
+Missouri,SEC,South Carolina,SEC,401012305,40101230526,true,4,32,12,4,26,11,1,55,4,6,FG
+South Carolina,SEC,Missouri,SEC,401012305,40101230527,true,4,35,11,4,75,6,23,38,12,40,FG
+Missouri,SEC,South Carolina,SEC,401012305,40101230528,false,4,91,6,4,87,5,35,48,3,4,INT
+South Carolina,SEC,Missouri,SEC,401012305,40101230529,false,4,63,5,4,71,4,6,29,4,8,DOWNS
+Missouri,SEC,South Carolina,SEC,401012305,40101230530,true,4,71,4,4,38,1,18,48,7,33,FG
+South Carolina,SEC,Missouri,SEC,401012305,40101230531,true,4,31,1,4,84,,2,16,9,53,FG
+Missouri,SEC,South Carolina,SEC,401012305,40101230532,false,4,67,,4,67,,,2,1,0,END OF GAME
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230610,true,2,30,5,2,100,1,14,43,12,70,TD
+Kentucky,SEC,Texas A&M,SEC,401012306,40101230611,false,2,75,1,2,80,,26,48,3,-5,PUNT
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230612,false,2,30,,2,53,,,26,3,23,END OF HALF
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230613,false,3,25,15,3,77,9,21,39,10,52,MISSED FG
+Kentucky,SEC,Texas A&M,SEC,401012306,40101230614,false,3,77,9,3,65,6,11,10,5,12,PUNT
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230615,false,3,27,6,3,59,3,24,47,5,32,PUNT
+Kentucky,SEC,Texas A&M,SEC,401012306,40101230616,false,3,80,3,3,68,1,13,11,3,12,PUNT
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230617,false,3,21,1,4,54,12,46,27,7,33,INT
+Kentucky,SEC,Texas A&M,SEC,401012306,40101230618,false,4,51,12,4,58,11,7,39,3,-7,PUNT
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230619,true,4,52,11,4,100,10,13,54,2,48,TD
+Kentucky,SEC,Texas A&M,SEC,401012306,40101230620,false,4,75,10,4,69,7,59,14,3,6,PUNT
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230621,true,4,24,7,4,43,4,17,42,6,16,FUMBLE TD
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230622,false,4,15,4,4,27,2,13,4,3,-1,PUNT
+Kentucky,SEC,Texas A&M,SEC,401012306,40101230623,false,4,91,2,4,72,,2,11,6,19,PUNT
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230624,false,4,41,,4,56,,,2,3,15,END OF GAME
+Kentucky,SEC,Texas A&M,SEC,401012306,40101230625,false,5,25,,5,25,,,,4,0,MISSED FG
+Texas A&M,SEC,Kentucky,SEC,401012306,40101230626,true,5,75,,5,100,,,,4,25,TD
+California,Pac-12,Arizona,Pac-12,401012759,40101275910,true,2,75,2,2,0,,34,20,7,75,TD
+Arizona,Pac-12,California,Pac-12,401012759,40101275911,false,2,30,,2,53,,,34,6,23,END OF HALF
+California,Pac-12,Arizona,Pac-12,401012759,40101275912,false,3,75,15,3,68,13,41,19,3,7,PUNT
+Arizona,Pac-12,California,Pac-12,401012759,40101275913,false,3,29,13,3,61,11,52,49,6,32,INT
+California,Pac-12,Arizona,Pac-12,401012759,40101275914,false,3,79,11,3,51,7,52,,5,28,PUNT
+Arizona,Pac-12,California,Pac-12,401012759,40101275915,false,3,8,7,3,17,5,59,53,3,9,PUNT
+California,Pac-12,Arizona,Pac-12,401012759,40101275916,true,3,55,5,3,35,3,19,40,6,20,INT TD
+California,Pac-12,Arizona,Pac-12,401012759,40101275918,false,3,75,3,3,3,,,19,13,72,DOWNS
+Arizona,Pac-12,California,Pac-12,401012759,40101275919,false,4,3,12,4,55,8,27,48,8,52,FUMBLE
+California,Pac-12,Arizona,Pac-12,401012759,40101275920,false,4,55,8,4,60,8,12,15,1,-5,INT
+Arizona,Pac-12,California,Pac-12,401012759,40101275921,false,4,72,8,4,78,7,5,7,4,6,MISSED FG
+California,Pac-12,Arizona,Pac-12,401012759,40101275922,false,4,78,7,4,38,5,19,46,5,40,FUMBLE
+Arizona,Pac-12,California,Pac-12,401012759,40101275923,false,4,38,5,4,47,3,21,58,3,9,PUNT
+California,Pac-12,Arizona,Pac-12,401012759,40101275924,true,4,86,3,4,86,3,13,8,1,0,INT TD
+California,Pac-12,Arizona,Pac-12,401012759,40101275926,true,4,75,3,4,18,,12,1,10,57,FG
+Arizona,Pac-12,California,Pac-12,401012759,40101275927,false,4,64,,4,63,,,12,1,-1,END OF GAME
+UCLA,Pac-12,Washington,Pac-12,401012760,40101276010,false,2,25,4,2,29,3,52,50,3,4,PUNT
+Washington,Pac-12,UCLA,Pac-12,401012760,40101276011,true,2,77,3,2,0,,33,19,10,77,TD
+UCLA,Pac-12,Washington,Pac-12,401012760,40101276012,false,2,25,,2,58,,,33,5,33,END OF HALF
+UCLA,Pac-12,Washington,Pac-12,401012760,40101276013,true,3,25,15,3,67,9,46,14,12,42,FG
+Washington,Pac-12,UCLA,Pac-12,401012760,40101276014,false,3,75,9,3,50,5,54,52,7,25,PUNT
+UCLA,Pac-12,Washington,Pac-12,401012760,40101276015,true,3,10,5,4,100,14,53,1,17,90,TD
+Washington,Pac-12,UCLA,Pac-12,401012760,40101276016,false,4,75,14,4,50,11,16,37,8,25,PUNT
+UCLA,Pac-12,Washington,Pac-12,401012760,40101276017,false,4,20,11,4,22,10,27,49,3,2,PUNT
+Washington,Pac-12,UCLA,Pac-12,401012760,40101276018,true,4,81,10,4,0,3,42,45,12,81,TD
+UCLA,Pac-12,Washington,Pac-12,401012760,40101276019,true,4,25,3,4,100,1,38,4,9,75,TD
+Washington,Pac-12,UCLA,Pac-12,401012760,40101276020,false,4,42,1,4,46,,,38,5,-4,END OF GAME
+Colorado,Pac-12,Arizona State,Pac-12,401012761,40101276110,true,3,25,13,3,100,11,46,49,5,75,TD
+Arizona State,Pac-12,Colorado,Pac-12,401012761,40101276111,false,3,75,11,3,64,9,49,57,4,11,PUNT
+Colorado,Pac-12,Arizona State,Pac-12,401012761,40101276112,false,3,20,9,3,27,8,28,21,3,7,PUNT
+Arizona State,Pac-12,Colorado,Pac-12,401012761,40101276113,false,3,60,8,3,52,6,24,4,3,8,PUNT
+Colorado,Pac-12,Arizona State,Pac-12,401012761,40101276114,false,3,4,6,3,12,4,45,39,3,8,PUNT
+Arizona State,Pac-12,Colorado,Pac-12,401012761,40101276115,false,3,57,4,3,48,3,13,32,3,9,PUNT
+Colorado,Pac-12,Arizona State,Pac-12,401012761,40101276116,true,3,20,3,3,100,,42,31,7,80,TD
+Arizona State,Pac-12,Colorado,Pac-12,401012761,40101276117,false,3,75,,4,3,13,25,17,5,72,DOWNS
+Colorado,Pac-12,Arizona State,Pac-12,401012761,40101276118,false,4,3,13,4,43,8,1,24,11,40,PUNT
+Arizona State,Pac-12,Colorado,Pac-12,401012761,40101276119,false,4,70,8,4,66,7,10,51,3,4,PUNT
+Colorado,Pac-12,Arizona State,Pac-12,401012761,40101276120,false,4,24,7,4,71,,,10,13,47,END OF GAME
+Oregon State,Pac-12,Washington State,Pac-12,401012762,40101276210,true,2,55,13,2,86,8,27,14,11,31,FG
+Washington State,Pac-12,Oregon State,Pac-12,401012762,40101276211,false,2,73,8,2,74,6,51,36,3,-1,PUNT
+Oregon State,Pac-12,Washington State,Pac-12,401012762,40101276212,true,2,40,6,2,100,4,40,11,4,60,TD
+Washington State,Pac-12,Oregon State,Pac-12,401012762,40101276213,true,2,78,4,2,0,,29,11,12,78,TD
+Oregon State,Pac-12,Washington State,Pac-12,401012762,40101276214,false,2,23,,2,29,,,29,2,6,END OF HALF
+Oregon State,Pac-12,Washington State,Pac-12,401012762,40101276215,true,3,57,14,3,100,12,3,49,8,43,TD
+Washington State,Pac-12,Oregon State,Pac-12,401012762,40101276216,true,3,56,12,3,0,6,33,30,11,56,TD
+Oregon State,Pac-12,Washington State,Pac-12,401012762,40101276217,false,3,15,6,3,42,3,9,24,6,27,PUNT
+Washington State,Pac-12,Oregon State,Pac-12,401012762,40101276218,true,3,78,3,4,0,14,22,47,9,78,TD
+Oregon State,Pac-12,Washington State,Pac-12,401012762,40101276219,false,4,25,14,4,100,12,16,6,5,75,FUMBLE
+Washington State,Pac-12,Oregon State,Pac-12,401012762,40101276220,true,4,80,12,4,0,9,1,15,6,80,TD
+Oregon State,Pac-12,Washington State,Pac-12,401012762,40101276221,false,4,17,9,4,33,3,46,15,11,16,PUNT
+Washington State,Pac-12,Oregon State,Pac-12,401012762,40101276222,true,4,75,3,4,0,1,11,35,7,75,TD
+Oregon State,Pac-12,Washington State,Pac-12,401012762,40101276223,true,4,35,1,4,100,,32,39,4,65,TD
+Washington State,Pac-12,Oregon State,Pac-12,401012762,40101276224,false,4,47,,4,52,,,32,1,-5,END OF GAME
+Utah,Pac-12,Stanford,Pac-12,401012763,40101276310,true,3,75,15,3,31,9,40,20,12,44,FG
+Stanford,Pac-12,Utah,Pac-12,401012763,40101276311,true,3,23,9,3,100,5,2,38,9,77,TD
+Utah,Pac-12,Stanford,Pac-12,401012763,40101276312,false,3,75,5,3,79,3,46,16,3,-4,PUNT
+Stanford,Pac-12,Utah,Pac-12,401012763,40101276313,true,3,26,3,3,100,1,44,2,5,74,TD
+Utah,Pac-12,Stanford,Pac-12,401012763,40101276314,true,3,75,1,4,16,12,33,11,9,59,FG
+Stanford,Pac-12,Utah,Pac-12,401012763,40101276315,false,4,25,12,4,39,9,51,42,5,14,PUNT
+Utah,Pac-12,Stanford,Pac-12,401012763,40101276316,true,4,74,9,4,0,7,12,39,5,74,TD
+Stanford,Pac-12,Utah,Pac-12,401012763,40101276317,false,4,25,7,4,67,5,32,40,5,33,FUMBLE
+Utah,Pac-12,Stanford,Pac-12,401012763,40101276318,true,4,58,5,4,19,3,34,58,5,39,FG
+Stanford,Pac-12,Utah,Pac-12,401012763,40101276319,false,4,24,3,4,62,1,21,13,9,40,FUMBLE
+Utah,Pac-12,Stanford,Pac-12,401012763,40101276320,false,4,64,1,4,61,,,21,2,-3,Uncategorized
+Rutgers,Big Ten,Illinois,Big Ten,401012808,40101280810,false,2,25,9,2,35,7,28,8,4,10,PUNT
+Illinois,Big Ten,Rutgers,Big Ten,401012808,40101280811,true,2,73,7,2,0,7,17,11,1,73,TD
+Rutgers,Big Ten,Illinois,Big Ten,401012808,40101280812,false,2,25,7,2,32,5,30,47,4,7,DOWNS
+Illinois,Big Ten,Rutgers,Big Ten,401012808,40101280813,false,2,32,5,2,39,4,21,9,3,-7,PUNT
+Rutgers,Big Ten,Illinois,Big Ten,401012808,40101280814,true,2,20,4,2,100,,52,29,11,80,TD
+Illinois,Big Ten,Rutgers,Big Ten,401012808,40101280815,false,2,78,,2,71,,,52,3,7,END OF HALF
+Rutgers,Big Ten,Illinois,Big Ten,401012808,40101280816,false,3,25,15,3,71,11,22,38,8,46,MISSED FG
+Illinois,Big Ten,Rutgers,Big Ten,401012808,40101280817,false,3,71,11,3,52,8,34,48,5,19,PUNT
+Rutgers,Big Ten,Illinois,Big Ten,401012808,40101280818,false,3,10,8,3,33,4,52,42,7,23,PUNT
+Illinois,Big Ten,Rutgers,Big Ten,401012808,40101280819,true,3,74,4,4,0,14,4,42,12,74,TD
+Rutgers,Big Ten,Illinois,Big Ten,401012808,40101280820,false,4,28,14,4,30,12,59,5,3,2,PUNT
+Illinois,Big Ten,Rutgers,Big Ten,401012808,40101280821,false,4,77,12,4,64,8,57,2,5,13,PUNT
+Rutgers,Big Ten,Illinois,Big Ten,401012808,40101280822,true,4,37,8,4,98,5,14,43,13,61,FG
+Illinois,Big Ten,Rutgers,Big Ten,401012808,40101280823,true,4,41,5,4,0,5,,14,1,41,TD
+Rutgers,Big Ten,Illinois,Big Ten,401012808,40101280824,false,4,26,5,4,95,2,41,19,9,69,INT
+Illinois,Big Ten,Rutgers,Big Ten,401012808,40101280825,false,4,70,2,4,52,,,41,4,18,END OF GAME
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285510,true,2,25,7,2,100,4,39,25,6,75,TD
+Indiana,Big Ten,Ohio State,Big Ten,401012855,40101285511,false,2,75,4,2,82,4,32,7,1,7,Uncategorized
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285512,true,2,68,4,2,100,2,16,16,6,32,TD
+Indiana,Big Ten,Ohio State,Big Ten,401012855,40101285513,true,2,75,2,2,19,,40,36,8,56,FG
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285514,false,2,25,,2,34,,,40,1,9,END OF HALF
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285515,true,3,25,15,3,100,14,9,51,3,75,TD
+Indiana,Big Ten,Ohio State,Big Ten,401012855,40101285516,false,3,75,14,3,76,13,6,3,3,-1,PUNT
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285517,false,3,40,13,3,34,11,39,27,3,-6,PUNT
+Indiana,Big Ten,Ohio State,Big Ten,401012855,40101285518,false,3,78,11,3,45,8,53,46,5,29,FUMBLE
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285519,false,3,49,8,3,58,7,37,16,4,9,DOWNS
+Indiana,Big Ten,Ohio State,Big Ten,401012855,40101285520,true,3,58,7,3,0,4,53,44,8,58,TD
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285521,false,3,30,4,3,32,2,58,55,4,2,INT
+Indiana,Big Ten,Ohio State,Big Ten,401012855,40101285522,false,3,49,2,3,38,2,15,43,4,11,PUNT
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285523,false,3,4,2,3,2,,38,37,3,-2,PUNT
+Indiana,Big Ten,Ohio State,Big Ten,401012855,40101285524,false,3,33,,3,33,,17,21,4,0,MISSED FG
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285525,true,3,33,,4,100,12,21,56,10,67,TD
+Indiana,Big Ten,Ohio State,Big Ten,401012855,40101285526,false,4,75,12,4,70,11,9,12,3,5,PUNT
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285527,true,4,24,11,4,100,6,51,18,10,76,TD
+Indiana,Big Ten,Ohio State,Big Ten,401012855,40101285528,false,4,75,6,4,54,5,14,37,5,22,DOWNS
+Ohio State,Big Ten,Indiana,Big Ten,401012855,40101285529,false,4,53,5,4,86,,,14,7,33,Uncategorized
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286610,false,2,75,4,2,75,3,1,59,3,0,PUNT
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286611,false,2,44,3,2,49,2,2,59,4,5,DOWNS
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286612,true,2,49,2,2,0,1,35,27,5,49,TD
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286613,false,2,25,1,2,72,1,12,23,3,47,INT
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286614,false,2,80,1,2,80,1,2,10,1,0,INT
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286615,true,2,94,1,2,100,,53,9,2,6,TD
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286616,false,2,65,,2,56,,,53,3,9,END OF HALF
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286617,true,3,75,15,3,22,11,41,19,9,53,FG
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286618,false,3,35,11,3,56,8,52,49,6,21,PUNT
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286619,false,3,88,8,3,90,8,12,40,2,-2,FUMBLE
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286620,true,3,97,8,3,100,7,36,36,2,3,TD
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286621,true,3,51,7,3,0,4,3,33,9,51,TD
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286622,false,3,25,4,3,72,,29,34,7,47,DOWNS
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286623,false,3,72,,4,66,14,39,50,3,6,PUNT
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286624,false,4,25,14,4,25,14,32,7,1,0,INT
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286625,false,4,63,14,4,60,12,55,37,3,3,PUNT
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286626,false,4,17,12,4,10,11,59,56,2,-7,INT
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286627,true,4,9,11,4,2,9,20,39,4,7,FG
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286628,true,4,25,9,4,100,5,35,45,10,75,TD
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286629,true,4,45,5,4,0,1,27,8,8,45,TD
+Minnesota,Big Ten,Iowa,Big Ten,401012866,40101286630,false,4,38,1,4,65,,38,49,4,27,INT
+Iowa,Big Ten,Minnesota,Big Ten,401012866,40101286631,false,4,95,,4,97,,,38,1,-2,END OF GAME
+Maryland,Big Ten,Michigan,Big Ten,401012876,40101287610,false,2,75,8,2,65,5,22,59,4,10,PUNT
+Michigan,Big Ten,Maryland,Big Ten,401012876,40101287611,true,2,36,5,2,100,,16,6,12,64,TD
+Maryland,Big Ten,Michigan,Big Ten,401012876,40101287612,false,2,75,,2,76,,,16,1,-1,END OF HALF
+Maryland,Big Ten,Michigan,Big Ten,401012876,40101287613,false,3,75,15,3,86,11,48,12,3,-11,PUNT
+Michigan,Big Ten,Maryland,Big Ten,401012876,40101287614,true,3,44,11,3,87,7,13,35,8,43,FG
+Maryland,Big Ten,Michigan,Big Ten,401012876,40101287615,false,3,98,7,3,95,5,26,47,3,3,PUNT
+Michigan,Big Ten,Maryland,Big Ten,401012876,40101287616,true,3,57,5,3,100,2,15,11,5,43,TD
+Maryland,Big Ten,Michigan,Big Ten,401012876,40101287617,true,3,75,2,4,0,11,28,47,15,75,TD
+Michigan,Big Ten,Maryland,Big Ten,401012876,40101287618,true,4,19,11,4,100,6,37,51,9,81,TD
+Maryland,Big Ten,Michigan,Big Ten,401012876,40101287619,true,4,75,6,4,55,4,25,12,6,20,INT TD
+Maryland,Big Ten,Michigan,Big Ten,401012876,40101287620,true,4,78,4,4,0,1,50,35,6,78,TD
+Michigan,Big Ten,Maryland,Big Ten,401012876,40101287621,false,4,30,1,4,44,,,50,3,14,END OF GAME
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288210,false,2,21,13,2,42,9,44,8,6,21,PUNT
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288211,false,2,87,9,2,79,7,9,35,4,8,PUNT
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288212,true,2,33,7,2,93,2,50,19,10,60,FG
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288213,false,2,75,2,2,70,2,10,40,3,5,PUNT
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288214,false,2,14,2,2,53,1,7,3,6,39,INT
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288215,false,2,52,1,2,65,,,7,2,-13,END OF HALF
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288216,false,3,25,15,3,58,11,43,17,5,33,PUNT
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288217,false,3,81,11,3,42,8,39,4,8,39,PUNT
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288218,true,3,20,8,3,100,7,12,27,4,80,TD
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288219,false,3,65,7,3,67,6,39,33,2,-2,INT
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288220,true,3,67,6,3,100,4,8,31,6,33,TD
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288221,true,3,75,4,3,0,,15,53,9,75,TD
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288222,false,3,25,,4,42,12,8,7,5,17,PUNT
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288223,false,4,83,12,4,15,6,41,27,13,68,MISSED FG
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288224,false,4,20,6,4,5,4,24,17,3,-15,PUNT
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288225,false,4,33,4,4,31,3,59,25,3,2,PUNT
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288226,false,4,2,3,4,11,3,9,50,4,9,DOWNS
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288227,true,4,11,3,4,0,2,51,18,3,11,TD
+Michigan State,Big Ten,Northwestern,Big Ten,401012882,40101288228,false,4,25,2,4,99,,25,26,10,74,DOWNS
+Northwestern,Big Ten,Michigan State,Big Ten,401012882,40101288229,false,4,98,,4,99,,,25,1,-1,END OF GAME
+Kansas State,Big 12,Baylor,Big 12,401013031,40101303110,true,2,36,6,2,0,5,40,49,2,36,TD
+Baylor,Big 12,Kansas State,Big 12,401013031,40101303111,false,2,17,5,2,76,2,32,8,7,59,INT
+Kansas State,Big 12,Baylor,Big 12,401013031,40101303112,false,2,80,2,2,77,1,21,11,5,3,PUNT
+Baylor,Big 12,Kansas State,Big 12,401013031,40101303113,false,2,26,1,2,80,,,21,9,54,MISSED FG
+Kansas State,Big 12,Baylor,Big 12,401013031,40101303115,false,3,81,15,3,81,15,,,0,0,FUMBLE
+Baylor,Big 12,Kansas State,Big 12,401013031,40101303116,true,3,81,15,3,100,14,28,32,2,19,TD
+Kansas State,Big 12,Baylor,Big 12,401013031,40101303117,false,3,75,14,3,21,8,11,17,12,54,MISSED FG
+Baylor,Big 12,Kansas State,Big 12,401013031,40101303118,false,3,21,8,3,69,2,21,50,14,48,MISSED FG
+Kansas State,Big 12,Baylor,Big 12,401013031,40101303119,true,3,69,2,4,0,14,51,30,7,69,TD
+Baylor,Big 12,Kansas State,Big 12,401013031,40101303120,false,4,25,14,4,18,12,59,52,3,-7,PUNT
+Kansas State,Big 12,Baylor,Big 12,401013031,40101303121,true,4,68,12,4,0,10,38,21,5,68,TD
+Baylor,Big 12,Kansas State,Big 12,401013031,40101303122,true,4,29,10,4,100,8,32,6,7,71,TD
+Kansas State,Big 12,Baylor,Big 12,401013031,40101303123,false,4,75,8,4,72,7,46,46,3,3,INT
+Baylor,Big 12,Kansas State,Big 12,401013031,40101303124,true,4,33,7,4,100,6,41,5,4,67,TD
+Kansas State,Big 12,Baylor,Big 12,401013031,40101303125,true,4,75,6,4,0,4,26,15,5,75,TD
+Baylor,Big 12,Kansas State,Big 12,401013031,40101303126,true,4,13,4,4,89,,8,18,12,76,FG
+Kansas State,Big 12,Baylor,Big 12,401013031,40101303127,false,4,78,,4,52,,,8,2,26,END OF GAME
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304210,false,2,35,7,2,18,6,28,16,4,-11,PUNT
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304211,true,2,56,6,2,0,5,36,52,3,56,TD
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304212,true,2,25,5,2,100,2,21,15,9,75,TD
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304213,true,2,75,2,2,0,,21,,6,75,TD
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304214,false,2,46,,2,39,,,21,2,-7,END OF HALF
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304215,true,3,35,15,3,100,12,35,25,7,65,TD
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304216,true,3,75,12,3,0,11,6,29,4,75,TD
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304217,false,3,25,11,3,28,10,,6,3,3,PUNT
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304218,false,3,69,10,3,35,7,36,24,5,34,PUNT
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304219,false,3,13,7,3,15,6,23,13,3,2,PUNT
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304220,false,3,73,6,3,41,4,8,15,6,32,INT
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304221,false,3,9,4,3,22,3,25,43,2,9,FUMBLE
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304222,true,3,18,3,3,4,,4,21,7,14,FG
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304223,false,3,27,,4,37,12,21,43,5,10,FUMBLE
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304224,true,4,77,12,4,100,10,25,56,6,23,TD
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304225,false,4,69,10,4,63,8,,25,3,6,PUNT
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304226,false,4,12,8,4,12,6,56,4,3,0,PUNT
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304227,true,4,61,6,4,0,6,9,47,2,61,TD
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304228,false,4,21,6,4,29,4,18,51,5,8,INT
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304229,false,4,47,4,4,43,2,36,42,3,4,PUNT
+Oklahoma State,Big 12,Iowa State,Big 12,401013042,40101304230,true,4,4,2,4,100,,56,40,6,96,TD
+Iowa State,Big 12,Oklahoma State,Big 12,401013042,40101304231,false,4,48,,4,39,,,56,2,-9,Uncategorized
+Kansas,Big 12,West Virginia,Big 12,401013051,40101305110,false,2,75,11,2,47,8,9,43,9,28,PUNT
+West Virginia,Big 12,Kansas,Big 12,401013051,40101305111,false,2,12,8,2,94,3,,9,12,82,INT
+Kansas,Big 12,West Virginia,Big 12,401013051,40101305112,false,2,40,3,2,45,2,20,40,2,-5,INT
+West Virginia,Big 12,Kansas,Big 12,401013051,40101305113,false,2,41,2,2,96,,10,10,9,55,INT
+Kansas,Big 12,West Virginia,Big 12,401013051,40101305114,false,2,88,,2,92,,,10,1,-4,END OF HALF
+Kansas,Big 12,West Virginia,Big 12,401013051,40101305115,true,3,75,15,3,0,10,50,10,7,75,TD
+West Virginia,Big 12,Kansas,Big 12,401013051,40101305116,false,3,35,10,3,67,6,37,13,10,21,FUMBLE
+Kansas,Big 12,West Virginia,Big 12,401013051,40101305117,false,3,56,6,3,53,4,21,16,3,3,PUNT
+West Virginia,Big 12,Kansas,Big 12,401013051,40101305118,true,3,23,4,3,100,,,21,11,77,TD
+Kansas,Big 12,West Virginia,Big 12,401013051,40101305119,false,4,75,15,4,59,11,2,58,8,16,PUNT
+West Virginia,Big 12,Kansas,Big 12,401013051,40101305120,false,4,20,11,4,6,8,40,22,3,-14,FUMBLE
+West Virginia,Big 12,Kansas,Big 12,401013051,40101305121,true,4,38,8,4,68,5,5,35,8,30,FG
+Kansas,Big 12,West Virginia,Big 12,401013051,40101305122,false,4,74,5,4,70,3,1,4,6,4,DOWNS
+West Virginia,Big 12,Kansas,Big 12,401013051,40101305123,true,4,70,3,4,100,2,20,41,2,30,TD
+Kansas,Big 12,West Virginia,Big 12,401013051,40101305124,true,4,75,2,4,0,,1,19,9,75,TD
+Texas,Big 12,Oklahoma,Big 12,401013067,40101306710,false,2,75,,2,73,,,28,1,2,END OF HALF
+Texas,Big 12,Oklahoma,Big 12,401013067,40101306711,true,3,75,15,3,0,10,26,34,11,75,TD
+Oklahoma,Big 12,Texas,Big 12,401013067,40101306712,true,3,17,10,3,100,9,15,11,3,83,TD
+Texas,Big 12,Oklahoma,Big 12,401013067,40101306713,false,3,75,9,3,73,8,29,46,3,2,PUNT
+Oklahoma,Big 12,Texas,Big 12,401013067,40101306714,false,3,28,8,3,28,8,20,9,1,-5,FUMBLE
+Texas,Big 12,Oklahoma,Big 12,401013067,40101306715,true,3,23,8,3,0,6,21,59,5,23,TD
+Oklahoma,Big 12,Texas,Big 12,401013067,40101306716,false,3,25,6,3,32,5,,21,3,7,PUNT
+Texas,Big 12,Oklahoma,Big 12,401013067,40101306717,true,3,82,5,3,0,,56,4,9,82,TD
+Oklahoma,Big 12,Texas,Big 12,401013067,40101306718,false,3,25,,4,47,13,39,17,5,22,PUNT
+Texas,Big 12,Oklahoma,Big 12,401013067,40101306719,false,4,83,13,4,81,10,28,11,3,2,PUNT
+Oklahoma,Big 12,Texas,Big 12,401013067,40101306720,true,4,46,10,4,100,8,28,,6,54,TD
+Texas,Big 12,Oklahoma,Big 12,401013067,40101306721,false,4,75,8,4,55,5,22,6,6,20,PUNT
+Oklahoma,Big 12,Texas,Big 12,401013067,40101306722,true,4,33,5,4,100,5,11,11,1,67,TD
+Texas,Big 12,Oklahoma,Big 12,401013067,40101306723,false,4,75,5,4,79,3,43,28,3,-4,PUNT
+Oklahoma,Big 12,Texas,Big 12,401013067,40101306724,true,4,43,3,4,100,2,38,5,3,57,TD
+Texas,Big 12,Oklahoma,Big 12,401013067,40101306725,true,4,75,2,4,23,,9,29,9,52,FG
+Oklahoma,Big 12,Texas,Big 12,401013067,40101306726,false,4,25,,4,31,,,9,1,6,Uncategorized
+Georgia Tech,ACC,Louisville,ACC,401013138,40101313810,true,2,62,2,2,0,,32,17,9,62,TD
+Louisville,ACC,Georgia Tech,ACC,401013138,40101313811,true,2,12,,2,35,,,32,5,59,END OF HALF
+Georgia Tech,ACC,Louisville,ACC,401013138,40101313812,true,3,79,15,3,0,8,2,58,13,79,TD
+Louisville,ACC,Georgia Tech,ACC,401013138,40101313813,false,3,20,8,3,40,6,51,11,3,21,FUMBLE
+Georgia Tech,ACC,Louisville,ACC,401013138,40101313814,true,3,22,6,3,0,4,19,32,5,34,TD
+Louisville,ACC,Georgia Tech,ACC,401013138,40101313815,false,3,25,4,3,46,,35,44,7,21,PUNT
+Georgia Tech,ACC,Louisville,ACC,401013138,40101313816,true,3,87,,4,0,13,13,22,5,87,TD
+Louisville,ACC,Georgia Tech,ACC,401013138,40101313817,true,4,26,13,4,100,11,13,,8,74,TD
+Georgia Tech,ACC,Louisville,ACC,401013138,40101313818,true,4,75,11,4,0,6,35,38,8,75,TD
+Louisville,ACC,Georgia Tech,ACC,401013138,40101313819,true,4,16,6,4,89,2,18,17,9,73,INT TD
+Louisville,ACC,Georgia Tech,ACC,401013138,40101313820,true,4,37,2,4,100,,28,50,6,63,TD
+Georgia Tech,ACC,Louisville,ACC,401013138,40101313821,false,4,75,,4,72,,,28,1,3,END OF GAME
+NC State,ACC,Boston College,ACC,401013139,40101313910,true,2,23,8,2,100,4,36,32,7,77,TD
+Boston College,ACC,NC State,ACC,401013139,40101313911,false,2,89,4,2,61,2,27,9,5,28,PUNT
+NC State,ACC,Boston College,ACC,401013139,40101313912,true,2,14,2,2,100,,43,44,11,86,TD
+Boston College,ACC,NC State,ACC,401013139,40101313913,false,2,75,,2,69,,,43,3,6,END OF HALF
+NC State,ACC,Boston College,ACC,401013139,40101313914,false,3,26,14,3,98,5,51,5,16,72,MISSED FG
+NC State,ACC,Boston College,ACC,401013139,40101313916,true,3,40,4,3,100,2,51,54,4,60,TD
+Boston College,ACC,NC State,ACC,401013139,40101313917,true,3,62,2,3,0,1,33,18,5,62,TD
+NC State,ACC,Boston College,ACC,401013139,40101313918,false,3,25,1,3,64,,,33,7,39,FUMBLE
+Boston College,ACC,NC State,ACC,401013139,40101313919,true,4,64,12,4,0,11,10,36,5,64,TD
+NC State,ACC,Boston College,ACC,401013139,40101313920,false,4,25,11,4,32,9,39,31,3,7,PUNT
+Boston College,ACC,NC State,ACC,401013139,40101313921,false,4,80,9,4,2,6,9,30,8,78,FUMBLE
+NC State,ACC,Boston College,ACC,401013139,40101313922,true,4,2,6,4,22,3,33,36,6,20,PUNT RETURN TD
+NC State,ACC,Boston College,ACC,401013139,40101313924,false,4,54,3,4,85,,,33,7,31,END OF GAME
+Wake Forest,ACC,Clemson,ACC,401013140,40101314010,false,1,13,3,1,44,1,25,24,9,31,INT
+Clemson,ACC,Wake Forest,ACC,401013140,40101314011,true,1,62,1,2,0,13,16,9,8,62,TD
+Wake Forest,ACC,Clemson,ACC,401013140,40101314012,false,2,30,13,2,34,12,9,7,3,4,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,40101314013,true,2,75,12,2,0,9,53,16,5,75,TD
+Wake Forest,ACC,Clemson,ACC,401013140,40101314014,false,2,25,9,2,35,8,42,11,4,10,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,40101314015,false,2,84,8,2,74,4,53,49,6,10,PUNT
+Wake Forest,ACC,Clemson,ACC,401013140,40101314016,false,2,52,4,2,81,3,27,26,5,29,DOWNS
+Clemson,ACC,Wake Forest,ACC,401013140,40101314017,true,2,81,3,2,0,,30,57,10,81,TD
+Wake Forest,ACC,Clemson,ACC,401013140,40101314018,false,2,25,,2,26,,,30,2,1,END OF HALF
+Wake Forest,ACC,Clemson,ACC,401013140,40101314019,false,3,25,15,3,20,13,55,5,3,-5,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,40101314020,true,3,70,13,3,0,13,45,10,1,70,TD
+Wake Forest,ACC,Clemson,ACC,401013140,40101314021,false,3,25,13,3,45,12,35,10,5,20,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,40101314022,false,3,82,12,3,76,10,36,59,3,6,PUNT
+Wake Forest,ACC,Clemson,ACC,401013140,40101314023,true,3,21,10,3,93,8,22,14,7,72,FG
+Clemson,ACC,Wake Forest,ACC,401013140,40101314024,false,3,75,8,3,51,6,36,46,5,24,PUNT
+Wake Forest,ACC,Clemson,ACC,401013140,40101314025,false,3,19,6,3,25,5,40,56,3,6,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,40101314026,true,3,78,5,3,0,4,41,59,3,78,TD
+Wake Forest,ACC,Clemson,ACC,401013140,40101314027,false,3,25,4,3,28,2,31,10,3,3,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,40101314028,true,3,65,2,3,0,2,21,10,1,65,TD
+Wake Forest,ACC,Clemson,ACC,401013140,40101314029,false,3,25,2,4,49,14,2,19,8,24,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,40101314030,true,4,79,14,4,0,10,8,54,8,79,TD
+Wake Forest,ACC,Clemson,ACC,401013140,40101314031,false,4,25,10,4,70,6,8,,7,45,DOWNS
+Clemson,ACC,Wake Forest,ACC,401013140,40101314032,false,4,70,6,4,63,4,13,55,3,7,PUNT
+Wake Forest,ACC,Clemson,ACC,401013140,40101314033,false,4,21,4,4,23,1,47,26,3,2,PUNT
+Clemson,ACC,Wake Forest,ACC,401013140,40101314034,true,4,57,1,4,0,,48,59,3,57,TD
+Wake Forest,ACC,Clemson,ACC,401013140,40101314035,false,4,25,,4,29,,,48,1,4,Uncategorized
+Florida State,ACC,Miami,ACC,401013141,40101314110,true,2,43,6,2,25,4,20,9,6,18,FG
+Miami,ACC,Florida State,ACC,401013141,40101314111,false,2,25,4,2,34,3,30,50,3,9,PUNT
+Florida State,ACC,Miami,ACC,401013141,40101314112,true,2,36,3,2,0,1,21,9,6,36,TD
+Miami,ACC,Florida State,ACC,401013141,40101314113,false,2,25,1,2,52,,36,45,6,27,DOWNS
+Florida State,ACC,Miami,ACC,401013141,40101314114,true,2,52,,2,65,,,36,4,16,END OF HALF
+Florida State,ACC,Miami,ACC,401013141,40101314115,false,3,75,15,3,74,14,3,57,3,1,PUNT
+Miami,ACC,Florida State,ACC,401013141,40101314116,true,3,40,14,3,27,11,52,11,3,-13,PUNT TD
+Miami,ACC,Florida State,ACC,401013141,40101314117,false,3,28,11,3,55,8,11,41,6,27,PUNT
+Florida State,ACC,Miami,ACC,401013141,40101314118,false,3,89,8,3,72,6,42,29,4,9,FUMBLE
+Miami,ACC,Florida State,ACC,401013141,40101314119,true,3,80,6,3,100,4,53,49,5,20,TD
+Florida State,ACC,Miami,ACC,401013141,40101314120,false,3,75,4,3,78,4,17,36,2,-3,INT
+Miami,ACC,Florida State,ACC,401013141,40101314121,true,3,83,4,3,100,4,11,6,1,17,TD
+Florida State,ACC,Miami,ACC,401013141,40101314122,false,3,75,4,3,64,1,14,57,6,11,PUNT
+Miami,ACC,Florida State,ACC,401013141,40101314123,false,3,31,1,4,17,14,46,28,3,-14,PUNT
+Florida State,ACC,Miami,ACC,401013141,40101314124,false,4,53,14,4,26,12,42,4,8,27,MISSED FG
+Miami,ACC,Florida State,ACC,401013141,40101314125,true,4,27,12,4,100,11,52,50,4,73,TD
+Florida State,ACC,Miami,ACC,401013141,40101314126,false,4,75,11,4,73,11,,52,3,2,FUMBLE
+Miami,ACC,Florida State,ACC,401013141,40101314127,false,4,44,11,4,53,8,36,24,3,9,PUNT
+Florida State,ACC,Miami,ACC,401013141,40101314128,false,4,82,8,4,77,7,13,23,3,5,PUNT
+Miami,ACC,Florida State,ACC,401013141,40101314129,false,4,74,7,4,89,5,39,34,5,15,MISSED FG
+Florida State,ACC,Miami,ACC,401013141,40101314130,false,4,80,5,4,92,4,12,27,3,-12,PUNT
+Miami,ACC,Florida State,ACC,401013141,40101314131,false,4,58,4,4,89,,,12,10,31,END OF GAME
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314210,true,2,66,14,2,64,12,26,7,4,-2,FG
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314211,false,2,80,12,2,55,10,20,6,7,25,INT
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314212,true,2,52,10,2,63,6,50,30,7,11,FG
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314213,false,2,75,6,2,58,5,18,32,4,17,PUNT
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314214,false,2,20,5,2,12,3,36,42,3,-8,PUNT
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314215,true,2,42,3,2,15,1,30,6,8,27,FG
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314216,false,2,25,1,2,80,,17,13,4,55,INT
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314217,false,2,80,,2,83,,,17,1,-3,END OF HALF
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314218,true,3,25,15,3,100,14,12,48,2,75,TD
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314219,false,3,75,14,3,74,12,13,59,3,1,PUNT
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314220,false,3,15,12,3,24,9,52,21,4,9,PUNT
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314221,true,3,58,9,3,0,8,12,40,5,58,TD
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314222,false,3,25,8,3,42,6,42,30,4,17,PUNT
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314223,false,3,94,6,3,85,4,32,10,3,9,PUNT
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314224,false,3,40,4,3,39,2,58,34,3,-1,PUNT
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314225,true,3,73,2,3,0,,21,37,9,73,TD
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314226,false,3,25,,4,31,13,30,51,4,6,FUMBLE
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314227,true,4,31,13,4,11,11,11,19,7,20,FG
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314228,true,4,25,11,4,100,7,51,20,5,75,TD
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314229,true,4,75,7,4,36,5,53,58,7,39,FG
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314230,true,4,25,5,4,73,,8,45,13,48,FG
+Pittsburgh,ACC,Syracuse,ACC,401013142,40101314231,true,4,75,,4,75,,,8,6,0,END OF GAME
+Syracuse,ACC,Pittsburgh,ACC,401013142,40101314232,false,5,25,,5,25,,,,1,0,INT
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314310,true,2,58,5,2,95,3,21,31,6,37,FG
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,40101314311,false,2,83,3,2,77,2,17,4,3,-2,PUNT
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314312,true,2,39,2,2,52,1,8,9,4,3,FUMBLE TD
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314313,true,2,25,1,2,100,,12,56,8,75,TD
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,40101314314,false,2,75,,2,76,,,12,1,-1,END OF HALF
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314315,false,3,26,15,3,58,12,31,29,5,32,PUNT
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,40101314316,true,3,95,12,3,0,11,49,42,2,95,TD
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314317,false,3,25,11,3,70,8,31,18,9,45,MISSED FG
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,40101314318,true,3,70,8,3,0,4,59,32,9,70,TD
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314319,false,3,23,4,3,56,1,52,7,6,33,PUNT
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,40101314320,false,3,80,1,3,83,,21,31,3,-3,PUNT
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314321,false,3,50,,4,65,13,51,30,5,15,MISSED FG
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,40101314322,true,4,64,13,4,0,9,8,43,11,64,TD
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314323,true,4,20,9,4,100,5,40,28,13,80,TD
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,40101314324,true,4,44,5,4,0,4,50,50,2,44,TD
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314325,false,4,25,4,4,37,3,59,51,3,12,INT
+Notre Dame,FBS Independents,Virginia Tech,ACC,401013143,40101314326,false,4,38,3,4,36,1,39,20,4,3,DOWNS
+Virginia Tech,ACC,Notre Dame,FBS Independents,401013143,40101314327,false,4,35,1,4,44,,,39,3,9,END OF GAME
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,40101333910,false,2,75,,2,59,,12,30,4,16,PUNT
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,40101333911,false,2,20,,2,19,,,12,1,-1,END OF HALF
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,40101333912,true,3,0,15,3,0,14,6,54,2,75,TD
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,40101333913,true,3,29,14,3,100,10,58,8,7,71,TD
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,40101333914,false,3,75,10,3,41,9,46,12,4,34,FUMBLE
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,40101333915,true,3,41,9,3,100,6,50,56,6,59,TD
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,40101333916,true,3,75,6,3,0,4,13,37,8,75,TD
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,40101333917,false,3,28,4,3,48,1,33,40,6,20,PUNT
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,40101333918,false,3,88,1,3,60,,,33,8,28,PUNT
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,40101333919,true,4,12,13,4,100,12,37,26,1,88,TD
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,40101333920,true,4,95,12,4,0,9,11,26,7,95,TD
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,40101333921,false,4,25,9,4,56,4,16,55,7,31,FUMBLE
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,40101333922,false,4,56,4,4,32,3,18,58,6,24,DOWNS
+Wisconsin,Big Ten,Nebraska,Big Ten,401013339,40101333923,false,4,32,3,4,56,,53,25,4,24,PUNT
+Nebraska,Big Ten,Wisconsin,Big Ten,401013339,40101333924,false,4,80,,4,59,,,53,3,21,END OF GAME
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336210,true,2,87,13,2,100,13,37,7,1,13,TD
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336211,false,2,75,13,2,56,11,49,48,4,19,PUNT
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336212,false,2,36,11,2,65,9,41,8,5,29,FUMBLE
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336213,false,2,65,9,2,48,7,10,31,6,17,PUNT
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336214,false,2,20,7,2,42,4,,10,7,22,PUNT
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336215,true,2,78,4,2,8,1,43,17,7,70,FG
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336216,false,2,18,1,2,19,1,43,,0,1,FUMBLE
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336217,true,2,19,1,2,0,1,31,12,1,19,TD
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336218,false,2,25,1,2,69,,26,5,7,44,DOWNS
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336219,false,2,69,,2,69,,,26,1,0,END OF HALF
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336220,false,3,24,15,3,36,13,1,59,4,12,PUNT
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336221,true,3,75,13,3,0,12,9,52,2,75,TD
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336222,false,3,31,12,3,43,9,53,16,6,12,INT
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336223,true,3,65,9,3,0,7,47,6,6,65,TD
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336224,true,3,12,7,3,12,7,37,10,0,0,FUMBLE TD
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336226,true,3,31,7,3,100,5,17,20,7,69,TD
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336227,true,3,76,5,3,0,4,57,20,1,76,TD
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336228,true,3,28,4,3,100,3,9,48,4,72,TD
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336229,true,3,83,3,4,21,10,,9,15,62,FG
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336230,true,4,35,10,4,100,6,12,48,12,65,TD
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336231,false,4,78,6,4,69,5,8,4,3,9,PUNT
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336232,false,4,10,5,4,8,5,1,7,1,-2,FUMBLE
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336233,true,4,8,5,4,0,4,55,6,1,8,TD
+UMass,FBS Independents,South Florida,American Athletic,401013362,40101336234,true,4,22,4,4,100,,15,40,15,78,TD
+South Florida,American Athletic,UMass,FBS Independents,401013362,40101336235,false,4,46,,4,48,,,15,1,-2,END OF GAME
+New Mexico State,,Liberty,,401013441,40101344110,false,2,29,11,2,42,9,44,30,4,13,PUNT
+Liberty,,New Mexico State,,401013441,40101344111,false,2,61,9,2,41,7,29,15,5,20,PUNT
+New Mexico State,,Liberty,,401013441,40101344112,true,2,20,7,2,100,5,38,51,7,80,TD
+Liberty,,New Mexico State,,401013441,40101344113,false,2,75,5,2,55,3,39,59,4,20,PUNT
+New Mexico State,,Liberty,,401013441,40101344114,true,2,14,3,2,100,2,26,13,6,86,TD
+Liberty,,New Mexico State,,401013441,40101344115,true,2,75,2,2,0,,57,29,6,75,TD
+New Mexico State,,Liberty,,401013441,40101344116,false,2,25,,2,21,,11,46,3,-4,PUNT
+Liberty,,New Mexico State,,401013441,40101344117,false,2,53,,2,61,,,11,1,-8,END OF HALF
+New Mexico State,,Liberty,,401013441,40101344118,false,3,25,15,3,29,13,46,14,3,4,PUNT
+Liberty,,New Mexico State,,401013441,40101344119,true,3,25,13,3,0,12,12,34,4,25,TD
+New Mexico State,,Liberty,,401013441,40101344120,false,3,25,12,3,29,11,28,44,3,4,PUNT
+Liberty,,New Mexico State,,401013441,40101344121,false,3,65,11,3,70,10,55,33,3,-5,PUNT
+New Mexico State,,Liberty,,401013441,40101344122,true,3,30,10,3,100,9,4,51,6,70,TD
+Liberty,,New Mexico State,,401013441,40101344123,false,3,75,9,3,38,6,34,30,6,37,INT
+New Mexico State,,Liberty,,401013441,40101344124,true,3,69,6,3,100,5,34,,3,31,TD
+Liberty,,New Mexico State,,401013441,40101344125,false,3,75,5,3,49,3,23,11,6,26,PUNT
+New Mexico State,,Liberty,,401013441,40101344126,false,3,15,3,3,17,2,23,,3,2,PUNT
+Liberty,,New Mexico State,,401013441,40101344127,true,3,67,2,3,0,,30,53,5,67,TD
+New Mexico State,,Liberty,,401013441,40101344128,true,3,34,,4,100,14,26,59,3,66,TD
+Liberty,,New Mexico State,,401013441,40101344129,true,4,63,14,4,0,10,24,2,11,63,TD
+New Mexico State,,Liberty,,401013441,40101344130,true,4,25,10,4,100,9,44,40,3,75,TD
+Liberty,,New Mexico State,,401013441,40101344131,true,4,75,9,4,0,4,47,57,14,75,TD
+New Mexico State,,Liberty,,401013441,40101344132,false,4,24,4,4,49,2,10,37,6,25,PUNT
+Liberty,,New Mexico State,,401013441,40101344133,false,4,87,2,4,83,,,10,8,4,END OF GAME
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500810,true,2,44,5,2,0,5,15,43,2,44,TD
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,40101500811,true,2,19,5,2,100,2,41,34,8,81,TD
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500812,false,2,75,2,2,49,1,4,37,4,26,INT
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,40101500813,true,2,45,1,2,100,,29,35,6,55,TD
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500814,false,2,80,,2,68,,,29,1,12,END OF HALF
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500815,true,3,79,15,3,0,9,54,6,10,79,TD
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,40101500816,false,3,36,9,3,46,8,24,30,5,10,PUNT
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500817,true,3,79,8,3,0,5,55,29,5,79,TD
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,40101500818,true,3,100,5,3,100,5,55,,0,0,TD
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500819,false,3,80,5,3,58,3,16,39,5,22,PUNT
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,40101500820,false,3,12,3,3,64,,28,48,8,52,DOWNS
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500821,true,3,64,,4,0,12,13,15,9,64,TD
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,40101500822,true,4,29,12,4,100,10,43,30,4,71,TD
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500823,false,4,70,10,4,45,7,56,47,8,25,INT
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,40101500824,true,4,41,7,4,100,6,27,29,5,59,TD
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500825,true,4,74,6,4,0,4,2,25,7,74,TD
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,40101500826,false,4,46,4,4,46,4,2,,0,0,KICKOFF
+Florida Atlantic,Conference USA,Old Dominion,Conference USA,401015008,40101500827,true,4,46,4,4,100,2,17,45,4,54,TD
+Old Dominion,Conference USA,Florida Atlantic,Conference USA,401015008,40101500828,false,4,89,2,4,140,,,17,7,51,Uncategorized
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500910,false,2,20,14,2,55,12,32,15,5,35,FUMBLE
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500911,true,2,70,12,2,0,10,26,6,5,70,TD
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500912,false,2,25,10,2,32,9,24,2,3,7,PUNT
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500913,false,2,72,9,2,24,5,47,37,9,48,DOWNS
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500914,false,2,24,5,2,17,3,40,7,3,-7,PUNT
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500915,false,2,55,3,2,53,2,4,36,3,2,PUNT
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500916,false,2,10,2,2,18,,34,30,3,8,PUNT
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500917,false,2,57,,2,54,,,34,2,3,END OF HALF
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500918,false,3,25,15,3,73,12,22,38,6,48,MISSED FG
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500919,false,3,73,12,3,70,10,49,33,3,3,PUNT
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500920,false,3,37,10,3,47,9,45,4,5,10,FUMBLE
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500921,true,3,27,9,3,0,7,11,34,5,27,TD
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500922,false,3,28,7,3,60,2,43,28,8,32,PUNT
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500923,false,3,93,2,3,74,,,43,6,19,PUNT
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500924,false,4,37,14,4,41,12,48,30,3,4,PUNT
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500925,true,4,89,12,4,0,8,8,40,10,89,TD
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500926,false,4,30,8,4,46,6,19,49,5,16,DOWNS
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500927,true,4,46,6,4,0,4,35,44,3,46,TD
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500928,false,4,30,4,4,40,4,5,30,1,10,INT
+UAB,Conference USA,Louisiana Tech,Conference USA,401015009,40101500929,false,4,57,4,4,23,1,21,44,6,34,DOWNS
+Louisiana Tech,Conference USA,UAB,Conference USA,401015009,40101500930,false,4,23,1,4,46,,,21,4,23,END OF GAME
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,40101501010,false,2,17,5,2,67,2,3,20,9,50,FUMBLE
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,40101501011,true,2,67,2,2,0,1,9,54,5,67,TD
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,40101501012,true,2,34,1,2,100,,17,52,8,66,TD
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,40101501013,false,2,79,,2,73,,,17,1,6,END OF HALF
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,40101501014,false,3,38,15,3,74,11,41,19,7,36,MISSED FG
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,40101501015,true,3,74,11,3,0,8,20,21,12,74,TD
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,40101501016,false,3,33,8,3,48,6,34,46,4,15,PUNT
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,40101501017,true,3,80,6,3,0,2,,34,11,80,TD
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,40101501018,false,3,25,2,3,24,,,,6,-1,PUNT
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,40101501019,true,4,69,14,4,0,11,35,42,6,54,TD
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,40101501020,false,4,20,11,4,27,9,25,10,6,7,FUMBLE
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,40101501021,true,4,27,9,4,1,6,23,2,6,26,FG
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,40101501022,true,4,33,6,4,100,2,37,46,12,67,TD
+Middle Tennessee,Conference USA,Marshall,Conference USA,401015010,40101501023,false,4,50,2,4,52,1,29,8,3,-2,PUNT
+Marshall,Conference USA,Middle Tennessee,Conference USA,401015010,40101501024,false,4,6,1,4,61,,,29,8,55,END OF GAME
+North Texas,Conference USA,UTEP,Conference USA,401015011,40101501110,false,2,64,9,2,30,7,28,58,5,34,DOWNS
+UTEP,Conference USA,North Texas,Conference USA,401015011,40101501111,false,2,30,7,2,28,5,55,33,3,-2,PUNT
+North Texas,Conference USA,UTEP,Conference USA,401015011,40101501112,true,2,58,5,2,35,3,12,43,7,23,FG
+UTEP,Conference USA,North Texas,Conference USA,401015011,40101501113,false,2,25,3,2,75,,33,39,6,50,INT
+North Texas,Conference USA,UTEP,Conference USA,401015011,40101501114,false,2,80,,2,45,,,33,3,35,END OF HALF
+North Texas,Conference USA,UTEP,Conference USA,401015011,40101501115,true,3,75,15,3,12,7,45,15,13,63,FG
+UTEP,Conference USA,North Texas,Conference USA,401015011,40101501116,false,3,24,7,3,65,3,27,18,8,41,MISSED FG
+North Texas,Conference USA,UTEP,Conference USA,401015011,40101501117,true,3,65,3,3,0,,51,36,5,65,TD
+UTEP,Conference USA,North Texas,Conference USA,401015011,40101501118,true,3,10,,4,100,10,43,8,12,90,TD
+North Texas,Conference USA,UTEP,Conference USA,401015011,40101501119,true,4,75,10,4,0,5,46,57,9,75,TD
+UTEP,Conference USA,North Texas,Conference USA,401015011,40101501120,true,4,25,5,4,100,5,1,45,2,75,TD
+North Texas,Conference USA,UTEP,Conference USA,401015011,40101501121,false,4,82,5,4,73,2,45,16,3,9,PUNT
+UTEP,Conference USA,North Texas,Conference USA,401015011,40101501122,false,4,16,2,4,24,1,34,11,4,8,DOWNS
+North Texas,Conference USA,UTEP,Conference USA,401015011,40101501123,false,4,24,1,4,29,,,34,2,5,Uncategorized
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,40101501210,false,2,18,7,2,18,6,56,49,2,0,INT
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,40101501211,true,2,3,6,2,0,6,51,5,1,3,TD
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,40101501212,false,2,17,6,2,14,6,1,50,2,-3,FUMBLE
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,40101501213,true,2,14,6,2,23,5,4,57,4,-9,FG
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,40101501214,false,2,25,5,2,24,2,46,18,3,-1,PUNT
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,40101501215,false,2,68,2,2,69,1,33,13,3,-1,PUNT
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,40101501216,false,2,25,1,2,34,,,33,3,9,PUNT
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,40101501218,true,3,25,15,3,90,8,28,32,12,65,FG
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,40101501219,false,3,80,8,3,69,5,55,33,4,11,PUNT
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,40101501220,false,3,12,5,3,36,4,25,30,4,24,PUNT
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,40101501221,false,3,83,4,3,75,1,55,30,5,8,PUNT
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,40101501222,false,3,36,1,3,66,,,55,11,30,DOWNS
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,40101501223,false,4,66,11,4,40,5,51,23,10,26,PUNT
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,40101501224,false,4,14,5,4,24,4,39,12,4,10,FUMBLE
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,40101501225,true,4,32,4,4,0,1,50,49,5,32,TD
+Rice,Conference USA,UT San Antonio,Conference USA,401015012,40101501226,false,4,35,1,4,54,,32,18,5,19,INT
+UT San Antonio,Conference USA,Rice,Conference USA,401015012,40101501227,false,4,65,,4,66,,,32,1,-1,END OF GAME
+BYU,FBS Independents,Utah State,Mountain West,401016407,40101640710,true,2,12,9,2,100,4,28,46,8,88,TD
+Utah State,Mountain West,BYU,FBS Independents,401016407,40101640711,false,2,76,4,2,65,2,1,27,5,11,PUNT
+BYU,FBS Independents,Utah State,Mountain West,401016407,40101640712,false,2,15,2,2,80,,,1,8,59,DOWNS
+Utah State,Mountain West,BYU,FBS Independents,401016407,40101640714,true,3,81,15,3,0,10,35,25,10,81,TD
+BYU,FBS Independents,Utah State,Mountain West,401016407,40101640715,false,3,10,10,3,39,8,27,8,4,29,PUNT
+Utah State,Mountain West,BYU,FBS Independents,401016407,40101640716,true,3,82,8,3,0,4,55,32,10,82,TD
+BYU,FBS Independents,Utah State,Mountain West,401016407,40101640717,true,3,25,4,3,100,3,7,48,5,75,TD
+Utah State,Mountain West,BYU,FBS Independents,401016407,40101640718,false,3,80,3,3,75,2,16,51,3,5,PUNT
+BYU,FBS Independents,Utah State,Mountain West,401016407,40101640719,false,3,38,2,3,66,,,16,6,13,FUMBLE
+Utah State,Mountain West,BYU,FBS Independents,401016407,40101640720,true,3,51,,4,0,12,3,57,9,51,TD
+BYU,FBS Independents,Utah State,Mountain West,401016407,40101640721,false,4,34,12,4,54,10,3,,6,20,DOWNS
+Utah State,Mountain West,BYU,FBS Independents,401016407,40101640722,true,4,54,10,4,29,6,51,12,6,25,FG
+BYU,FBS Independents,Utah State,Mountain West,401016407,40101640723,false,4,13,6,4,29,6,3,48,4,16,PUNT
+Utah State,Mountain West,BYU,FBS Independents,401016407,40101640724,false,4,64,6,4,57,3,46,17,3,7,PUNT
+BYU,FBS Independents,Utah State,Mountain West,401016407,40101640725,true,4,23,3,4,100,1,14,32,6,77,TD
+Utah State,Mountain West,BYU,FBS Independents,401016407,40101640726,false,4,45,1,4,44,,,14,3,1,END OF GAME
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949910,false,2,52,14,2,50,13,45,52,3,21,FUMBLE
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949911,false,2,37,13,2,34,12,37,8,3,-3,INT
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949912,false,2,46,12,2,40,11,13,24,4,6,DOWNS
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949913,true,2,40,11,2,100,8,39,34,5,60,TD
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949914,false,2,75,8,2,68,5,58,41,3,7,PUNT
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949915,true,2,14,5,2,77,2,16,42,11,63,FG
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949916,false,2,75,2,2,69,,,16,6,6,END OF HALF
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949917,true,3,75,15,3,10,9,24,36,13,65,FG
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949918,false,3,19,9,3,19,8,13,11,2,0,PUNT
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949919,true,3,60,8,3,0,4,34,39,10,60,TD
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949920,false,3,25,4,3,27,2,47,47,3,2,PUNT
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949921,true,3,63,2,4,18,13,10,37,9,45,FG
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949922,true,4,25,13,4,100,12,30,40,3,75,TD
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949923,false,4,74,12,4,67,10,43,47,3,7,PUNT
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949924,true,4,20,10,4,84,7,51,52,8,64,FG
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949925,false,4,85,7,4,84,6,54,57,3,-6,FUMBLE
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949926,true,4,91,6,4,100,6,48,6,1,9,TD
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949927,false,4,75,6,4,75,6,41,7,1,0,INT
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949928,true,4,77,6,4,100,6,20,21,2,23,TD
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949929,false,4,75,6,4,70,5,6,14,3,5,PUNT
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949930,false,4,15,5,4,34,2,33,33,5,19,PUNT
+Tulsa,American Athletic,Houston,American Athletic,401019499,40101949931,false,4,74,2,4,48,1,8,25,8,26,DOWNS
+Houston,American Athletic,Tulsa,American Athletic,401019499,40101949932,false,4,48,1,4,46,,,8,2,-2,Uncategorized
+UCF,American Athletic,SMU,American Athletic,401019500,40101950010,false,2,15,13,2,21,12,50,8,3,6,PUNT
+SMU,American Athletic,UCF,American Athletic,401019500,40101950011,false,2,65,12,2,25,10,24,26,7,40,DOWNS
+UCF,American Athletic,SMU,American Athletic,401019500,40101950012,false,2,25,10,2,29,9,41,43,2,4,INT
+SMU,American Athletic,UCF,American Athletic,401019500,40101950013,true,2,9,9,2,0,8,34,7,3,9,TD
+UCF,American Athletic,SMU,American Athletic,401019500,40101950014,true,2,25,8,2,72,3,23,11,13,47,FG
+SMU,American Athletic,UCF,American Athletic,401019500,40101950015,false,2,65,3,2,58,2,21,2,3,7,PUNT
+UCF,American Athletic,SMU,American Athletic,401019500,40101950016,true,2,20,2,2,83,,,21,10,63,FG
+UCF,American Athletic,SMU,American Athletic,401019500,40101950017,true,3,12,15,3,100,11,16,44,11,88,TD
+SMU,American Athletic,UCF,American Athletic,401019500,40101950018,true,3,22,11,3,4,6,9,7,11,57,FG
+UCF,American Athletic,SMU,American Athletic,401019500,40101950019,false,3,25,6,3,58,4,26,43,5,33,PUNT
+SMU,American Athletic,UCF,American Athletic,401019500,40101950020,false,3,88,4,3,52,,49,37,9,36,DOWNS
+UCF,American Athletic,SMU,American Athletic,401019500,40101950021,true,3,52,,4,100,14,54,55,5,48,TD
+SMU,American Athletic,UCF,American Athletic,401019500,40101950022,false,4,75,14,4,19,11,53,1,7,56,DOWNS
+UCF,American Athletic,SMU,American Athletic,401019500,40101950023,true,4,19,11,4,100,9,55,58,7,81,TD
+SMU,American Athletic,UCF,American Athletic,401019500,40101950024,false,4,61,9,4,52,8,12,43,4,9,DOWNS
+UCF,American Athletic,SMU,American Athletic,401019500,40101950025,false,4,52,8,4,54,6,12,,3,2,PUNT
+SMU,American Athletic,UCF,American Athletic,401019500,40101950026,true,4,80,6,4,0,,36,36,16,80,TD
+UCF,American Athletic,SMU,American Athletic,401019500,40101950027,false,4,29,,4,33,,,36,1,4,END OF GAME
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950110,false,2,41,10,2,50,8,34,10,4,9,DOWNS
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950111,false,2,50,8,2,48,7,6,28,4,2,DOWNS
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950112,true,2,48,7,2,100,4,7,59,6,52,TD
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950113,true,2,30,4,2,0,2,51,16,3,30,TD
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950114,true,2,25,2,2,100,,41,10,8,75,TD
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950115,false,2,75,,2,72,,,41,2,3,END OF HALF
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950116,false,3,25,15,3,25,13,28,32,3,0,PUNT
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950117,false,3,69,13,3,72,12,31,57,3,-3,PUNT
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950118,true,3,85,12,3,100,12,25,6,1,15,TD
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950119,false,3,75,12,3,54,11,45,40,2,21,FUMBLE
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950120,false,3,54,11,3,75,11,35,10,1,21,FUMBLE
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950121,false,3,75,11,3,73,10,38,57,3,2,PUNT
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950122,false,3,17,10,3,22,9,11,27,3,5,PUNT
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950123,false,3,90,9,3,99,7,8,3,4,-9,PUNT
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950125,false,3,50,7,3,36,5,1,7,6,14,DOWNS
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950126,false,3,36,5,3,33,2,59,2,3,-3,PUNT
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950127,false,3,80,2,3,80,2,33,26,3,0,PUNT
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950128,false,3,35,2,3,76,,,33,10,41,INT
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950129,false,4,51,12,4,38,11,21,4,3,13,PUNT
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950130,true,4,13,11,4,100,6,7,14,9,87,TD
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950131,true,4,46,6,4,0,4,24,43,5,46,TD
+Cincinnati,American Athletic,Tulane,American Athletic,401019501,40101950132,false,4,54,4,4,76,1,4,20,8,22,DOWNS
+Tulane,American Athletic,Cincinnati,American Athletic,401019501,40101950133,false,4,76,1,4,56,,,4,6,20,DOWNS
+Connecticut,American Athletic,Memphis,American Athletic,401019502,40101950210,false,2,75,5,2,76,3,45,11,3,-1,PUNT
+Memphis,American Athletic,Connecticut,American Athletic,401019502,40101950211,true,2,38,3,2,100,3,4,41,2,62,TD
+Connecticut,American Athletic,Memphis,American Athletic,401019502,40101950212,true,2,83,3,2,0,,19,45,8,83,TD
+Memphis,American Athletic,Connecticut,American Athletic,401019502,40101950213,false,2,45,,2,66,,,19,3,21,MISSED FG
+Connecticut,American Athletic,Memphis,American Athletic,401019502,40101950215,false,3,75,15,3,50,12,41,19,5,25,PUNT
+Memphis,American Athletic,Connecticut,American Athletic,401019502,40101950216,true,3,16,12,3,100,8,16,25,10,84,TD
+Connecticut,American Athletic,Memphis,American Athletic,401019502,40101950217,false,3,95,8,3,47,3,22,54,9,48,PUNT
+Memphis,American Athletic,Connecticut,American Athletic,401019502,40101950218,false,3,20,3,3,59,,,22,9,39,PUNT
+Connecticut,American Athletic,Memphis,American Athletic,401019502,40101950219,false,4,95,13,4,58,9,3,34,8,37,INT
+Memphis,American Athletic,Connecticut,American Athletic,401019502,40101950220,true,4,66,9,4,100,5,59,4,5,34,TD
+Connecticut,American Athletic,Memphis,American Athletic,401019502,40101950221,false,4,75,5,4,55,3,49,10,4,20,FUMBLE
+Memphis,American Athletic,Connecticut,American Athletic,401019502,40101950222,false,4,55,3,4,64,1,32,17,4,9,DOWNS
+Connecticut,American Athletic,Memphis,American Athletic,401019502,40101950223,false,4,64,1,4,47,,30,2,5,17,INT
+Memphis,American Athletic,Connecticut,American Athletic,401019502,40101950224,false,4,22,,4,20,,,30,1,-2,END OF GAME
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950310,false,2,71,12,2,56,9,4,14,6,15,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950311,false,2,21,9,2,25,7,53,11,3,4,PUNT
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950312,true,2,61,7,2,12,6,30,23,7,49,FG
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950313,true,2,25,6,2,100,2,9,21,10,75,TD
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950314,false,2,79,2,2,74,,43,26,6,5,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950315,false,2,32,,2,38,,17,26,3,6,PUNT
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950316,false,2,89,,2,79,,,17,1,10,END OF HALF
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950317,false,3,81,15,3,59,11,59,1,8,22,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950318,false,3,40,11,3,56,9,15,44,5,16,PUNT
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950319,false,3,96,9,3,88,7,21,54,3,8,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950320,true,3,44,7,3,100,5,37,44,5,56,TD
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950321,false,3,75,5,3,68,4,20,17,3,7,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950322,false,3,24,4,3,41,1,57,23,4,17,PUNT
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950323,false,3,78,1,3,73,,45,12,3,5,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950324,false,3,30,,4,24,13,40,5,3,-6,PUNT
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950325,true,4,75,13,4,25,12,19,21,5,50,FG
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950326,true,4,25,12,4,100,8,34,45,10,75,TD
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950327,false,4,75,8,4,71,7,46,48,3,4,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950328,false,4,34,7,4,49,5,55,51,4,15,PUNT
+East Carolina,American Athletic,Temple,American Athletic,401019503,40101950329,false,4,80,5,4,77,4,35,20,3,3,PUNT
+Temple,American Athletic,East Carolina,American Athletic,401019503,40101950330,false,4,27,4,4,56,,,35,6,29,PUNT
+Air Force,Mountain West,Navy,American Athletic,401019504,40101950410,true,2,35,7,2,100,7,4,47,3,65,TD
+Navy,American Athletic,Air Force,Mountain West,401019504,40101950411,false,2,75,7,2,82,5,40,24,3,-7,PUNT
+Air Force,Mountain West,Navy,American Athletic,401019504,40101950412,true,2,37,5,2,100,5,18,22,2,63,TD
+Navy,American Athletic,Air Force,Mountain West,401019504,40101950413,false,2,90,5,2,40,1,25,53,9,50,MISSED FG
+Air Force,Mountain West,Navy,American Athletic,401019504,40101950414,false,2,40,1,2,29,,,25,2,-11,END OF HALF
+Air Force,Mountain West,Navy,American Athletic,401019504,40101950415,true,3,25,15,3,100,11,59,1,7,75,TD
+Navy,American Athletic,Air Force,Mountain West,401019504,40101950416,false,3,75,11,3,80,11,7,52,3,-5,PUNT
+Air Force,Mountain West,Navy,American Athletic,401019504,40101950417,false,3,53,11,3,53,9,48,19,3,0,PUNT
+Navy,American Athletic,Air Force,Mountain West,401019504,40101950418,false,3,83,9,3,83,8,10,38,3,0,PUNT
+Air Force,Mountain West,Navy,American Athletic,401019504,40101950419,true,3,25,8,3,100,,57,13,14,75,TD
+Navy,American Athletic,Air Force,Mountain West,401019504,40101950420,false,3,65,,3,56,,,57,4,9,DOWNS
+Air Force,Mountain West,Navy,American Athletic,401019504,40101950421,true,4,56,14,4,100,10,16,34,8,44,TD
+Navy,American Athletic,Air Force,Mountain West,401019504,40101950422,false,4,75,10,4,53,9,11,5,5,22,DOWNS
+Air Force,Mountain West,Navy,American Athletic,401019504,40101950423,false,4,53,9,4,79,2,47,24,10,26,DOWNS
+Navy,American Athletic,Air Force,Mountain West,401019504,40101950424,false,4,79,2,4,45,,,47,6,34,END OF GAME
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,40102075110,true,2,75,9,2,0,7,36,59,5,75,TD
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,40102075111,false,2,25,7,2,61,3,42,54,9,36,DOWNS
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,40102075112,false,2,61,3,2,25,,,42,9,36,MISSED FG
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,40102075114,false,3,75,15,3,73,14,11,49,3,2,PUNT
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,40102075115,true,3,10,14,3,100,8,33,38,12,90,TD
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,40102075116,true,3,84,8,3,0,1,35,58,14,84,TD
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,40102075117,false,3,25,1,4,85,14,51,44,7,60,MISSED FG
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,40102075118,false,4,80,14,4,81,12,52,59,3,-1,PUNT
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,40102075119,false,4,62,12,4,61,11,23,29,3,-1,PUNT
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,40102075120,false,4,99,11,4,99,10,8,15,2,0,PUNT
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,40102075121,true,4,67,10,4,100,9,35,33,2,33,TD
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,40102075122,false,4,75,9,4,72,8,26,9,3,3,PUNT
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,40102075123,true,4,39,8,4,100,5,8,18,7,61,TD
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,40102075124,false,4,75,5,4,71,4,,8,4,4,DOWNS
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,40102075125,true,4,71,4,4,100,3,10,50,2,29,TD
+Bowling Green,Mid-American,Toledo,Mid-American,401020751,40102075126,true,4,75,3,4,0,1,59,11,3,75,TD
+Toledo,Mid-American,Bowling Green,Mid-American,401020751,40102075127,false,4,57,1,4,78,,,59,5,21,END OF GAME
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,40102075210,true,2,75,6,2,9,2,48,49,9,66,FG
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,40102075211,false,2,29,2,2,27,1,50,58,3,-2,PUNT
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,40102075212,false,2,62,1,2,56,,39,11,3,6,PUNT
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,40102075213,false,2,19,,2,23,,,39,2,4,END OF HALF
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,40102075214,false,3,78,15,3,15,8,56,4,11,63,INT
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,40102075215,true,3,20,8,3,100,5,24,32,10,80,TD
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,40102075216,true,3,70,5,3,0,5,8,16,1,70,TD
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,40102075217,true,3,25,5,3,100,1,47,21,7,75,TD
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,40102075218,false,3,72,1,3,69,,46,1,3,3,PUNT
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,40102075219,false,3,20,,4,17,14,55,51,3,-3,INT
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,40102075220,true,4,39,14,4,0,11,14,41,7,39,TD
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,40102075221,false,4,24,11,4,27,10,24,50,3,3,INT
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,40102075222,true,4,58,10,4,10,4,18,6,10,48,FG
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,40102075223,false,4,37,4,4,37,4,4,14,1,0,INT
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,40102075224,false,4,76,4,4,75,3,8,56,3,1,PUNT
+Central Michigan,Mid-American,Buffalo,Mid-American,401020752,40102075225,true,4,45,3,4,100,1,19,49,10,55,TD
+Buffalo,Mid-American,Central Michigan,Mid-American,401020752,40102075226,false,4,56,1,4,66,,,19,2,10,Uncategorized
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,40102075310,false,2,23,10,2,39,7,35,53,5,16,PUNT
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,40102075311,false,2,74,7,2,62,6,3,32,3,12,FUMBLE
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,40102075312,true,2,0,6,2,100,1,19,44,12,38,TD
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,40102075313,true,2,75,1,2,23,,,19,8,52,FG
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,40102075314,false,3,25,15,3,24,12,56,4,3,-1,PUNT
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,40102075315,false,3,57,12,3,74,10,40,16,3,-17,PUNT
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,40102075316,false,3,1,10,3,2,9,8,32,3,1,PUNT
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,40102075317,true,3,39,9,3,0,7,36,32,4,39,TD
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,40102075318,false,3,25,7,3,75,4,59,37,9,50,DOWNS
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,40102075319,false,3,75,4,3,54,2,31,28,5,21,PUNT
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,40102075320,true,3,9,2,4,100,14,57,34,7,91,TD
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,40102075321,false,4,79,14,4,79,13,10,47,3,0,PUNT
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,40102075322,true,4,31,13,4,100,9,24,46,8,69,TD
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,40102075323,false,4,99,9,4,15,3,26,58,16,84,MISSED FG
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,40102075324,false,4,21,3,4,25,2,42,44,3,5,PUNT
+Eastern Michigan,Mid-American,Western Michigan,Mid-American,401020753,40102075325,true,4,85,2,4,0,,20,22,12,85,TD
+Western Michigan,Mid-American,Eastern Michigan,Mid-American,401020753,40102075326,false,4,62,,4,60,,,20,1,-2,END OF GAME
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,40102075410,false,2,75,6,2,60,2,27,5,9,15,PUNT
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,40102075411,true,2,16,2,2,66,,25,2,9,50,FG
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,40102075412,false,2,75,,2,57,,,25,3,18,END OF HALF
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,40102075413,false,3,75,15,3,67,13,39,21,3,8,PUNT
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,40102075414,false,3,23,13,3,57,11,24,15,6,34,PUNT
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,40102075415,true,3,80,11,3,0,5,41,43,14,80,TD
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,40102075416,true,3,6,5,3,70,,24,17,16,64,FG
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,40102075417,false,3,75,,3,79,,,24,3,-4,PUNT
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,40102075418,false,4,33,13,4,60,10,12,26,8,27,DOWNS
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,40102075419,false,4,60,10,4,58,9,19,53,3,2,INT
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,40102075420,true,4,97,9,4,100,9,8,11,1,3,TD
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,40102075421,true,4,74,9,4,20,5,26,42,9,54,FG
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,40102075422,false,4,25,5,4,69,2,14,12,8,44,DOWNS
+Northern Illinois,Mid-American,Ball State,Mid-American,401020754,40102075423,false,4,69,2,4,67,1,6,8,3,2,PUNT
+Ball State,Mid-American,Northern Illinois,Mid-American,401020754,40102075424,false,4,24,1,4,65,,,6,11,41,DOWNS
+Ohio,Mid-American,Kent State,Mid-American,401020755,40102075510,false,2,52,9,2,20,8,26,14,3,32,INT
+Kent State,Mid-American,Ohio,Mid-American,401020755,40102075511,false,2,16,8,2,10,7,6,20,3,-6,PUNT
+Ohio,Mid-American,Kent State,Mid-American,401020755,40102075512,false,2,51,7,2,23,,50,16,11,28,FUMBLE
+Kent State,Mid-American,Ohio,Mid-American,401020755,40102075513,true,2,23,,2,67,,,50,7,44,FG
+Ohio,Mid-American,Kent State,Mid-American,401020755,40102075514,false,3,75,15,3,14,12,48,12,4,61,FUMBLE
+Kent State,Mid-American,Ohio,Mid-American,401020755,40102075515,true,3,0,12,3,78,9,27,21,9,64,FG
+Ohio,Mid-American,Kent State,Mid-American,401020755,40102075516,true,3,88,9,3,0,6,32,55,6,88,TD
+Kent State,Mid-American,Ohio,Mid-American,401020755,40102075517,true,3,0,6,3,79,1,5,27,11,54,FG
+Ohio,Mid-American,Kent State,Mid-American,401020755,40102075518,true,3,69,1,4,0,12,40,20,6,69,TD
+Kent State,Mid-American,Ohio,Mid-American,401020755,40102075519,true,4,25,12,4,89,5,7,33,16,64,FG
+Ohio,Mid-American,Kent State,Mid-American,401020755,40102075520,true,4,81,5,4,0,1,28,39,9,81,TD
+Kent State,Mid-American,Ohio,Mid-American,401020755,40102075521,false,4,40,1,4,46,,30,58,5,21,INT
+Ohio,Mid-American,Kent State,Mid-American,401020755,40102075522,false,4,75,,4,90,,,30,1,-15,END OF GAME
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081210,false,2,75,1,2,80,1,37,7,1,-5,INT
+Akron,Mid-American,Miami (OH),Mid-American,401020812,40102081211,true,2,44,1,2,77,,47,50,5,33,FG
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081212,false,2,75,,2,82,,,47,1,-7,END OF HALF
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081213,false,3,72,14,3,67,13,32,21,3,5,PUNT
+Akron,Mid-American,Miami (OH),Mid-American,401020812,40102081214,true,3,12,13,3,16,11,6,26,3,4,PUNT
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081217,true,3,57,11,3,0,8,53,7,6,57,TD
+Akron,Mid-American,Miami (OH),Mid-American,401020812,40102081218,false,3,25,8,3,29,8,,53,3,4,PUNT
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081219,true,3,67,8,3,9,3,14,46,14,58,FG
+Akron,Mid-American,Miami (OH),Mid-American,401020812,40102081220,false,3,25,3,3,42,,,14,7,17,PUNT
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081221,true,4,88,14,4,0,13,25,22,3,88,TD
+Akron,Mid-American,Miami (OH),Mid-American,401020812,40102081222,false,4,25,13,4,29,12,18,7,3,4,INT
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081223,true,4,21,12,4,18,10,53,25,4,3,FG
+Akron,Mid-American,Miami (OH),Mid-American,401020812,40102081224,false,4,25,10,4,25,10,47,6,1,0,INT
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081225,false,4,38,10,4,30,8,21,26,4,8,DOWNS
+Akron,Mid-American,Miami (OH),Mid-American,401020812,40102081226,false,4,30,8,4,30,7,37,44,2,0,FUMBLE
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081227,true,4,30,7,4,0,6,34,3,2,30,TD
+Akron,Mid-American,Miami (OH),Mid-American,401020812,40102081228,false,4,25,6,4,40,4,8,26,6,15,INT
+Miami (OH),Mid-American,Akron,Mid-American,401020812,40102081229,false,4,56,4,4,49,1,42,26,3,7,PUNT
+Akron,Mid-American,Miami (OH),Mid-American,401020812,40102081230,false,4,11,1,4,22,,,42,3,11,END OF GAME
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,40102166910,false,2,72,7,2,51,5,17,13,6,21,PUNT
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,40102166911,false,2,16,5,2,24,3,58,19,3,8,PUNT
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,40102166912,true,2,64,3,2,15,,14,44,10,49,FG
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,40102166913,false,2,35,,2,37,,,14,1,-3,END OF HALF
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,40102166914,false,3,98,15,3,98,15,,,0,0,Uncategorized
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,40102166915,false,3,75,15,3,74,13,54,6,3,1,PUNT
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,40102166916,false,3,43,13,3,45,11,38,16,3,2,PUNT
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,40102166917,true,3,80,11,3,11,5,46,52,14,69,FG
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,40102166918,false,3,34,5,3,62,1,43,3,8,28,Uncategorized
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,40102166919,false,3,99,1,3,45,,39,4,3,59,FUMBLE
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,40102166920,true,3,39,,4,100,10,21,18,9,61,TD
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,40102166921,false,4,95,10,4,95,10,21,,0,0,Uncategorized
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,40102166922,true,4,75,10,4,0,6,10,11,10,75,TD
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,40102166923,false,4,6,6,4,6,6,10,,0,0,Uncategorized
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,40102166924,true,4,18,6,4,100,4,33,37,3,75,TD
+Georgia State,Sun Belt,Troy,Sun Belt,401021669,40102166925,true,4,70,4,4,0,1,46,47,9,60,TD
+Troy,Sun Belt,Georgia State,Sun Belt,401021669,40102166926,false,4,53,1,4,67,,,46,4,14,Uncategorized
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,40102167110,false,2,25,7,2,60,4,28,29,8,35,PUNT
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,40102167111,true,2,81,4,2,0,,45,43,11,81,TD
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,40102167112,false,2,25,,2,75,,,45,8,50,END OF HALF
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,40102167113,false,3,25,15,3,30,13,7,53,3,5,PUNT
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,40102167114,false,3,76,13,3,72,11,16,51,3,4,PUNT
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,40102167115,true,3,64,11,3,100,11,6,10,1,36,TD
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,40102167116,false,3,82,11,3,69,8,49,17,6,13,PUNT
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,40102167117,true,3,23,8,3,100,6,8,41,6,77,TD
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,40102167118,true,3,88,6,3,0,2,24,44,8,88,TD
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,40102167119,true,3,25,2,3,100,,,24,7,75,TD
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,40102167120,true,4,75,14,4,0,12,38,17,5,75,TD
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,40102167121,true,4,25,12,4,100,9,17,21,8,75,TD
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,40102167122,false,4,75,9,4,70,7,55,22,3,5,PUNT
+Texas State,Sun Belt,Louisiana,Sun Belt,401021671,40102167123,false,4,37,7,4,94,1,51,4,13,57,DOWNS
+Louisiana,Sun Belt,Texas State,Sun Belt,401021671,40102167124,false,4,94,1,4,72,,,51,3,22,END OF GAME
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252810,false,1,10,4,1,10,3,31,44,2,0,INT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252811,false,1,53,3,1,14,1,19,12,5,39,FUMBLE
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252812,false,1,39,1,1,31,,,19,4,-8,DOWNS
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252813,true,2,31,15,2,24,13,9,51,6,7,FG
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252814,false,2,25,13,2,54,9,45,24,8,29,PUNT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252815,false,2,87,9,2,80,6,49,56,6,7,PUNT
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252816,false,2,18,6,2,25,5,28,21,3,7,INT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252817,true,2,17,5,2,0,4,36,52,2,17,TD
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252818,false,2,26,4,2,55,,21,15,10,29,PUNT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252819,false,2,89,,2,90,,,21,1,-1,END OF HALF
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252820,false,3,25,15,3,53,11,58,2,8,28,PUNT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252821,false,3,84,11,3,75,9,9,49,5,9,PUNT
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252822,false,3,16,9,3,29,5,39,30,6,13,PUNT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252823,false,3,62,5,3,53,3,31,8,4,9,DOWNS
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252824,false,3,53,3,3,55,2,1,30,3,2,PUNT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252825,false,3,99,2,3,95,,,1,3,4,PUNT
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252826,false,4,44,15,4,59,13,7,53,5,15,PUNT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252827,true,4,95,13,4,0,10,10,57,5,95,TD
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252828,false,4,25,10,4,40,7,40,30,6,15,PUNT
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252829,false,4,83,7,4,76,5,7,33,3,7,PUNT
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252830,true,4,27,5,4,100,3,5,2,11,73,TD
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252831,false,4,65,3,4,60,1,59,6,3,5,PUNT
+Boise State,Mountain West,San Diego State,Mountain West,401022528,40102252832,false,4,33,1,4,34,1,39,20,4,1,DOWNS
+San Diego State,Mountain West,Boise State,Mountain West,401022528,40102252833,false,4,34,1,4,37,,,39,3,-3,END OF GAME
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252910,false,2,99,11,2,95,10,2,,3,4,INT
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252911,false,2,82,10,2,87,8,7,55,4,5,DOWNS
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252912,true,2,87,8,2,0,3,24,43,12,87,TD
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252913,false,2,25,3,2,9,2,18,6,3,-16,PUNT
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252914,true,2,42,2,2,0,,22,56,5,42,TD
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252915,false,2,25,,2,25,,,22,1,0,END OF HALF
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252916,false,3,79,14,3,73,13,17,38,3,6,PUNT
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252917,false,3,47,13,3,51,11,4,13,5,4,PUNT
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252918,false,3,86,11,3,98,8,37,27,3,-12,PUNT
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252919,true,3,75,8,3,100,7,43,54,3,25,TD
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252920,false,3,83,7,3,75,6,25,18,3,8,PUNT
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252921,true,3,39,6,3,100,5,17,8,4,61,TD
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252922,false,3,75,5,3,66,3,18,59,3,9,PUNT
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252923,true,3,23,3,3,100,2,8,10,4,77,TD
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252924,false,3,75,2,3,75,1,58,10,1,0,INT
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252925,true,3,83,1,3,100,,26,32,4,17,TD
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252926,true,3,98,,3,100,,14,12,1,-2,SF
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252927,false,3,47,,3,48,,,14,3,1,PUNT
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252928,true,4,83,14,4,0,11,18,32,11,83,TD
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252929,true,4,50,11,4,45,9,48,30,3,-5,INT TD
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252931,false,4,25,9,4,62,7,1,47,9,37,INT
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252932,false,4,99,7,4,94,5,26,35,3,5,PUNT
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252933,false,4,50,5,4,41,4,31,55,3,-9,PUNT
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252934,false,4,82,4,4,75,2,47,44,3,7,PUNT
+San José State,Mountain West,Colorado State,Mountain West,401022529,40102252935,false,4,42,2,4,39,1,46,1,4,-3,DOWNS
+Colorado State,Mountain West,San José State,Mountain West,401022529,40102252936,false,4,39,1,4,43,,,46,3,-4,END OF GAME
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253010,false,2,25,9,2,16,8,3,31,3,-9,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,40102253011,true,2,39,8,2,26,4,37,26,7,13,FG
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253012,false,2,25,4,2,30,3,36,1,3,5,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,40102253013,true,2,65,3,2,0,2,56,40,2,65,TD
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253014,false,2,25,2,2,40,1,13,43,6,15,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,40102253015,true,2,60,1,2,0,,17,56,5,60,TD
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253016,false,2,25,,2,25,,,17,1,0,END OF HALF
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253017,false,3,25,15,3,17,13,13,47,3,-8,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,40102253018,false,3,59,13,3,40,11,39,34,3,19,FUMBLE
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253019,false,3,40,11,3,50,7,36,3,7,10,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,40102253020,true,3,89,7,3,0,2,25,11,10,89,TD
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253021,true,3,25,2,4,100,14,46,39,9,75,TD
+New Mexico,Mountain West,UNLV,Mountain West,401022530,40102253022,false,4,75,14,4,43,,,46,7,32,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,40102253024,true,4,11,11,4,0,11,2,11,1,11,TD
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253025,false,4,21,11,4,16,10,30,32,3,-5,PUNT
+New Mexico,Mountain West,UNLV,Mountain West,401022530,40102253026,true,4,35,10,4,0,7,50,40,7,35,TD
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253027,true,4,20,7,4,100,4,43,7,11,80,TD
+UNLV,Mountain West,New Mexico,Mountain West,401022530,40102253028,false,4,48,4,4,64,3,28,15,5,16,DOWNS
+New Mexico,Mountain West,UNLV,Mountain West,401022530,40102253029,false,4,64,3,4,19,,,28,6,45,END OF GAME
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,40102253110,false,2,94,2,2,54,,,19,7,40,END OF HALF
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,40102253111,false,3,66,14,3,70,13,12,47,3,-4,PUNT
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,40102253112,true,3,25,13,3,59,8,14,58,10,34,INT TD
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,40102253114,false,3,25,8,3,42,5,28,46,4,17,PUNT
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,40102253115,false,3,89,5,3,92,3,36,52,3,-3,PUNT
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,40102253116,true,3,67,3,3,100,,48,48,5,33,TD
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,40102253117,false,3,65,,4,41,11,47,1,7,24,DOWNS
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,40102253118,false,4,41,11,4,45,9,6,41,4,4,PUNT
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,40102253119,true,4,85,9,4,6,5,24,42,7,79,FG
+Hawai'i,Mountain West,Wyoming,Mountain West,401022531,40102253120,true,4,32,5,4,100,1,19,5,10,68,TD
+Wyoming,Mountain West,Hawai'i,Mountain West,401022531,40102253121,false,4,68,1,4,14,,,19,9,54,END OF GAME
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253210,false,2,62,5,2,57,3,47,33,3,5,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,40102253211,false,2,30,3,2,38,2,29,18,3,8,INT
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253212,false,2,11,2,2,6,2,24,5,1,5,FUMBLE
+Nevada,Mountain West,Fresno State,Mountain West,401022532,40102253213,false,2,9,2,2,58,,11,13,8,49,INT
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253214,false,2,95,,2,96,,,11,1,-1,END OF HALF
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253215,false,3,75,15,3,66,13,27,33,3,9,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,40102253216,false,3,25,13,3,26,12,25,2,3,1,PUNT
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253217,true,3,80,12,3,0,10,20,5,5,80,TD
+Nevada,Mountain West,Fresno State,Mountain West,401022532,40102253218,false,3,25,10,3,34,8,49,31,3,9,PUNT
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253219,false,3,78,8,3,67,7,28,21,4,11,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,40102253220,false,3,24,7,3,32,5,30,58,3,8,PUNT
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253221,false,3,65,5,3,59,3,49,41,3,6,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,40102253222,false,3,5,3,4,54,13,51,58,12,49,INT
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253223,false,4,75,13,4,72,11,39,12,3,3,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,40102253224,false,4,20,11,4,13,10,18,21,3,-7,PUNT
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253225,true,4,44,10,4,0,8,22,56,4,44,TD
+Nevada,Mountain West,Fresno State,Mountain West,401022532,40102253226,false,4,29,8,4,90,3,18,4,16,61,DOWNS
+Fresno State,Mountain West,Nevada,Mountain West,401022532,40102253227,false,4,90,3,4,88,1,28,50,3,2,PUNT
+Nevada,Mountain West,Fresno State,Mountain West,401022532,40102253228,false,4,48,1,4,83,,,28,5,35,Uncategorized

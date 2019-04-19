@@ -1,0 +1,63 @@
+id,season,week,season_type,start_date,neutral_site,conference_game,attendance,venue_id,venue,home_team,home_conference,home_points,home_line_scores[0],home_line_scores[1],home_line_scores[2],home_line_scores[3],away_team,away_conference,away_points,away_line_scores[0],away_line_scores[1],away_line_scores[2],away_line_scores[3]
+401020769,2018,10,regular,2018-10-31T00:00:00.000Z,false,true,0,3700,Doyt Perry Stadium,Bowling Green,Mid-American,28,3,10,0,15,Kent State,Mid-American,35,7,7,7,14
+401020770,2018,10,regular,2018-10-31T00:00:00.000Z,false,true,0,3965,UB Stadium,Buffalo,Mid-American,51,14,14,14,9,Miami (OH),Mid-American,42,14,7,21,0
+401020771,2018,10,regular,2018-10-31T23:30:00.000Z,false,true,0,3739,Glass Bowl,Toledo,Mid-American,45,21,7,3,14,Ball State,Mid-American,13,0,7,0,6
+401020772,2018,10,regular,2018-11-01T23:00:00.000Z,false,true,0,3768,Summa Field at InfoCision Stadium,Akron,Mid-American,26,7,3,16,0,Northern Illinois,Mid-American,36,7,17,5,7
+401020773,2018,10,regular,2018-11-01T23:00:00.000Z,false,true,0,3980,Waldo Stadium,Western Michigan,Mid-American,14,0,0,7,7,Ohio,Mid-American,59,21,24,7,7
+401019517,2018,10,regular,2018-11-01T23:30:00.000Z,false,true,0,3652,Bright House Networks Stadium,UCF,American Athletic,52,14,14,14,10,Temple,American Athletic,40,17,17,0,6
+401013160,2018,10,regular,2018-11-02T23:30:00.000Z,false,true,0,3923,Scott Stadium,Virginia,ACC,13,7,3,0,3,Pittsburgh,ACC,23,7,0,7,9
+401015034,2018,10,regular,2018-11-03T00:00:00.000Z,false,true,0,3725,"Johnny Red"""" Floyd Stadium""""",Middle Tennessee,Conference USA,29,10,10,3,6,Western Kentucky,Conference USA,10,3,0,7,0
+401012780,2018,10,regular,2018-11-03T02:30:00.000Z,false,true,0,3619,Arizona Stadium,Arizona,Pac-12,42,0,26,9,7,Colorado,Pac-12,34,10,14,10,0
+401013373,2018,10,regular,2018-11-03T12:00:00.000Z,false,false,38502,3841,Blaik Field at Michie Stadium,Army,FBS Independents,17,7,7,0,3,Air Force,Mountain West,14,0,0,6,8
+401013034,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,4727,McLane Stadium,Baylor,Big 12,35,0,14,7,14,Oklahoma State,Big 12,31,7,3,14,7
+401013045,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,3833,Memorial Stadium,Kansas,Big 12,3,0,3,0,0,Iowa State,Big 12,27,14,6,7,0
+401012847,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,347,Camp Randall Stadium,Wisconsin,Big Ten,31,7,3,14,7,Rutgers,Big Ten,17,0,0,3,14
+401013162,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,3836,Memorial Stadium,Clemson,ACC,77,14,21,28,14,Louisville,ACC,16,3,0,6,7
+401013166,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,3630,BB&T Field,Wake Forest,ACC,24,10,0,14,0,Syracuse,ACC,41,14,7,14,6
+401012877,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,3665,Maryland Stadium,Maryland,Big Ten,3,0,3,0,0,Michigan State,Big Ten,24,10,0,7,7
+401013341,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,3861,Ohio Stadium,Ohio State,Big Ten,36,16,0,14,6,Nebraska,Big Ten,31,7,14,0,10
+401012328,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,44,3,24,10,7,South Carolina,SEC,48,17,10,7,14
+401012324,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,3785,Jordan-Hare Stadium,Auburn,SEC,28,7,7,0,14,Texas A&M,SEC,24,3,14,7,0
+401020774,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,3912,Rynearson Stadium,Eastern Michigan,Mid-American,17,7,0,0,10,Central Michigan,Mid-American,7,0,7,0,0
+401019520,2018,10,regular,2018-11-03T16:00:00.000Z,false,true,0,3699,Dowdy-Ficklen Stadium,East Carolina,American Athletic,41,14,3,17,7,Memphis,American Athletic,59,10,14,14,21
+401013165,2018,10,regular,2018-11-03T16:15:00.000Z,false,true,0,3787,Kenan Memorial Stadium,North Carolina,ACC,28,7,3,10,8,Georgia Tech,ACC,38,7,14,7,10
+401021686,2018,10,regular,2018-11-03T18:00:00.000Z,false,true,,4246,Georgia State Stadium,Georgia State,Sun Belt,30,7,3,0,20,Texas State,Sun Belt,40,13,0,20,7
+401022552,2018,10,regular,2018-11-03T18:00:00.000Z,false,true,0,3984,War Memorial Stadium,Wyoming,Mountain West,24,3,7,7,7,San José State,Mountain West,9,0,0,3,6
+401021685,2018,10,regular,2018-11-03T19:00:00.000Z,false,true,0,3817,Malone Stadium,Louisiana Monroe,Sun Belt,44,13,14,14,3,Georgia Southern,Sun Belt,25,0,10,8,7
+401021684,2018,10,regular,2018-11-03T19:00:00.000Z,false,true,0,3625,Centennial Bank Stadium,Arkansas State,Sun Belt,38,0,14,14,10,South Alabama,Sun Belt,14,0,7,0,7
+401015033,2018,10,regular,2018-11-03T19:00:00.000Z,false,true,0,3815,M. M. Roberts Stadium,Southern Mississippi,Conference USA,26,3,14,3,6,Marshall,Conference USA,24,3,7,7,7
+401021687,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3975,Veterans Memorial Stadium,Troy,Sun Belt,26,10,13,3,0,Louisiana,Sun Belt,16,3,0,13,0
+401012326,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3683,Commonwealth Stadium,Kentucky,SEC,17,0,3,7,7,Georgia,SEC,34,7,7,14,6
+401013164,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3670,Carter-Finley Stadium,NC State,ACC,47,10,17,10,10,Florida State,ACC,28,0,14,7,7
+401015035,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3895,Rice Stadium,Rice,Conference USA,26,0,3,7,16,UTEP,Conference USA,34,7,20,7,0
+401013188,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3910,Darrell K Royal-Texas Memorial Stadium,Texas,Big 12,41,14,14,3,10,West Virginia,Big 12,42,10,17,0,15
+401013063,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3616,Amon G. Carter Stadium,TCU,Big 12,14,7,0,7,0,Kansas State,Big 12,13,7,0,0,6
+401012812,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3832,Memorial Stadium,Illinois,Big Ten,55,14,10,21,10,Minnesota,Big Ten,31,7,10,0,14
+401012869,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3907,Ross-Ade Stadium,Purdue,Big Ten,38,14,7,14,3,Iowa,Big Ten,36,7,10,6,13
+401019521,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3886,Raymond James Stadium,South Florida,American Athletic,15,3,0,6,6,Tulane,American Athletic,41,7,20,7,7
+401019518,2018,10,regular,2018-11-03T19:30:00.000Z,false,true,0,3854,Nippert Stadium,Cincinnati,American Athletic,42,7,21,7,7,Navy,American Athletic,0,0,0,0,0
+401013365,2018,10,regular,2018-11-03T19:30:00.000Z,false,false,0,3985,Warren McGuirk Alumni Stadium,UMass,FBS Independents,62,14,10,7,14,Liberty,,59,14,10,0,21
+401013161,2018,10,regular,2018-11-03T19:45:00.000Z,false,true,0,3799,Lane Stadium,Virginia Tech,ACC,21,7,7,0,7,Boston College,ACC,31,7,0,14,10
+401012894,2018,10,regular,2018-11-03T19:45:00.000Z,false,true,0,3558,Michigan Stadium,Michigan,Big Ten,42,7,7,14,14,Penn State,Big Ten,7,0,0,0,7
+401012330,2018,10,regular,2018-11-03T20:00:00.000Z,false,false,0,3853,Neyland Stadium,Tennessee,SEC,14,14,0,0,0,Charlotte,Conference USA,3,0,3,0,0
+401012781,2018,10,regular,2018-11-03T20:00:00.000Z,false,true,0,3947,Sun Devil Stadium,Arizona State,Pac-12,38,14,7,0,17,Utah,Pac-12,20,7,10,3,0
+401012325,2018,10,regular,2018-11-03T20:00:00.000Z,false,true,0,3634,Ben Hill Griffin Stadium,Florida,SEC,17,3,7,7,0,Missouri,SEC,38,7,14,14,3
+401013445,2018,10,regular,2018-11-03T20:00:00.000Z,false,false,0,3601,Aggie Memorial Stadium,New Mexico State,,52,14,21,3,14,Alcorn State,,42,7,7,7,21
+401021683,2018,10,regular,2018-11-03T21:00:00.000Z,false,true,0,3654,Brooks Stadium,Coastal Carolina,Sun Belt,7,7,0,0,0,Appalachian State,Sun Belt,23,7,7,0,9
+401019522,2018,10,regular,2018-11-03T23:00:00.000Z,false,true,0,3735,Gerald J. Ford Stadium,SMU,American Athletic,45,10,21,7,7,Houston,American Athletic,31,0,14,3,14
+401019519,2018,10,regular,2018-11-03T23:00:00.000Z,false,true,0,3674,Skelly Field at H. A. Chapman Stadium,Tulsa,American Athletic,49,0,28,21,0,Connecticut,American Athletic,19,10,3,0,6
+401013163,2018,10,regular,2018-11-03T23:00:00.000Z,false,true,0,3948,Hard Rock Stadium,Miami,ACC,12,0,12,0,0,Duke,ACC,20,7,0,10,3
+401013345,2018,10,regular,2018-11-03T23:15:00.000Z,false,false,0,3911,Ryan Field,Northwestern,Big Ten,21,0,7,0,14,Notre Dame,FBS Independents,31,7,0,14,10
+401015032,2018,10,regular,2018-11-03T23:30:00.000Z,false,true,0,218,FIU Stadium,Florida International,Conference USA,14,0,7,7,0,Florida Atlantic,Conference USA,49,7,7,7,28
+401012782,2018,10,regular,2018-11-03T23:30:00.000Z,false,true,0,3626,Autzen Stadium,Oregon,Pac-12,42,14,7,7,14,UCLA,Pac-12,21,0,7,7,7
+401015036,2018,10,regular,2018-11-03T23:30:00.000Z,false,true,0,3803,Legion Field,UAB,Conference USA,52,21,17,7,7,UT San Antonio,Conference USA,3,3,0,0,0
+401012329,2018,10,regular,2018-11-03T23:30:00.000Z,false,false,0,3693,Davis Wade Stadium,Mississippi State,SEC,45,21,10,7,7,Louisiana Tech,Conference USA,3,3,0,0,0
+401012327,2018,10,regular,2018-11-04T00:00:00.000Z,false,true,0,3958,Tiger Stadium,LSU,SEC,0,0,0,0,0,Alabama,SEC,29,6,10,6,7
+401013069,2018,10,regular,2018-11-04T00:00:00.000Z,false,true,0,3784,Jones AT&T Stadium,Texas Tech,Big 12,46,14,17,0,15,Oklahoma,Big 12,51,7,21,7,16
+401012784,2018,10,regular,2018-11-04T01:00:00.000Z,false,true,0,3765,Husky Stadium,Washington,Pac-12,27,14,7,3,3,Stanford,Pac-12,23,0,0,14,9
+401012783,2018,10,regular,2018-11-04T02:00:00.000Z,false,true,0,3893,Reser Stadium,Oregon State,Pac-12,21,0,14,7,0,USC,Pac-12,38,7,14,7,10
+401022550,2018,10,regular,2018-11-04T02:15:00.000Z,false,true,0,3971,University Stadium,New Mexico,Mountain West,23,7,3,6,7,San Diego State,Mountain West,31,7,0,7,17
+401016410,2018,10,regular,2018-11-04T02:15:00.000Z,false,false,0,3653,Albertsons Stadium,Boise State,Mountain West,21,14,0,7,0,BYU,FBS Independents,16,0,6,7,3
+401022553,2018,10,regular,2018-11-04T02:30:00.000Z,false,true,0,3914,Sam Boyd Stadium,UNLV,Mountain West,3,0,0,0,3,Fresno State,Mountain West,48,7,10,17,14
+401012785,2018,10,regular,2018-11-04T02:45:00.000Z,false,true,0,3820,Martin Stadium,Washington State,Pac-12,19,3,10,0,6,California,Pac-12,13,0,10,3,0
+401022551,2018,10,regular,2018-11-04T03:59:00.000Z,false,true,0,3610,Aloha Stadium,Hawai'i,Mountain West,17,3,0,14,0,Utah State,Mountain West,56,28,0,28,0

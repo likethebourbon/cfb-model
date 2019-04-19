@@ -1,0 +1,40 @@
+id,season,week,season_type,start_date,neutral_site,conference_game,attendance,venue_id,venue,home_team,home_conference,home_points,home_line_scores[0],home_line_scores[1],home_line_scores[2],home_line_scores[3],away_team,away_conference,away_points,away_line_scores[0],away_line_scores[1],away_line_scores[2],away_line_scores[3]
+401035253,2018,1,postseason,2018-12-15T18:30:00.000Z,true,false,0,4013,Camping World Stadium,Louisiana,Sun Belt,24,7,3,7,7,Tulane,American Athletic,41,21,3,3,14
+401032054,2018,1,postseason,2018-12-15T19:00:00.000Z,true,false,0,3971,University Stadium,North Texas,Conference USA,13,7,0,6,0,Utah State,Mountain West,52,14,24,7,7
+401032055,2018,1,postseason,2018-12-15T20:30:00.000Z,true,false,0,3914,Sam Boyd Stadium,Fresno State,Mountain West,31,10,7,7,7,Arizona State,Pac-12,20,7,10,3,0
+401032056,2018,1,postseason,2018-12-15T22:30:00.000Z,true,false,0,3689,Cramton Bowl,Eastern Michigan,Mid-American,21,0,7,7,7,Georgia Southern,Sun Belt,23,7,10,0,6
+401032057,2018,1,postseason,2018-12-16T02:00:00.000Z,true,false,0,3493,Mercedes-Benz Superdome,Appalachian State,Sun Belt,45,0,24,14,7,Middle Tennessee,Conference USA,13,3,3,7,0
+401032058,2018,1,postseason,2018-12-19T00:00:00.000Z,true,false,,3715,FAU Stadium,Northern Illinois,Mid-American,13,7,3,3,0,UAB,Conference USA,37,10,17,10,0
+401032059,2018,1,postseason,2018-12-20T01:00:00.000Z,true,false,0,1400,Toyota Stadium,Ohio,Mid-American,27,3,14,3,7,San Diego State,Mountain West,0,0,0,0,0
+401032060,2018,1,postseason,2018-12-21T01:00:00.000Z,false,false,0,3886,Raymond James Stadium,South Florida,American Athletic,20,7,3,10,0,Marshall,Conference USA,38,21,7,3,7
+401032061,2018,1,postseason,2018-12-21T17:30:00.000Z,true,false,0,4779,Thomas Robinson Stadium,Toledo,Mid-American,32,10,0,7,15,Florida International,Conference USA,35,0,14,7,14
+401032062,2018,1,postseason,2018-12-21T21:00:00.000Z,true,false,0,3653,Albertsons Stadium,BYU,FBS Independents,49,7,0,28,14,Western Michigan,Mid-American,18,0,10,0,8
+401032063,2018,1,postseason,2018-12-22T17:00:00.000Z,true,false,0,3803,Legion Field,Wake Forest,ACC,37,7,17,6,7,Memphis,American Athletic,34,14,14,0,6
+401032064,2018,1,postseason,2018-12-22T20:30:00.000Z,true,false,0,3616,Amon G. Carter Stadium,Army,FBS Independents,70,14,28,14,14,Houston,American Athletic,14,0,7,0,7
+401032065,2018,1,postseason,2018-12-23T00:00:00.000Z,true,false,0,3797,Ladd Peebles Stadium,Troy,Sun Belt,42,7,7,7,21,Buffalo,Mid-American,32,7,10,7,8
+401032066,2018,1,postseason,2018-12-23T03:30:00.000Z,true,false,0,3610,Aloha Stadium,Louisiana Tech,Conference USA,31,3,0,21,7,Hawai'i,Mountain West,14,0,7,0,7
+401032068,2018,1,postseason,2018-12-26T22:15:00.000Z,true,false,0,3727,Ford Field,Georgia Tech,ACC,10,0,3,7,0,Minnesota,Big Ten,34,10,3,7,14
+401032069,2018,1,postseason,2018-12-27T02:00:00.000Z,true,false,33121,4251,Chase Field,TCU,Big 12,10,0,0,7,0,California,Pac-12,7,7,0,0,0
+401032070,2018,1,postseason,2018-12-27T18:30:00.000Z,true,false,0,3766,Independence Stadium,Duke,ACC,56,7,14,21,14,Temple,American Athletic,27,13,14,0,0
+401032071,2018,1,postseason,2018-12-27T22:15:00.000Z,true,false,0,4102,Yankee Stadium,Wisconsin,Big Ten,35,14,0,7,14,Miami,ACC,3,3,0,0,0
+401032072,2018,1,postseason,2018-12-28T02:00:00.000Z,true,false,0,3891,NRG Stadium,Vanderbilt,SEC,38,14,7,7,10,Baylor,Big 12,45,10,7,14,14
+401032073,2018,1,postseason,2018-12-28T18:30:00.000Z,true,false,0,3810,Nissan Stadium,Auburn,SEC,63,28,28,7,0,Purdue,Big Ten,14,7,0,7,0
+401032074,2018,1,postseason,2018-12-28T22:15:00.000Z,true,false,0,4013,Camping World Stadium,Syracuse,ACC,34,7,7,3,17,West Virginia,Big 12,18,3,9,6,0
+401032075,2018,1,postseason,2018-12-29T02:00:00.000Z,true,false,0,3604,Alamodome,Washington State,Pac-12,28,7,14,0,7,Iowa State,Big 12,26,0,10,10,6
+401032076,2018,1,postseason,2018-12-29T17:00:00.000Z,true,false,0,5348,Mercedes-Benz Stadium,Michigan,Big Ten,15,7,3,0,5,Florida,SEC,41,3,10,14,14
+401032077,2018,1,postseason,2018-12-29T17:00:00.000Z,true,false,0,3628,Bank of America Stadium,Virginia,ACC,28,7,7,7,7,South Carolina,SEC,0,0,0,0,0
+401035252,2018,1,postseason,2018-12-29T18:15:00.000Z,true,false,0,3619,Arizona Stadium,Nevada,Mountain West,16,0,3,0,7,Arkansas State,Sun Belt,13,0,7,0,3
+401032079,2018,1,postseason,2018-12-29T21:00:00.000Z,true,false,0,3687,AT&T Stadium,Clemson,ACC,30,3,20,7,0,Notre Dame,FBS Independents,3,3,0,0,0
+401032078,2018,1,postseason,2018-12-30T01:00:00.000Z,true,false,0,3948,Hard Rock Stadium,Alabama,SEC,45,21,10,0,14,Oklahoma,Big 12,34,0,10,10,14
+401032080,2018,1,postseason,2018-12-31T17:00:00.000Z,true,false,0,3852,Navy-Marine Corps Memorial Stadium,Virginia Tech,ACC,31,7,7,10,7,Cincinnati,American Athletic,35,7,7,7,14
+401035251,2018,1,postseason,2018-12-31T19:00:00.000Z,true,false,0,3946,Sun Bowl Stadium,Pittsburgh,ACC,13,0,10,3,0,Stanford,Pac-12,14,0,7,0,7
+401035254,2018,1,postseason,2018-12-31T20:00:00.000Z,true,false,0,4738,Levi's Stadium,Oregon,Pac-12,7,0,0,0,7,Michigan State,Big Ten,6,0,0,6,0
+401032081,2018,1,postseason,2018-12-31T20:45:00.000Z,true,false,0,3805,Liberty Bowl Memorial Stadium,Oklahoma State,Big 12,38,7,7,21,3,Missouri,SEC,33,3,13,3,14
+401035250,2018,1,postseason,2019-01-01T00:00:00.000Z,true,false,0,3932,Qualcomm Stadium,Utah,Pac-12,20,14,6,0,0,Northwestern,Big Ten,31,0,3,28,0
+401032082,2018,1,postseason,2019-01-01T00:30:00.000Z,true,false,0,3712,EverBank Field,Texas A&M,SEC,52,7,14,14,17,NC State,ACC,13,3,10,0,0
+401032083,2018,1,postseason,2019-01-01T17:00:00.000Z,true,false,0,3886,Raymond James Stadium,Iowa,Big Ten,27,0,17,7,3,Mississippi State,SEC,22,6,0,13,3
+401032084,2018,1,postseason,2019-01-01T18:00:00.000Z,true,false,0,3970,University of Phoenix Stadium,UCF,American Athletic,32,14,7,3,8,LSU,SEC,40,10,14,10,6
+401032088,2018,1,postseason,2019-01-01T18:00:00.000Z,true,false,0,4013,Camping World Stadium,Penn State,Big Ten,24,0,7,0,17,Kentucky,SEC,27,10,0,17,0
+401032085,2018,1,postseason,2019-01-01T22:00:00.000Z,true,false,0,1056,Rose Bowl,Ohio State,Big Ten,28,7,14,7,0,Washington,Pac-12,23,3,0,0,20
+401032086,2018,1,postseason,2019-01-02T01:45:00.000Z,true,false,0,3493,Mercedes-Benz Superdome,Georgia,SEC,21,0,7,0,14,Texas,Big 12,28,10,10,0,8
+401032087,2018,1,postseason,2019-01-08T01:00:00.000Z,true,false,0,4738,Levi's Stadium,Alabama,SEC,16,13,3,0,0,Clemson,ACC,44,14,17,13,0
