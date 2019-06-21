@@ -1,0 +1,89 @@
+,data,index,column,old,new
+0,data,122,play_type,Kickoff Return (Offense),Kickoff
+1,data,1140,play_type,Kickoff Return (Offense),Kickoff
+2,data,1140,play_text,"Clayton Hatfield kickoff for 65 yds , Jaylon Jones return for 16 yds to the TEXASTECH 16 TEXAS TECH Penalty, Personal Foul (15 Yards) to the Miss 31","Hatfield, Clayt kickoff 65 yards to the OM0, Jaylon Jones return 16 yards to the OM16 (Leggett, Thomas), PENALTY TTU personal foul (Addison, Quincy) 15 yards to the OM31, 1st and 10, OM ball on OM31."
+3,data,8348,play_type,Kickoff Return (Offense),Kickoff
+4,data,8813,play_type,Kickoff Return (Offense),Kickoff
+5,data,8826,play_type,Kickoff Return (Offense),Kickoff
+6,data,8859,play_type,Kickoff Return (Offense),Kickoff
+7,data,8866,play_type,Kickoff Return (Offense),Kickoff
+8,data,8898,play_type,Kickoff Return (Offense),Kickoff
+9,data,8910,play_type,Kickoff Return (Offense),Kickoff
+10,data,8912,play_type,Kickoff Return (Offense),Kickoff
+11,data,8919,play_type,Kickoff Return (Offense),Kickoff
+12,data,8925,play_type,Kickoff Return (Offense),Kickoff
+13,data,8941,play_type,Kickoff Return (Offense),Kickoff
+14,data,8971,play_type,Kickoff Return (Offense),Kickoff
+15,data,9011,play_text,"Cooper Rothe kickoff for 61 yds , Royce Caldwell return for 1 yd to the NMxSt 36 NEW MEXICO ST Penalty, Offensive Holding (2 Yards) to the NMxSt 3","ROTHE, Cooper kickoff 61 yards to the NMSU4, Caldwell, Royce return 1 yards to the NMSU5 (BLANKENBAKER,K.), PENALTY NMSU holding (Reese, Jassavia) 2 yards to the NMSU3, 1st and 10, NMSU ball on NMSU3."
+16,data,9011,play_type,Kickoff Return (Offense),Kickoff
+17,data,9015,play_type,Kickoff Return (Offense),Kickoff
+18,data,14495,play_type,Kickoff Return (Offense),Kickoff
+19,data,14523,play_type,Kickoff Return (Offense),Kickoff
+20,data,14572,play_type,Kickoff Return (Offense),Kickoff
+21,data,14572,play_text,"Michael Boyle kickoff for 50 yds , Preston Williams return for 21 yds to the COLOST 44 HAWAII Penalty, Defensive offside (-5 Yards) to the ColSt 41","BOYLE, Michael kickoff 50 yards to the CSU15, WILLIAMS, P. return 21 yards to the CSU36 (DALE, Elijah), PENALTY UH offside (MATAAFA, Mason) 5 yards to the CSU41, 1st and 10, CSU ball on CSU41."
+22,data,14579,play_text,"Michael Boyle kickoff for 73 yds , Preston Williams return for 17 yds to the ColSt 44 COLORADO ST Penalty, Offensive holding (8 Yards) to the ColSt 9","BOYLE, Michael kickoff 73 yards to the CSU0, WILLIAMS, P. return 17 yards to the CSU17 (DALTON, Donovan;SCOTT, Paul), PENALTY CSU holding (CARTER, C.) 8 yards to the CSU9, 1st and 10, CSU ball on CSU9."
+23,data,14579,play_type,Kickoff Return (Offense),Kickoff
+24,data,14598,play_type,Kickoff Return (Offense),Kickoff
+25,data,14619,play_type,Kickoff Return (Offense),Kickoff
+26,data,14629,play_type,Kickoff Return (Offense),Kickoff
+27,data,14684,play_type,Kickoff Return (Offense),Kickoff
+28,data,17099,play_type,Kickoff Return (Offense),Kickoff
+29,data,27893,play_type,Kickoff Return (Offense),Kickoff
+30,data,43491,play_type,Kickoff Return (Offense),Kickoff
+31,data,45091,play_type,Kickoff Return (Offense),Kickoff
+32,data,45115,play_text,"Jake Moody kickoff for 62 yds , Maurice Washington return for 16 yds to the MICHIGAN 49 NEBRASKA Penalty, Unnecessary Roughness (9 Yards) to the Neb 10","Moody, Jake kickoff 62 yards to the NEB3, M. Washington return 16 yards to the NEB19 (Kelly-Powell, J), PENALTY NEB personal foul (Collin Miller) 9 yards to the NEB10, 1st and 10, NEB ball on NEB10."
+33,data,45115,play_type,Kickoff Return (Offense),Kickoff
+34,data,45115,yard_line,81,35
+35,data,17099,yard_line,21,65
+36,data,9011,yard_line,5,65
+37,data,1140,yard_line,84,35
+38,data,45120,yard_line,33,80
+39,data,45120,play_text,"Caleb Lightbourn kickoff for 61 yds , Lavert Hill return for 14 yds to the Mich 34 MICHIGAN Penalty, Offensive Holding (Jordan Glasgow) to the Mich 23","C. Lightbourn kickoff 61 yards to the MICH19, Hill, Lavert return 14 yards to the MICH33 (J. Weinmaster;Collin Miller), PENALTY MICH holding (Glasgow, Jordan) 10 yards to the MICH23, 1st and 10, MICH ball on MICH23."
+40,data,45120,play_type,Kickoff Return (Offense),Kickoff
+41,data,45885,play_type,Kickoff Return (Offense),Kickoff
+42,data,45999,yard_line,10,65
+43,data,45999,play_type,Kickoff Return (Offense),Kickoff
+44,data,48311,play_text,"Zachary Block kickoff for 65 yds , Johnnie Dixon return for 19 yds to the OHIOST 46 OHIO ST Penalty, Offensive Holding (10 Yards) to the OhSt 9","BLOCK, Zachary kickoff 65 yards to the OSU0, Dixon, Johnnie return 19 yards to the OSU19 (TEAM;TEAM), PENALTY OSU holding declined, PENALTY OSU holding (Gant, Dallas) 10 yards to the OSU9, 1st and 10, OSU ball on OSU9."
+45,data,48311,play_type,Kickoff Return (Offense),Kickoff
+46,data,48311,yard_line,19,65
+47,data,54366,yard_line,21,65
+48,data,54366,play_type,Kickoff Return (Offense),Kickoff
+49,data,55752,yard_line,18,65
+50,data,55752,play_type,Kickoff Return (Offense),Kickoff
+51,data,58845,yard_line,53,65
+52,data,58845,play_type,Kickoff Return (Offense),Kickoff
+53,data,68961,play_type,Kickoff Return (Offense),Kicking Team Fumble Recovery Touchdown
+54,data,75341,play_type,Kickoff Return (Offense),Kicking Team Fumble Recovery
+55,data,77080,yard_line,16,65
+56,data,77080,play_type,Kickoff Return (Offense),Kickoff
+57,data,77128,yard_line,82,35
+58,data,77128,play_type,Kickoff Return (Offense),Kickoff
+59,data,77236,yard_line,75,35
+60,data,77236,play_type,Kickoff Return (Offense),Kickoff
+61,data,77236,play_text,"Cole Bunce kickoff for 49 yds , Demarcus Felton return for 9 yds to the TexTc 25 TCU Penalty, Defensive Offside (Arico Evans) to the TexTc 30","Bunce, Cole kickoff 49 yards to the TTU16, Felton, Dem. return 9 yards to the TTU25 (Johnson, Jawuan), PENALTY TCU offside (Evans, Arico) 5 yards to the TTU30, 1st and 10, TTU ball on TTU30."
+62,data,94842,yard_line,23,65
+63,data,94842,play_type,Kickoff Return (Offense),Kickoff
+64,data,96382,yard_line,51,65
+65,data,96382,play_type,Kickoff Return (Offense),Kickoff
+66,data,96386,yard_line,0,35
+67,data,96386,play_type,Kickoff Return (Offense),Kickoff
+68,data,106372,yard_line,80,35
+69,data,106372,play_type,Kickoff Return (Offense),Kickoff
+70,data,129287,play_type,Kickoff Return (Offense),Kickoff
+71,data,152221,play_type,Kickoff Return (Offense),Kickoff
+72,data,152264,play_type,Kickoff Return (Offense),Kickoff
+73,data,152335,play_type,Kickoff Return (Offense),Kickoff
+74,data,152725,play_type,Kickoff Return (Offense),Kicking Team Fumble Recovery
+75,data,152725,play_text,"Jameson Vest kickoff for 64 yds , Bryce Singleton return for 2 yds to the FlaIn 3 Bryce Singleton fumbled, recovered by Toled","VEST, Jameson kickoff 64 yards to the FIU1, SINGLETON, B. return 7 yards to the FIU8, fumble forced by TAYLOR,Terrance, fumble by SINGLETON, B. recovered by TOLEDO BLUE, DeDarallo at FIU8, BLUE, DeDarallo for 5 yards to the FIU3 (TEAM)."
+76,data,152729,yard_line,50,35
+77,data,152729,play_text,"Jameson Vest kickoff for 48 yds , Bryce Singleton return for 13 yds to the FlaIn 15","VEST, Jameson kickoff 63 yards to the FIU2, SINGLETON, B. return 13 yards to the FIU15 (ANDERSON, Tycen)."
+78,data,152729,play_type,Kickoff Return (Offense),Kickoff
+79,data,155551,yard_line,75,35
+80,data,155551,play_text,"Joseph Bulovas kickoff for 61 yds , Tre Brown return for 21 yds to the ALABAMA 25 OKLAHOMA Penalty, Illegal Block (10 Yards) to the Okla 15","Joseph Bulovas kickoff 61 yards to the OU4, Brown, Tre return 21 yards to the OU25, out-of-bounds, PENALTY OU illegal block (Thomas, Isaiah) 10 yards to the OU15, 1st and 10, OU ball on OU15."
+81,data,155551,play_type,Kickoff Return (Offense),Kickoff
+82,data,155950,yard_line,26,65
+83,data,155950,play_type,Kickoff Return (Offense),Kickoff
+84,data,156633,play_type,Kickoff Return (Offense),Kickoff
+85,data,156640,play_type,Kickoff Return (Offense),Kickoff
+86,data,156659,play_type,Kickoff Return (Offense),Kickoff
+87,data,156785,play_type,Kickoff Return (Offense),Kickoff

@@ -1,0 +1,104 @@
+,data,index,column,old,new
+0,data,1415,play_type,Kickoff,Punt
+1,data,1415,play_text,"Caleb Lewallen kickoff for 39 yds , Keith Mixon return for 8 yds to the MisSt 42","Caleb Lewallen punt 39 yards to the MS34, Keith Mixon return 8 yards to the MS42 (Tyler Freeman)."
+2,data,1968,yard_line,75,35
+3,data,1979,yard_line,84,35
+4,data,2419,yard_line,77,65
+5,data,2419,play_text,"Trey Tuttle kickoff for 73 yds , Julian Blackmon return for 24 yds to the Utah 28","Trey Tuttle kickoff for 61 yds , Julian Blackmon return for 24 yds to the Utah 28"
+6,data,4124,yard_line,69,65
+7,data,4876,yard_line,29,35
+8,data,4876,play_text,Miguel Recinos kickoff for 61 yds,"Recinos,Miguel kickoff 61 yards to the NIU4, out-of-bounds, NIU ball on NIU35."
+9,data,5389,yard_line,78,35
+10,data,5389,play_text,"Jonathan Doerer kickoff for 64 yds , Ambry Thomas return for 21 yds to the NOTREDAME 44 MICHIGAN Penalty, Offensive Holding (Brandon Watson) to the Mich 12","DOERER, Jonathan kickoff 64 yards to the MICH1, Thomas, Ambry return 21 yards to the MICH22, out-of-bounds (TRANQUILL, Drue), PENALTY MICH holding (Watson, Brandon) 0 yards to the MICH22, 1st and 10, MICH ball on MICH12."
+11,data,7436,yard_line,56,65
+12,data,9832,yard_line,63,35
+13,data,9832,play_text,"Jonathan Cruz kickoff for 37 yds CRUZ, Jonathan kickoff 37 yards to the FORDHAM0, King, Austin return 28 yards to the FORDHAM28 (STARR, JT).","Jonathan Cruz kickoff for 65 yds CRUZ, Jonathan kickoff 65 yards to the FORDHAM0, King, Austin return 28 yards to the FORDHAM28 (STARR, JT)."
+20,data,12757,yard_line,32,35
+21,data,12757,play_text,"Josh Grant kickoff for 43 yds , Kenneth Ruff return for 22 yds to the Syrac 47","Josh Grant kickoff for 40 yds , Kenneth Ruff return for 22 yds to the Syrac 47"
+22,data,14579,yard_line,73,65
+23,data,14579,play_text,"BOYLE, Michael kickoff 73 yards to the CSU0, WILLIAMS, P. return 17 yards to the CSU17 (DALTON, Donovan;SCOTT, Paul), PENALTY CSU holding (CARTER, C.) 8 yards to the CSU9, 1st and 10, CSU ball on CSU9.","BOYLE, Michael kickoff 65 yards to the CSU0, WILLIAMS, P. return 17 yards to the CSU17 (DALTON, Donovan;SCOTT, Paul), PENALTY CSU holding (CARTER, C.) 8 yards to the CSU9, 1st and 10, CSU ball on CSU9."
+24,data,15694,yard_line,0,20
+25,data,15694,play_text,"Caleb Pratt kickoff for 64 yds , Derrek Williams return for 16 yds to the NCAT 36 NC A&T Penalty, illegal block (Richie Kittles) to the NCAT 10","PRATT, Caleb kickoff 64 yards to the NCAT16, WILLIAMS,Derrek return 16 yards to the NCAT32 (WITHERSPOON, M.), PENALTY NCAT illegal block (KITTLE,Richie) 15 yards to the NCAT17, 1st and 10, NCAT ball on NCAT18, PENALTY NCAT unsportsmanlike conduct (HILL,Leroy) 8 yards to the NCAT10, 1st and 10, NCAT ball on NCAT10."
+26,data,15740,yard_line,26,35
+27,data,15740,play_text,Caleb Pratt kickoff for 74 yds for a touchback,Caleb Pratt kickoff for 65 yds for a touchback
+28,data,16149,yard_line,76,65
+29,data,16149,play_text,"Connor Limpert kickoff for 76 yds , Anthony Hawkins return for 20 yds to the ColSt 20","Connor Limpert kickoff for 65 yds , Anthony Hawkins return for 20 yds to the ColSt 20"
+30,data,19872,yard_line,18,35
+31,data,20736,yard_line,15,35
+32,data,24715,yard_line,76,65
+33,data,24715,play_text,"Cooper Garcia kickoff for 73 yds , Wesley Kennedy III return for 21 yds to the GeoSo 24","Cooper Garcia kickoff for 62 yds , Wesley Kennedy III return for 21 yds to the GeoSo 24"
+34,data,26113,yard_line,3,65
+1,data,28894,yard_line,100,80
+2,data,28894,play_text,"Dakota Lebofsky kickoff for 87 yds , Jo-El Shaw return for 14 yds to the KntSt 14 KENT ST Penalty, illegal block (10 Yards) to the KntSt 17","LEBOFSKY,Dakota kickoff 67 yards to the KENT13, SHAW, JO-EL return 14 yards to the KENT27, out-of-bounds, , PENALTY KENT illegal block (RAY, JAE'VANTE) 10 yards to the KENT17, 1st and 10, KENT ball on KENT17."
+35,data,29917,play_text,Connor Limpert kickoff for 52 yds,"Connor Limpert kickoff 58 yards to the UNT7, Deandre Torrey return to the UNT26 (D. McClure), PENALTY AR OF (Micahh Smith) 5 yards to the AR30, NO PLAY. Connor Limpert kickoff 52 yards to the UNT18, fair catch by Anthony Wyche."
+36,data,35663,yard_line,9,65
+37,data,38239,yard_line,45,65
+38,data,38239,play_text,"Mike Caggiano kickoff for 41 yds, downed at the FlaIn 4","Mike Caggiano kickoff for 61 yds, downed at the FlaIn 4"
+39,data,39321,yard_line,82,65
+40,data,39456,yard_line,75,35
+41,data,43491,yard_line,25,65
+42,data,48368,yard_line,34,65
+43,data,48368,play_text,"Merek Glover kickoff for 41 yds , C.J. Saunders return for 10 yds to the OhSt 45 OHIO ST Penalty, Unsportsmanlike Conduct (Jake Hausmann) to the OhSt 19","TOLES,J. kickoff 41 yards to the OSU24, Saunders, C.J. return 10 yards to the OSU34 (GRAHAM,L.), PENALTY OSU unsportsmanlike conduct (Olave, Chris) 15 yards to the OSU19, 1st and 10, OSU ball on OSU19."
+44,data,53019,period,2,3
+45,data,53019,clock.minutes,0,15
+46,data,53019,yard_line,51,35
+47,data,53019,play_text,Wyatt Bryan kickoff for 49 yds for a touchback,Wyatt Bryan kickoff for 65 yds for a touchback
+48,data,57184,play_text,"Will Mobley kickoff for 60 yds , Michael Walker return for 15 yds Michael Walker fumbled, forced by Rob Ritrovato, recovered by Temp Isaiah Graham-Mobley  , return for 19 yds","MOBLEY,Will kickoff 60 yards to the BC10, Walker,M return 15 yards to the BC25, fumble forced by RITROVATO,Rob, fumble by Walker,M recovered by TEM GRAHAM-MOBLEY,I at BC19, GRAHAM-MOBLEY,I for 19 yards to the BC0, TOUCHDOWN, clock 07:39."
+49,data,57184,play_type,Kickoff,Kicking Team Fumble Recovery Touchdown
+50,data,60406,yard_line,71,65
+51,data,60406,play_text,"Austin Laszewski kickoff for 63 yds , Ty Lee return for 16 yds to the MTnSt 24","Austin Laszewski kickoff for 57 yds , Ty Lee return for 16 yds to the MTnSt 24"
+52,data,65177,play_text,"Greg Thomas kickoff for 11 yds , Shawn Poindexter return for no gain to the Cal 40 CALIFORNIA Penalty, personal foul (-15 Yards) to the Cal 36","Thomas, Greg kickoff 11 yards to the ARIZ49, on-side kick, recovered by ARIZ Young Jr., S. on ARIZ49, PENALTY CAL personal foul (Hawkins, Jaylinn) 15 yards to the CAL36, 1st and 10, ARIZ ball on CAL36."
+54,data,69449,play_text,Austin Laszewski on-side kick recovered by FLA ATLANTIC at the FlAtl 46,"DAVIS, Brad on-side kick recovered by FLA ATLANTIC at the FlAtl 46"
+55,data,69449,offense,Florida Atlantic,Old Dominion
+56,data,69449,defense,Old Dominion,Florida Atlantic
+57,data,69449,offense_score,46,33
+58,data,69449,defense_score,33,46
+59,data,69449,yard_line,46,65
+60,data,71325,yard_line,25,35
+61,data,71325,play_text,Jake Koehnke kickoff for 75 yds for a touchback,Jake Koehnke kickoff for 65 yds for a touchback
+62,data,72668,yard_line,34,65
+63,data,72668,play_text,"Barry Brown kickoff for 31 yds GEORGIA ST Penalty, Kickoff Out of Bounds (-6 Yards) to the Troy 40","Brown, Barry kickoff 31 yards to the TROY34, out-of-bounds, TROY ball on TROY40."
+64,data,75602,yard_line,85,65
+65,data,79763,yard_line,41,35
+66,data,79763,play_text,"Ethan Mooney kickoff for 52 yds , De'Michael Harris return for 23 yds to the SoMis 30","Ethan Mooney kickoff for 58 yds , De'Michael Harris return for 23 yds to the SoMis 30"
+67,data,81754,yard_line,26,35
+68,data,81754,play_text,"Nate Needham kickoff for 69 yds , Chase Brown return for no gain to the WMich 5","Nate Needham kickoff for 60 yds , Chase Brown return for no gain to the WMich 5"
+69,data,82567,yard_line,64,65
+70,data,82567,play_text,Jacob Meeks kickoff for 64 yds for a touchback,Jacob Meeks kickoff for 65 yds for a touchback
+71,data,82781,yard_line,6,65
+72,data,82781,play_text,"Jake Koehnke kickoff for 3 yds , Jordan Byrd return for 9 yds to the SDSt 0 SAN DIEGO ST Penalty, illegal block (6 Yards) to the SDSt 6","KOEHNKE, Jake kickoff 62 yards to the SDSU3, BYRD, Jordan return 9 yards to the SDSU12 (THEIL, Grant), PENALTY SDSU illegal block 6 yards to the SDSU6, 1st and 10, SDSU ball on SDSU6."
+73,data,82840,play_text,"Joel Velazquez kickoff for 73 yds , Daiyan Henley return for 26 yds to the Nevad 45 Daiyan Henley fumbled, forced by Desmond Williams,","VELAZQUEZ, Joel kickoff 73 yards to the NEVADA17, HENLEY, Daiyan return 26 yards to the NEVADA43, fumble forced by WILLIAMS, D., fumble by HENLEY, Daiyan recovered by NEVADA HAMMOND, Sam at NEVADA45."
+74,data,83437,yard_line,55,65
+75,data,83437,play_text,"Cooper Rothe kickoff for 43 yds , Patrick Elima-Jeune return for 18 yds to the FrsSt 30","Cooper Rothe kickoff for 53 yds , Patrick Elima-Jeune return for 18 yds to the FrsSt 30"
+76,data,88435,yard_line,98,65
+77,data,88435,play_text,Samuel Sloman kickoff for 98 yds for a touchback,Samuel Sloman kickoff for 65 yds for a touchback
+78,data,90791,play_text,"Noah Iden kickoff for 9 yds , Trevon Sands return for no gain to the UConn 30 CONNECTICUT Penalty, unsportsmanlike conduct off-setting ( Yards) to the UConn 39","IDEN, Noah kickoff 9 yards to the UCONN39, SANDS, Trevon return 0 yards to the UCONN39, PENALTY USF unsportsmanlike conduct off-setting, PENALTY UCONN unsportsmanlike conduct off-setting."
+79,data,96982,yard_line,25,65
+80,data,96982,play_text,"Shawn Davis kickoff for 64 yds , Deshawn McClease return for 24 yds to the VATECH 41 GEORGIA TECH Penalty, Defensive Offside (Juanyeh Thomas) to the VTech 30","Shawn Davis kickoff 64 yards to the VT1, McClease, D return 24 yards to the VT25 (Kaleb Oliver), PENALTY GT offside 5 yards to the VT30, 1st and 10, VT ball on VT30."
+81,data,99059,yard_line,27,35
+0,data,101606,play_text,"Kaden Keon kickoff for 35 yds , Deltron Sands return for 5 yds to the Akron 7 Deltron Sands fumbled, forced by Troy Brown, recovered by Akron Bubba Arslanian , return to the 50 yard line AKRON Penalty, Offensive holding (7 Yards) to the Akron 7","KEON, Kaden kickoff 35 yards to the AKRON15, SANDS, Deltron return 5 yards to the AKRON20, fumble forced by BROWN, Troy, fumble by SANDS, Deltron recovered by AKRON ARSLANIAN, B. at AKRON14, PENALTY AKRON holding 7 yards to the AKRON7, 1st and 10, AKRON ball on AKRON7."
+82,data,109467,yard_line,45,65
+83,data,109467,play_text,"Corey McCullough kickoff for 10 yds ALCORN ST Penalty, illegal kicking (Corey McCullough) to the NMxSt 40","McCullough, C. kickoff 30 yards to the NMSU35, out-of-bounds, PENALTY ALCN illegal kicking (McCullough, C.) 5 yards to the NMSU40, 1st and 10, NMSU ball on NMSU40."
+84,data,109725,yard_line,84,65
+85,data,109725,play_text,"Austin Laszewski kickoff for 79 yds , Austin Maloney return for 17 yds to the FlaIn 22","Austin Laszewski kickoff for 60 yds , Austin Maloney return for 17 yds to the FlaIn 22"
+86,data,112937,play_text,"Damon Foncham kickoff for 67 yds , Tra Minter return for 22 yds to the ARKST 48 SOUTH ALABAMA Penalty, HL (10 Yards) to the SAlab 15","Foncham, Damon kickoff 67 yards to the USA3, Minter, Tra return 22 yards to the USA25, clock 00:06, PENALTY USA HL (Flenord, Davyn) 10 yards to the USA15, 1st and 10, USA ball on USA15."
+88,data,115383,play_text,"kickoff for 63 yds , Jashaun Corbin return for 36 yds to the TexAM 38","Luke Logan kickoff 63 yards to the TAMU2, Jashaun Corbin return 36 yards to the TAMU38 (C.J. Miller)."
+89,data,115383,yard_line,5,65
+90,data,115383,offense,Texas A&M,Ole Miss
+91,data,115383,defense,Ole Miss,Texas A&M
+92,data,119402,yard_line,75,65
+93,data,119402,play_text,"Alex Probert kickoff for 65 yds , Joe Reed return for 90 yds for a TD (Brian Delaney KICK)","Alex Probert kickoff for 55 yds , Joe Reed return for 90 yds for a TD (Brian Delaney KICK)"
+94,data,122227,yard_line,30,35
+95,data,122227,play_text,Zachary Block kickoff for 70 yds for a touchback,Zachary Block kickoff for 65 yds for a touchback
+96,data,122930,play_type,Kickoff,Punt
+97,data,122930,play_text,"Adam Mitcheson kickoff for 23 yds, downed at the KntSt 44","Adam Mitcheson punt for 23 yds, downed at the KntSt 44"
+98,data,123253,yard_line,78,35
+99,data,123253,play_text,"Andrew Gantz kickoff for 56 yds , Ronnie Jones return for 13 yds to the Toled 48 TOLEDO Penalty, Offensive Holding (10 Yards) to the Toled 12","GANTZ, Andrew kickoff 56 yards to the TOLEDO9, JONES, Ronnie return 13 yards to the TOLEDO22 (KENNEDY, Michae), PENALTY TOLEDO holding 10 yards to the TOLEDO12, 1st and 10, TOLEDO ball on TOLEDO12."
+101,data,126953,yard_line,78,65
+102,data,133678,yard_line,24,65
+103,data,133678,play_text,"Ryan Jones kickoff for 55 yds , Adrian Killins Jr. return for 14 yds to the UCF 49 UCF Penalty, Offensive Holding (10 Yards) to the UCF 14","JONES, Ryan kickoff 55 yards to the UCF10, KILLINS, Adrian return 14 yards to the UCF24 (DUBLANKO, Joel), PENALTY UCF holding (PAYTON, Tristan) 10 yards to the UCF14, 1st and 10, UCF ball on UCF14."
+104,data,145613,yard_line,77,65
+105,data,145613,play_text,"Ryan Rimmler kickoff for 65 yds , Maurice Thomas return for 30 yds to the MiaOh 42","Ryan Rimmler kickoff for 53 yds , Maurice Thomas return for 30 yds to the MiaOh 42"
+107,data,152577,yard_line,25,65
+108,data,152588,play_text,"Jake Stone kickoff for 55 yds , Keion Davis return for 20 yds to the SOUFLA 45 MARSHALL Penalty, Offensive Holding (Xavier Gaines) to the Marsh 20","STONE, Jake kickoff 55 yards to the MAR10, DAVIS, Keion return 20 yards to the MAR30 (STONE, Jake), PENALTY MAR holding 10 yards to the MAR20, 1st and 10, MAR ball on MAR20."
+109,data,152588,yard_line,70,35

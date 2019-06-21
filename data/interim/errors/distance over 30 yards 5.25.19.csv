@@ -1,0 +1,41 @@
+,data,index,column,old,new
+0,data,3963,play_text,"Tim Zaleski punt for 41 yds , Kyle Sweet returns for a loss of 1 yard to the WshSt 18 WASHINGTON ST Penalty, illegal block (10 Yards) to the WshSt 29","ZALESKI, Tim punt 41 yards to the WSU40, Sweet, Kyle return -1 yards to the WSU39 (MAYFIELD, Tyree), PENALTY WSU illegal block 10 yards to the WSU29, 1st and 10, WSU ball on WSU29."
+1,data,34055,play_type,Punt,Kickoff
+2,data,34055,play_text,"Jake Stone punt for 53 yds , Carlos Sandy returns for 23 yds to the ILLINOIS 42 ILLINOIS Penalty, unsportsmanlike conduct (Ayo Shogbonyo) to the Illin 20","STONE, Jake kickoff 53 yards to the ILL12, Sandy,Carlos return 23 yards to the ILL35 (ROBERTS, Nick), PENALTY ILL unsportsmanlike conduct (Shogbonyo,Ayo) 15 yards to the ILL20, 1st and 10, ILL ball on ILL20."
+3,data,81737,offense,Toledo,Eastern Michigan
+4,data,81737,defense,Eastern Michigan,Toledo
+5,data,81737,offense_score,20,28
+6,data,81737,defense_score,28,26
+7,data,81737,distance,44,10
+8,data,81737,yards_gained,2,-2
+9,data,81737,play_text,TEAM run for 2 yds to the EMich 42,TEAM rush for loss of 2 yards to the EMU42.
+10,data,81757,distance,93,8
+11,data,81758,distance,86,1
+12,data,81758,play_text,Davon Tucker run for 6 yds to the WMich 20,"TUCKER, DAVON rush for 6 yards to the WMU20, 1ST DOWN WMU "
+13,data,81759,down,4,1
+14,data,81759,distance,80,10
+15,data,81759,play_text,Jon Wassink pass complete to Keishawn Watson for 11 yds to the WMich 31,"WASSINK, JON pass complete to WATSON, K for 11 yards to the WMU31, 1ST DOWN WMU"
+16,data,99336,down,2,1
+17,data,99336,distance,39,10
+18,data,99337,down,3,2
+19,data,99337,distance,39,10
+20,data,112815,play_type,Punt,Kickoff
+21,data,112815,play_text,"Charles Ouverson punt for 47 yds, punt out-of-bounds at the CCaro 44 , Thomas Hennigan returns for 23 yds to the CCaro 44","Ouverson, C. kickoff 47 yards to the APP33, Hennigan, T. return 23 yards to the CCU44, out-of-bounds (Darboe, J.)"
+22,data,119541,play_text,"Sam Ehlinger pass complete to Lil'Jordan Humphrey for 7 yds to the TexTc 27 for a 1ST down TEXAS TECH Penalty, personal foul (14 Yards) to the TexTc 13 for a 1ST down","Sam Ehlinger pass complete to Lil'J Humphrey for 7 yards to the TTU27 (Jeffers, Riko), PENALTY TTU personal foul (Smith, Desmon) 14 yards to the TTU13, 1ST DOWN UT."
+23,data,121241,play_text,"Nick Rice punt for 65 yds , DeAndre Torrey returns for 28 yds to the NoTex 28","RICE, Nick kickoff 65 yards to the UNT0, TORREY, DeAndre return 28 yards to the UNT28."
+24,data,121241,play_type,Punt,Kickoff
+25,data,131816,distance,61,15
+26,data,131816,yard_line,73,27
+27,data,131816,play_text,Jack Coan pass complete to Danny Davis III for 55 yds to the Prdue 18,"Coan, Jack pass complete to Davis, Danny for 9 yards to the PUR18, out-of-bounds (Blackmon)"
+28,data,131816,yards_gained,55,9
+29,data,135501,play_text,"Jared Porter punt for 65 yds , Marcel Murray returns for 23 yds to the ArkSt 23","Porter, Jared kickoff 65 yards to the ASU0, Murray, Marcel return 23 yards to the ASU23 (Connell, Floyd)."
+30,data,135501,play_type,Punt,Kickoff
+31,data,99335,yard_line,27,73
+32,data,99336,yard_line,56,44
+33,data,99337,yard_line,56,44
+34,data,99338,yard_line,56,44
+35,data,99339,yard_line,56,44
+36,data,99335,play_text,Josh Adkins pass complete to Jason Huntley for a loss of 29 yards to the NMxSt 44,"Adkins, Josh PASS COMPLETE IN THE FLAT pass complete to Huntley, Jason for 29 yards to the TXST44, 1ST DOWN NMSU (Griffin,Frankie)."
+37,data,99339,play_text,"Adkins, Josh sideline pass incomplete to Holebrook Jr., Shea (Morris,Jarron), PENALTY TXST pass interference (Aragon,Blake) 14 yards to the TXST42, 1ST DOWN NMSU, NO PLAY.","Adkins, Josh sideline pass incomplete to Holebrook Jr., Shea (Morris,Jarron), PENALTY TXST pass interference (Aragon,Blake) 2 yards to the TXST42, 1ST DOWN NMSU, NO PLAY."
+38,data,131815,play_text,"WISCONSIN Penalty, false start (Logan Bruss) to the Wisc 27","PENALTY WIS false start (Bruss, Logan) 5 yards to the PUR27."
+39,data,131815,yards_gained,-51,-5
